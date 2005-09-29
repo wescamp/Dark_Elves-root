@@ -1,0 +1,347 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wescamp-i 18n\n"
+"Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
+"POT-Creation-Date: 2005-09-29 22:08+0200\n"
+"PO-Revision-Date: 2005-09-29 22:08+0200\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2);\n"
+
+#: Dark_Elves.cfg:9
+msgid "A New Threat"
+msgstr ""
+
+#: Dark_Elves/units/Dark_Elf_Fighter.cfg:4 Dark_Elves.cfg:17
+msgid "Dark Elf Fighter"
+msgstr ""
+
+#: Dark_Elves.cfg:17
+msgid "(easiest)"
+msgstr ""
+
+#: Dark_Elves/units/Dark_Elf_Warrior.cfg:4 Dark_Elves.cfg:18
+msgid "Dark Elf Warrior"
+msgstr ""
+
+#: Dark_Elves.cfg:19
+msgid "(hardest)"
+msgstr ""
+
+#: Dark_Elves/units/Dark_Elf_Corsair.cfg:4 Dark_Elves.cfg:19
+msgid "Dark Elf Corsair"
+msgstr ""
+
+#: Dark_Elves.cfg:21
+msgid "Defend the Caves against the Dwarvish Invasion."
+msgstr ""
+
+#: Dark_Elves/units/Dark_Elf_Captain.cfg:4
+msgid "Dark Elf Captain"
+msgstr ""
+
+#: Dark_Elves/units/Dark_Elf_Marshal.cfg:19
+#: Dark_Elves/units/Dark_Elf_Captain.cfg:19
+msgid "leadership"
+msgstr ""
+
+#: Dark_Elves/units/Dark_Elf_Captain.cfg:38
+msgid ""
+"These Elves have been an example to their fellow soldiers, and have gained "
+"the rank of Captain. Although they can never become Lords, they still strive "
+"to do their best to defend the Matron Mother with their swords and short "
+"spears."
+msgstr ""
+
+#: Dark_Elves/units/Dark_Elf_Corsair.cfg:56
+#: Dark_Elves/units/Dark_Elf_Marshal.cfg:58
+#: Dark_Elves/units/Dark_Elf_Warrior.cfg:56
+#: Dark_Elves/units/Dark_Elf_Captain.cfg:58
+#: Dark_Elves/units/Dark_Elf_Fighter.cfg:56
+msgid "sword"
+msgstr ""
+
+#: Dark_Elves/units/Dark_Elf_Corsair.cfg:57
+#: Dark_Elves/units/Dark_Elf_Stalker.cfg:58
+#: Dark_Elves/units/Dark_Elf_Marshal.cfg:59
+#: Dark_Elves/units/Dark_Elf_Lizard_Master.cfg:62
+#: Dark_Elves/units/Dark_Elf_Warrior.cfg:57
+#: Dark_Elves/units/Dark_Elf_Hunter.cfg:57
+#: Dark_Elves/units/Dark_Elf_Lizard_Rider.cfg:62
+#: Dark_Elves/units/Dark_Elf_Captain.cfg:59
+#: Dark_Elves/units/Dark_Elf_Shadow.cfg:58
+#: Dark_Elves/units/Dark_Elf_Fighter.cfg:57
+msgid "blade"
+msgstr ""
+
+#: Dark_Elves/units/Dark_Elf_Marshal.cfg:79
+#: Dark_Elves/units/Dark_Elf_Marshal.cfg:100
+#: Dark_Elves/units/Dark_Elf_Captain.cfg:79
+msgid "spear"
+msgstr ""
+
+#: Dark_Elves/units/Dark_Elf_Stalker.cfg:79
+#: Dark_Elves/units/Dark_Elf_Marshal.cfg:80
+#: Dark_Elves/units/Dark_Elf_Marshal.cfg:101
+#: Dark_Elves/units/Dark_Elf_Lizard_Master.cfg:40
+#: Dark_Elves/units/Dark_Elf_Hunter.cfg:78
+#: Dark_Elves/units/Dark_Elf_Lizard_Rider.cfg:40
+#: Dark_Elves/units/Dark_Elf_Captain.cfg:80
+#: Dark_Elves/units/Dark_Elf_Shadow.cfg:79
+msgid "pierce"
+msgstr ""
+
+#: Dark_Elves/units/Dark_Elf_Cleric.cfg:4
+msgid "female^Dark Elf Cleric"
+msgstr ""
+
+#: Dark_Elves/units/Dark_Elf_Cleric.cfg:39
+msgid ""
+"A Cleric is adapt at both their magical abilities and the use of their "
+"maces, as the Dwarves have found out. They have the cure ability, a tool "
+"they use for their sadistic pleasure. Terribly seductive, they are both "
+"feared and admired for their beauty and cruelty."
+msgstr ""
+
+#: Dark_Elves/units/Dark_Elf_Cleric.cfg:59
+#: Dark_Elves/units/Dark_Elf_Enchantress.cfg:58
+#: Dark_Elves/units/Dark_Elf_Sorceress.cfg:59
+msgid "mace"
+msgstr ""
+
+#: Dark_Elves/units/Dark_Elf_Cleric.cfg:60
+#: Dark_Elves/units/Dark_Elf_Enchantress.cfg:59
+#: Dark_Elves/units/Dark_Elf_Sorceress.cfg:60
+msgid "impact"
+msgstr ""
+
+#: Dark_Elves/units/Dark_Elf_Sorcerer.cfg:58
+#: Dark_Elves/units/Dark_Elf_Cleric.cfg:80
+#: Dark_Elves/units/Dark_Elf_Warlock.cfg:75
+#: Dark_Elves/units/Dark_Elf_Wizard.cfg:58
+#: Dark_Elves/units/Dark_Elf_Enchantress.cfg:79
+#: Dark_Elves/units/Dark_Elf_Sorceress.cfg:80
+msgid "magic"
+msgstr ""
+
+#: Dark_Elves/units/Dark_Elf_Sorcerer.cfg:59
+#: Dark_Elves/units/Dark_Elf_Cleric.cfg:81
+#: Dark_Elves/units/Dark_Elf_Warlock.cfg:58
+#: Dark_Elves/units/Dark_Elf_Warlock.cfg:76
+#: Dark_Elves/units/Dark_Elf_Wizard.cfg:59
+#: Dark_Elves/units/Dark_Elf_Enchantress.cfg:80
+#: Dark_Elves/units/Dark_Elf_Sorceress.cfg:81
+msgid "cold"
+msgstr ""
+
+#: Dark_Elves/units/Dark_Elf_Sorcerer.cfg:60
+#: Dark_Elves/units/Dark_Elf_Cleric.cfg:82
+#: Dark_Elves/units/Dark_Elf_Warlock.cfg:77
+#: Dark_Elves/units/Dark_Elf_Wizard.cfg:60
+#: Dark_Elves/units/Dark_Elf_Enchantress.cfg:81
+#: Dark_Elves/units/Dark_Elf_Sorceress.cfg:82
+msgid "magical"
+msgstr ""
+
+#: Dark_Elves/units/Dark_Elf_Corsair.cfg:36
+msgid ""
+"No single being can stand before a Dark Elf Corsair. If you every see one, "
+"run. With they're razor sharp swords, they can splice and dice a dwarves "
+"beard."
+msgstr ""
+
+#: Dark_Elves/units/Dark_Elf_Enchantress.cfg:4
+msgid "female^Dark Elf Enchantress"
+msgstr ""
+
+#: Dark_Elves/units/Dark_Elf_Enchantress.cfg:38
+msgid ""
+"The women of the Dark Elves often join the Order of the Clerics at a very "
+"young age. They start of as an Enchantress, with limited physical and "
+"magical abilities, and have just began practicing their torture techniques. "
+"Through the guiding of the Clerics, someday they will become a mighty "
+"Sorceress."
+msgstr ""
+
+#: Dark_Elves/units/Dark_Elf_Fighter.cfg:36
+msgid ""
+"The initiates in their House army, many Fighters die because of lack of "
+"training. Dark Elves believe that only the best should have the honor of "
+"fighting for the Matron Mother."
+msgstr ""
+
+#: Dark_Elves/units/Dark_Elf_Hunter.cfg:4
+msgid "Dark Elf Hunter"
+msgstr ""
+
+#: Dark_Elves/units/Dark_Elf_Hunter.cfg:36
+msgid ""
+"Lurking in the ever dark depths of the caves, the Hunters move around with "
+"out a sound, except for the twang of their crossbows."
+msgstr ""
+
+#: Dark_Elves/units/Dark_Elf_Stalker.cfg:57
+#: Dark_Elves/units/Dark_Elf_Hunter.cfg:56
+#: Dark_Elves/units/Dark_Elf_Shadow.cfg:57
+msgid "dagger"
+msgstr ""
+
+#: Dark_Elves/units/Dark_Elf_Hunter.cfg:77
+msgid "bow"
+msgstr ""
+
+#: Dark_Elves/units/Dark_Elf_Stalker.cfg:83
+#: Dark_Elves/units/Dark_Elf_Hunter.cfg:82
+#: Dark_Elves/units/Dark_Elf_Shadow.cfg:83
+msgid "poison"
+msgstr ""
+
+#: Dark_Elves/units/Dark_Elf_Lizard_Master.cfg:4
+msgid "Dark Elf Lizard-Master"
+msgstr ""
+
+#: Dark_Elves/units/Dark_Elf_Lizard_Master.cfg:19
+msgid ""
+"Though the Lizards are not as fast as horses, they are much more powerful. "
+"Many an Dwarf has been cut in two by it's strong jaws. It would be well to "
+"recruit several of these powerful units."
+msgstr ""
+
+#: Dark_Elves/units/Dark_Elf_Lizard_Master.cfg:39
+#: Dark_Elves/units/Dark_Elf_Lizard_Rider.cfg:39
+msgid "deathlance"
+msgstr ""
+
+#: Dark_Elves/units/Dark_Elf_Lizard_Master.cfg:41
+#: Dark_Elves/units/Dark_Elf_Lizard_Rider.cfg:41
+msgid "charge"
+msgstr ""
+
+#: Dark_Elves/units/Dark_Elf_Lizard_Master.cfg:61
+#: Dark_Elves/units/Dark_Elf_Lizard_Rider.cfg:61
+msgid "bite"
+msgstr ""
+
+#: Dark_Elves/units/Dark_Elf_Lizard_Rider.cfg:4
+msgid "Dark Elf Lizard-Rider"
+msgstr ""
+
+#: Dark_Elves/units/Dark_Elf_Lizard_Rider.cfg:19
+msgid ""
+"From childhood, they have been training with their beast, feeding it, "
+"healing it, and sleeping with it. It is their duty to scout ahead into the "
+"unknown, to go where no Dark Elf has gone before. Some day, they will become "
+"Master of the Lizard."
+msgstr ""
+
+#: Dark_Elves/units/Dark_Elf_Marshal.cfg:4
+msgid "Dark Elf Marshal"
+msgstr ""
+
+#: Dark_Elves/units/Dark_Elf_Marshal.cfg:38
+msgid ""
+"These Elves have proven themselves on and off the battle field with their "
+"character and demeanor. They have earned for themselves the rank of Marshal. "
+"Although they can never become Lords, they still strive to do their best to "
+"defend the Matron Mother with their swords and short spears."
+msgstr ""
+
+#: Dark_Elves/units/Dark_Elf_Shadow.cfg:4
+msgid "Dark Elf Shadow"
+msgstr ""
+
+#: Dark_Elves/units/Dark_Elf_Stalker.cfg:13
+#: Dark_Elves/units/Dark_Elf_Shadow.cfg:13
+msgid "cavestalk"
+msgstr ""
+
+#: Dark_Elves/units/Dark_Elf_Shadow.cfg:37
+msgid ""
+"Staying hidden safe in the shadows of the caves, they will hit you when you "
+"least expect it. Despite their frailty, they can inflict great damage over "
+"time, slowly taking the life away from their prey ."
+msgstr ""
+
+#: Dark_Elves/units/Dark_Elf_Stalker.cfg:78
+#: Dark_Elves/units/Dark_Elf_Shadow.cfg:78
+msgid "crossbow"
+msgstr ""
+
+#: Dark_Elves/units/Dark_Elf_Sorcerer.cfg:4
+msgid "Dark Elf Sorcerer"
+msgstr ""
+
+#: Dark_Elves/units/Dark_Elf_Sorcerer.cfg:38
+msgid ""
+"Sorcerers are Wizards that have gone deeper into the studying of the arcane "
+"arts. Their research consumes them in a quest for more power, leading them "
+"down a path toward the dark arts practiced by the Necromancers and Lichs. "
+"Their mighty cold blast can freeze any foe that dares to cross their path."
+msgstr ""
+
+#: Dark_Elves/units/Dark_Elf_Sorceress.cfg:4
+msgid "female^Dark Elf Sorceress"
+msgstr ""
+
+#: Dark_Elves/units/Dark_Elf_Sorceress.cfg:39
+msgid ""
+"The women of the Dark Elves often join the Order of the Clerics at a very "
+"young age. These have gained the rank of Sorceress, and have nearly mastered "
+"the art of healing, torturing, and healing their captives again and again. "
+"Very soon, they will become Clerics, the terribly seductive sadistic "
+"torturers."
+msgstr ""
+
+#: Dark_Elves/units/Dark_Elf_Stalker.cfg:4
+msgid "Dark Elf Stalker"
+msgstr ""
+
+#: Dark_Elves/units/Dark_Elf_Stalker.cfg:37
+msgid ""
+"Cunning, agile warriors, the Stalkers are powerful in both the use of their "
+"daggers and crossbows. They are completely hidden in the caves, only the "
+"thud of a dead body tells you they are near."
+msgstr ""
+
+#: Dark_Elves/units/Dark_Elf_Warlock.cfg:4
+msgid "Dark Elf Warlock"
+msgstr ""
+
+#: Dark_Elves/units/Dark_Elf_Warlock.cfg:37
+msgid ""
+"The best of their kind, these Warlocks have immense power, rivaling even "
+"that of the Arch Mage. They have discovered the secrets of the dark arts, "
+"and have the power to drain life from their opponents with a single touch, "
+"and add it to their own."
+msgstr ""
+
+#: Dark_Elves/units/Dark_Elf_Warlock.cfg:57
+msgid "touch"
+msgstr ""
+
+#: Dark_Elves/units/Dark_Elf_Warlock.cfg:62
+msgid "drain"
+msgstr ""
+
+#: Dark_Elves/units/Dark_Elf_Warrior.cfg:36
+msgid ""
+"These Warriors have devoted themselves totally to mastering the use of dual "
+"weapons. With their balanced blades, they can shave a Dwarf. Only few become "
+"Corsairs."
+msgstr ""
+
+#: Dark_Elves/units/Dark_Elf_Wizard.cfg:4
+msgid "Dark Elf Wizard"
+msgstr ""
+
+#: Dark_Elves/units/Dark_Elf_Wizard.cfg:38
+msgid ""
+"Some Dark Elves prefer studying the arcane arts over close-comabt. Usually "
+"they are left to the lesser duties of the House, such as upkeep, watching "
+"the slaves, and other such things. However, in time of conflict, they can do "
+"great damage, even though they lack any training in close-combat."
+msgstr ""
