@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2005-09-29 22:08+0200\n"
-"PO-Revision-Date: 2005-09-29 22:08+0200\n"
-"Last-Translator: Automatically generated\n"
+"PO-Revision-Date: 2005-10-01 09:33-0800\n"
+"Last-Translator: nikita <dmcadmin@gmail.com>\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -14,40 +14,40 @@ msgstr ""
 
 #: Dark_Elves.cfg:9
 msgid "A New Threat"
-msgstr ""
+msgstr "Новфя Угроза"
 
 #: Dark_Elves/units/Dark_Elf_Fighter.cfg:4 Dark_Elves.cfg:17
 msgid "Dark Elf Fighter"
-msgstr ""
+msgstr "Боец Тёмных Эльфов"
 
 #: Dark_Elves.cfg:17
 msgid "(easiest)"
-msgstr ""
+msgstr "(легкий)"
 
 #: Dark_Elves/units/Dark_Elf_Warrior.cfg:4 Dark_Elves.cfg:18
 msgid "Dark Elf Warrior"
-msgstr ""
+msgstr "Воин Тёмных Эльфов"
 
 #: Dark_Elves.cfg:19
 msgid "(hardest)"
-msgstr ""
+msgstr "(Сложный)"
 
 #: Dark_Elves/units/Dark_Elf_Corsair.cfg:4 Dark_Elves.cfg:19
 msgid "Dark Elf Corsair"
-msgstr ""
+msgstr "Корсар Тёмных Эльфов"
 
 #: Dark_Elves.cfg:21
 msgid "Defend the Caves against the Dwarvish Invasion."
-msgstr ""
+msgstr "Защитите Пещеры против вторжения гномов."
 
 #: Dark_Elves/units/Dark_Elf_Captain.cfg:4
 msgid "Dark Elf Captain"
-msgstr ""
+msgstr "Капитан Тёмных Эльфов"
 
 #: Dark_Elves/units/Dark_Elf_Marshal.cfg:19
 #: Dark_Elves/units/Dark_Elf_Captain.cfg:19
 msgid "leadership"
-msgstr ""
+msgstr "лидер"
 
 #: Dark_Elves/units/Dark_Elf_Captain.cfg:38
 msgid ""
@@ -56,6 +56,9 @@ msgid ""
 "to do their best to defend the Matron Mother with their swords and short "
 "spears."
 msgstr ""
+"Эти Эльфы были примером их соратникам, и получили разряд Капитана. Хотя они "
+"никогда не могут становиться Богом, они все еще стремятся приложить все "
+"усилия, чтобы защитить Королеву их мечами и короткими копьями."
 
 #: Dark_Elves/units/Dark_Elf_Corsair.cfg:56
 #: Dark_Elves/units/Dark_Elf_Marshal.cfg:58
@@ -63,7 +66,7 @@ msgstr ""
 #: Dark_Elves/units/Dark_Elf_Captain.cfg:58
 #: Dark_Elves/units/Dark_Elf_Fighter.cfg:56
 msgid "sword"
-msgstr ""
+msgstr "меч"
 
 #: Dark_Elves/units/Dark_Elf_Corsair.cfg:57
 #: Dark_Elves/units/Dark_Elf_Stalker.cfg:58
@@ -76,13 +79,13 @@ msgstr ""
 #: Dark_Elves/units/Dark_Elf_Shadow.cfg:58
 #: Dark_Elves/units/Dark_Elf_Fighter.cfg:57
 msgid "blade"
-msgstr ""
+msgstr "клинок"
 
 #: Dark_Elves/units/Dark_Elf_Marshal.cfg:79
 #: Dark_Elves/units/Dark_Elf_Marshal.cfg:100
 #: Dark_Elves/units/Dark_Elf_Captain.cfg:79
 msgid "spear"
-msgstr ""
+msgstr "копьё"
 
 #: Dark_Elves/units/Dark_Elf_Stalker.cfg:79
 #: Dark_Elves/units/Dark_Elf_Marshal.cfg:80
@@ -93,11 +96,11 @@ msgstr ""
 #: Dark_Elves/units/Dark_Elf_Captain.cfg:80
 #: Dark_Elves/units/Dark_Elf_Shadow.cfg:79
 msgid "pierce"
-msgstr ""
+msgstr "пронзать"
 
 #: Dark_Elves/units/Dark_Elf_Cleric.cfg:4
 msgid "female^Dark Elf Cleric"
-msgstr ""
+msgstr "Причетчица Тёмных Эльфов"
 
 #: Dark_Elves/units/Dark_Elf_Cleric.cfg:39
 msgid ""
@@ -106,18 +109,22 @@ msgid ""
 "they use for their sadistic pleasure. Terribly seductive, they are both "
 "feared and admired for their beauty and cruelty."
 msgstr ""
+"Причетчица хороши и в их волшебных способностях и в использовании их булав. "
+"Они имеют способность лечения, инструмент, который они используют для их "
+"садистского удовольствия. Ужасно соблазнительные, их боятся и восхищаются их "
+"красотой и жестокостью."
 
 #: Dark_Elves/units/Dark_Elf_Cleric.cfg:59
 #: Dark_Elves/units/Dark_Elf_Enchantress.cfg:58
 #: Dark_Elves/units/Dark_Elf_Sorceress.cfg:59
 msgid "mace"
-msgstr ""
+msgstr "булава"
 
 #: Dark_Elves/units/Dark_Elf_Cleric.cfg:60
 #: Dark_Elves/units/Dark_Elf_Enchantress.cfg:59
 #: Dark_Elves/units/Dark_Elf_Sorceress.cfg:60
 msgid "impact"
-msgstr ""
+msgstr "удар"
 
 #: Dark_Elves/units/Dark_Elf_Sorcerer.cfg:58
 #: Dark_Elves/units/Dark_Elf_Cleric.cfg:80
@@ -126,7 +133,7 @@ msgstr ""
 #: Dark_Elves/units/Dark_Elf_Enchantress.cfg:79
 #: Dark_Elves/units/Dark_Elf_Sorceress.cfg:80
 msgid "magic"
-msgstr ""
+msgstr "магия"
 
 #: Dark_Elves/units/Dark_Elf_Sorcerer.cfg:59
 #: Dark_Elves/units/Dark_Elf_Cleric.cfg:81
@@ -136,7 +143,7 @@ msgstr ""
 #: Dark_Elves/units/Dark_Elf_Enchantress.cfg:80
 #: Dark_Elves/units/Dark_Elf_Sorceress.cfg:81
 msgid "cold"
-msgstr ""
+msgstr "холод"
 
 #: Dark_Elves/units/Dark_Elf_Sorcerer.cfg:60
 #: Dark_Elves/units/Dark_Elf_Cleric.cfg:82
@@ -145,7 +152,7 @@ msgstr ""
 #: Dark_Elves/units/Dark_Elf_Enchantress.cfg:81
 #: Dark_Elves/units/Dark_Elf_Sorceress.cfg:82
 msgid "magical"
-msgstr ""
+msgstr "магический"
 
 #: Dark_Elves/units/Dark_Elf_Corsair.cfg:36
 msgid ""
@@ -153,10 +160,12 @@ msgid ""
 "run. With they're razor sharp swords, they can splice and dice a dwarves "
 "beard."
 msgstr ""
+"Никакое существо не может устоять перед Корсаром. Если Вы увидети одпого, "
+"бежите. У них острые мечи, они могут разрезать многих гномов."
 
 #: Dark_Elves/units/Dark_Elf_Enchantress.cfg:4
 msgid "female^Dark Elf Enchantress"
-msgstr ""
+msgstr "Чаровница Тёмных Эльфов"
 
 #: Dark_Elves/units/Dark_Elf_Enchantress.cfg:38
 msgid ""
@@ -166,6 +175,11 @@ msgid ""
 "Through the guiding of the Clerics, someday they will become a mighty "
 "Sorceress."
 msgstr ""
+"Женщины Темных Эльфов часто присоединяются к Причетчицам в очень молодом "
+"возрасте. Они начинают как Чаровница, с ограниченными физическими и "
+"волшебными способностями, и только начанают практиковаться в их методах "
+"пытки. Через руководство Причетчиц, когда-нибудь они станут могущественной "
+"Колдуньей."
 
 #: Dark_Elves/units/Dark_Elf_Fighter.cfg:36
 msgid ""
@@ -173,36 +187,40 @@ msgid ""
 "training. Dark Elves believe that only the best should have the honor of "
 "fighting for the Matron Mother."
 msgstr ""
+"Начанающие в армии, много Бойцов умирают из-за нехватки обучения. Темные "
+"Эльфы полагают, что только лучшее должны иметь честь борьбы за Королеву."
 
 #: Dark_Elves/units/Dark_Elf_Hunter.cfg:4
 msgid "Dark Elf Hunter"
-msgstr ""
+msgstr "Охотник Тёмных Эльфов"
 
 #: Dark_Elves/units/Dark_Elf_Hunter.cfg:36
 msgid ""
 "Lurking in the ever dark depths of the caves, the Hunters move around with "
 "out a sound, except for the twang of their crossbows."
 msgstr ""
+"Скрываясь в темных глубинах пещер, Охотники двигаются вокруг тихо, за "
+"исключением протяжного звука их арбалетов."
 
 #: Dark_Elves/units/Dark_Elf_Stalker.cfg:57
 #: Dark_Elves/units/Dark_Elf_Hunter.cfg:56
 #: Dark_Elves/units/Dark_Elf_Shadow.cfg:57
 msgid "dagger"
-msgstr ""
+msgstr "кинжал"
 
 #: Dark_Elves/units/Dark_Elf_Hunter.cfg:77
 msgid "bow"
-msgstr ""
+msgstr "лук"
 
 #: Dark_Elves/units/Dark_Elf_Stalker.cfg:83
 #: Dark_Elves/units/Dark_Elf_Hunter.cfg:82
 #: Dark_Elves/units/Dark_Elf_Shadow.cfg:83
 msgid "poison"
-msgstr ""
+msgstr "яд"
 
 #: Dark_Elves/units/Dark_Elf_Lizard_Master.cfg:4
 msgid "Dark Elf Lizard-Master"
-msgstr ""
+msgstr "Mаcтер Ящерицы"
 
 #: Dark_Elves/units/Dark_Elf_Lizard_Master.cfg:19
 msgid ""
@@ -210,25 +228,28 @@ msgid ""
 "Many an Dwarf has been cut in two by it's strong jaws. It would be well to "
 "recruit several of these powerful units."
 msgstr ""
+"Хотя Ящерицы медленние лошадей, они намного более мощные. Многие гномы были "
+"разрезаны их мощными челюстюми. Было бы хорошо нанять несколько из этих "
+"мощных соединений."
 
 #: Dark_Elves/units/Dark_Elf_Lizard_Master.cfg:39
 #: Dark_Elves/units/Dark_Elf_Lizard_Rider.cfg:39
 msgid "deathlance"
-msgstr ""
+msgstr "смертельное копье"
 
 #: Dark_Elves/units/Dark_Elf_Lizard_Master.cfg:41
 #: Dark_Elves/units/Dark_Elf_Lizard_Rider.cfg:41
 msgid "charge"
-msgstr ""
+msgstr "бросок"
 
 #: Dark_Elves/units/Dark_Elf_Lizard_Master.cfg:61
 #: Dark_Elves/units/Dark_Elf_Lizard_Rider.cfg:61
 msgid "bite"
-msgstr ""
+msgstr "кусать"
 
 #: Dark_Elves/units/Dark_Elf_Lizard_Rider.cfg:4
 msgid "Dark Elf Lizard-Rider"
-msgstr ""
+msgstr " Mаcтер Ящерицы Тёмных Эльфов"
 
 #: Dark_Elves/units/Dark_Elf_Lizard_Rider.cfg:19
 msgid ""
@@ -237,10 +258,13 @@ msgid ""
 "unknown, to go where no Dark Elf has gone before. Some day, they will become "
 "Master of the Lizard."
 msgstr ""
+"С детства, они обучались с их животным, кормя его, излечивая его, и спали с "
+"ним. Их обязанность -разведка вперед в неизвестное, пойти, куда никакой "
+"Темный Эльф не пошел прежде. Однажды, они станут Мастером Ящерицы."
 
 #: Dark_Elves/units/Dark_Elf_Marshal.cfg:4
 msgid "Dark Elf Marshal"
-msgstr ""
+msgstr "Маршал Тёмных Эльфов"
 
 #: Dark_Elves/units/Dark_Elf_Marshal.cfg:38
 msgid ""
@@ -249,15 +273,19 @@ msgid ""
 "Although they can never become Lords, they still strive to do their best to "
 "defend the Matron Mother with their swords and short spears."
 msgstr ""
+"Эти Эльфы показали себя в сражениях с их характером и поведением. Они "
+"заработали для себя разряд Маршала. Хотя они никогда не могут становиться "
+"Богом, они все еще стремятся приложить все усилия, чтобы защитить Королеву "
+"их мечами и короткими копьями."
 
 #: Dark_Elves/units/Dark_Elf_Shadow.cfg:4
 msgid "Dark Elf Shadow"
-msgstr ""
+msgstr "Тень Тёмных Эльфов"
 
 #: Dark_Elves/units/Dark_Elf_Stalker.cfg:13
 #: Dark_Elves/units/Dark_Elf_Shadow.cfg:13
 msgid "cavestalk"
-msgstr ""
+msgstr "приследование"
 
 #: Dark_Elves/units/Dark_Elf_Shadow.cfg:37
 msgid ""
@@ -265,15 +293,18 @@ msgid ""
 "least expect it. Despite their frailty, they can inflict great damage over "
 "time, slowly taking the life away from their prey ."
 msgstr ""
+"Остающийся скрытыми в тенях пещер, они поразят Вас, когда Вы меньше всего "
+"ожидаете этого. Несмотря на их непрочность, они могут причинить большое "
+"повреждение в течение долгого времени, медленно убирая жизнь от их добычи."
 
 #: Dark_Elves/units/Dark_Elf_Stalker.cfg:78
 #: Dark_Elves/units/Dark_Elf_Shadow.cfg:78
 msgid "crossbow"
-msgstr ""
+msgstr "арбалет"
 
 #: Dark_Elves/units/Dark_Elf_Sorcerer.cfg:4
 msgid "Dark Elf Sorcerer"
-msgstr ""
+msgstr "Колдун Тёмных Эльфов"
 
 #: Dark_Elves/units/Dark_Elf_Sorcerer.cfg:38
 msgid ""
@@ -282,10 +313,15 @@ msgid ""
 "down a path toward the dark arts practiced by the Necromancers and Lichs. "
 "Their mighty cold blast can freeze any foe that dares to cross their path."
 msgstr ""
+"Колдуны - Волшебники, которые пошли глубже в изучение темных искусств. Их "
+"исследование потребляет их в поисках большего количества власти, ведя их "
+"вниз по дорожки к темным искусствам, осуществленными Некромантами и Личями. "
+"Их могущественный холодный взрыв может заморозить любого противника, который "
+"смеет пересекать их дорожку."
 
 #: Dark_Elves/units/Dark_Elf_Sorceress.cfg:4
 msgid "female^Dark Elf Sorceress"
-msgstr ""
+msgstr "Колдунья Тёмных Эльфов"
 
 #: Dark_Elves/units/Dark_Elf_Sorceress.cfg:39
 msgid ""
@@ -295,10 +331,14 @@ msgid ""
 "Very soon, they will become Clerics, the terribly seductive sadistic "
 "torturers."
 msgstr ""
+"Женщины Темных Эльфов часто присоединяются к Причетчицам в очень молодом "
+"возрасте. Они получили разряд Колдуньи, и почти справились с искусством "
+"заживления, мучения, и заживления их пленников снова и снова. Очень скоро, "
+"они сами станут причетчицами, ужасно соблазнительными садистскими мучителями."
 
 #: Dark_Elves/units/Dark_Elf_Stalker.cfg:4
 msgid "Dark Elf Stalker"
-msgstr ""
+msgstr "Преследователь Тёмных Эльфов"
 
 #: Dark_Elves/units/Dark_Elf_Stalker.cfg:37
 msgid ""
@@ -306,10 +346,13 @@ msgid ""
 "daggers and crossbows. They are completely hidden in the caves, only the "
 "thud of a dead body tells you they are near."
 msgstr ""
+"Хитрые и проворные воины, Преследователь мощны и в использовании их кинжалов "
+"и в арбалетах. Они полностью скрыты в пещерах, только глухой стук трупов "
+"говорит Вам, что они рядом."
 
 #: Dark_Elves/units/Dark_Elf_Warlock.cfg:4
 msgid "Dark Elf Warlock"
-msgstr ""
+msgstr "Военный Тёмных Эльфов"
 
 #: Dark_Elves/units/Dark_Elf_Warlock.cfg:37
 msgid ""
@@ -318,14 +361,17 @@ msgid ""
 "and have the power to drain life from their opponents with a single touch, "
 "and add it to their own."
 msgstr ""
+"Лучший из их вида, эти Военные имеют огромную власть, конкурируя даже с Арх-"
+"магами. Они обнаружили тайны темных искусств, и имеют власть иссушать жизнь "
+"от их противников с единственным контактом, и добавляя её к их собственной."
 
 #: Dark_Elves/units/Dark_Elf_Warlock.cfg:57
 msgid "touch"
-msgstr ""
+msgstr "прикосновение"
 
 #: Dark_Elves/units/Dark_Elf_Warlock.cfg:62
 msgid "drain"
-msgstr ""
+msgstr "осушать"
 
 #: Dark_Elves/units/Dark_Elf_Warrior.cfg:36
 msgid ""
@@ -333,10 +379,13 @@ msgid ""
 "weapons. With their balanced blades, they can shave a Dwarf. Only few become "
 "Corsairs."
 msgstr ""
+"Эти Воины посвятили себя полностью освоению с использованием двойного "
+"оружия. С их уравновешенными лезвиями, они могут брить гномов. Только "
+"немногие становятся Корсарами."
 
 #: Dark_Elves/units/Dark_Elf_Wizard.cfg:4
 msgid "Dark Elf Wizard"
-msgstr ""
+msgstr "Волшебник Тёмных Эльфов"
 
 #: Dark_Elves/units/Dark_Elf_Wizard.cfg:38
 msgid ""
@@ -345,3 +394,8 @@ msgid ""
 "the slaves, and other such things. However, in time of conflict, they can do "
 "great damage, even though they lack any training in close-combat."
 msgstr ""
+"Некоторые Темные Эльфы предпочитают изучать тёмные искусства по перед боем. "
+"Обычно их оставляют к меньшим обязанностям Дома, rfr содержания, наблюдая "
+"рабов, и другие такие вещи. Однако, во время конфликта, они могут сделать "
+"большое повреждение, даже при том, что они испытывают недостаток в любом "
+"обучении в рукопашном бою."
