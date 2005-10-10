@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2005-09-29 22:08+0200\n"
+"POT-Creation-Date: 2005-10-11 01:23+0200\n"
 "PO-Revision-Date: 2005-10-01 09:33-0800\n"
 "Last-Translator: nikita <dmcadmin@gmail.com>\n"
 "Language-Team: none\n"
@@ -39,6 +39,624 @@ msgstr "Корсар Тёмных Эльфов"
 #: Dark_Elves.cfg:21
 msgid "Defend the Caves against the Dwarvish Invasion."
 msgstr "Защитите Пещеры против вторжения гномов."
+
+#: Dark_Elves/scenarios/Beginning.cfg:5
+msgid "It's only the Beginning"
+msgstr ""
+
+#: Dark_Elves/scenarios/Beginning.cfg:10
+msgid ""
+"Deep underground evil is spreading. In the form of Elves, yet not so. A race "
+"that is called the Dark Elves by many, old wives tales most say. Yet how can "
+"old wives tales send Dwarves scurrying from their homes. And to every legend "
+"a grain of truth can be found."
+msgstr ""
+
+#: Dark_Elves/scenarios/Beginning.cfg:14
+msgid ""
+"The Dark Elves have lived in the silent blackness for years, adapting to a "
+"world into which they were cast. They added to their knowledge of the arcane "
+"arts, the dark magic. And through this they have wrought a thriving "
+"underground society. They had armies, cities, and a ruling queen. They "
+"divided into seperate houses, and thus were their lords chosen."
+msgstr ""
+
+#: Dark_Elves/scenarios/Beginning.cfg:18
+msgid ""
+"For years they have lived in silence, content to be ignored by the world of "
+"light above them, until the greed of the Dwarves drew them to send scouting "
+"parties deep into the caves. In search of gold. Greed drove them, but few "
+"returned to their great halls unscathed. Those that did return spout "
+"incoherent babble, and amongst their words were always talk of strange "
+"Clerics of the Night, torturing their chosen victims to death, only to "
+"restore them back to life."
+msgstr ""
+
+#: Dark_Elves/scenarios/Beginning.cfg:22
+msgid ""
+"The Dwarves put up with this for awhile, until the grand Dwarf Lord sent his "
+"young cousin to scout with a party. He came back, days later, alone. He was "
+"scarred and he too went on about the mysterious Clerics. So thus the Grand "
+"Dwarf Lord's anger was aroused, he amassed his house to strike down his "
+"enemies once and for all. "
+msgstr ""
+
+#: Dark_Elves/scenarios/Beginning.cfg:26
+msgid ""
+"The Queen of the Dark Elves heard tell of the Dwarves anger, and she "
+"appointed a new general to the front lines to command her troops. The "
+"glorious 10th Legion of the Night.You have been given 11 years to regain "
+"your honor, or you will be tortured to death, but not before the Clerics "
+"have practised their torturing techniques on you until they get bored. If "
+"the Dwarves don't kill you, your men will. Order is difficult to keep, and "
+"you are continually stopping fights, punishing your troops, and wishing "
+"something horrible would happen. Your watch as the guards alert you of a "
+"Dwarvish scout party heading towards the keep. You ready your men, hoping "
+"that you die in this battle......"
+msgstr ""
+
+#: Dark_Elves/scenarios/Path.cfg:30 Dark_Elves/scenarios/Hunt.cfg:34
+#: Dark_Elves/scenarios/Danger.cfg:24 Dark_Elves/scenarios/Relentless.cfg:25
+#: Dark_Elves/scenarios/Time.cfg:23 Dark_Elves/scenarios/Beginning.cfg:47
+msgid "Varish'na"
+msgstr ""
+
+#: Dark_Elves/scenarios/Beginning.cfg:63
+msgid "Trith"
+msgstr ""
+
+#: Dark_Elves/scenarios/Path.cfg:58 Dark_Elves/scenarios/Beginning.cfg:76
+msgid "Kill the Dwarves"
+msgstr ""
+
+#: Dark_Elves/scenarios/Path.cfg:66 Dark_Elves/scenarios/Hunt.cfg:65
+#: Dark_Elves/scenarios/Danger.cfg:44 Dark_Elves/scenarios/Relentless.cfg:56
+#: Dark_Elves/scenarios/Time.cfg:44 Dark_Elves/scenarios/Beginning.cfg:80
+msgid "Death of Varish'na"
+msgstr ""
+
+#: Dark_Elves/scenarios/Path.cfg:78 Dark_Elves/scenarios/Hunt.cfg:73
+#: Dark_Elves/scenarios/Danger.cfg:56 Dark_Elves/scenarios/Relentless.cfg:64
+#: Dark_Elves/scenarios/Time.cfg:56 Dark_Elves/scenarios/Beginning.cfg:84
+msgid "Turns run out"
+msgstr ""
+
+#: Dark_Elves/scenarios/Beginning.cfg:94
+msgid ""
+"Ah good, some Dwarves. Maybe they can end this living hell for me. Come men, "
+"let us kill these greedy Dwarves!"
+msgstr ""
+
+#: Dark_Elves/scenarios/Beginning.cfg:98
+msgid ""
+"Look! Elves, in caves! How did they get here? But they are coming to attack "
+"us, Hurry! Kill the Elves"
+msgstr ""
+
+#: Dark_Elves/scenarios/Beginning.cfg:114
+msgid ""
+"Accursed Dark Elf dogs, ye shall perish before this month is up. My brothers "
+"shall crush ye like an eggshell. And Dark Elf blood shall flow like water."
+msgstr ""
+
+#: Dark_Elves/scenarios/Beginning.cfg:121
+msgid ""
+"My lord, our Clerics have resurrected a Dwarf, and have discovered something "
+"terrible."
+msgstr ""
+
+#: Dark_Elves/scenarios/Beginning.cfg:125
+msgid "Go on."
+msgstr ""
+
+#: Dark_Elves/scenarios/Beginning.cfg:129
+msgid ""
+"These are but a few of a large army. They are marching to the attack, and "
+"shall be here in a few days."
+msgstr ""
+
+#: Dark_Elves/scenarios/Beginning.cfg:133
+msgid "Are they sure of this?"
+msgstr ""
+
+#: Dark_Elves/scenarios/Beginning.cfg:137
+msgid "Have they ever been wrong before?"
+msgstr ""
+
+#: Dark_Elves/scenarios/Beginning.cfg:141
+msgid ""
+"Hmm...Good point. Send our fastest Dhaeraow fighter to alert the Matron "
+"Mother We must attempt to arrest their advancement, or all of us are doomed! "
+"Make ready to abandon the keep."
+msgstr ""
+
+#: Dark_Elves/scenarios/Beginning.cfg:145
+msgid "Yeah yeah, I'm on it."
+msgstr ""
+
+#: Dark_Elves/scenarios/Beginning.cfg:149
+msgid ""
+"Show some respect, or I'll have your eyeballs pulled out of your sockets!"
+msgstr ""
+
+#: Dark_Elves/scenarios/Beginning.cfg:153
+msgid "Of...of course..m.my lord. We shall be ready to leave in an hour."
+msgstr ""
+
+#: Dark_Elves/scenarios/Path.cfg:352 Dark_Elves/scenarios/Hunt.cfg:192
+#: Dark_Elves/scenarios/Danger.cfg:157 Dark_Elves/scenarios/Relentless.cfg:139
+#: Dark_Elves/scenarios/Time.cfg:159 Dark_Elves/scenarios/Beginning.cfg:177
+msgid "No! I have failed!"
+msgstr ""
+
+#: Dark_Elves/scenarios/Danger.cfg:5
+msgid "Danger Lurks"
+msgstr ""
+
+#: Dark_Elves/scenarios/Path.cfg:44 Dark_Elves/scenarios/Danger.cfg:34
+#: Dark_Elves/scenarios/Time.cfg:33
+msgid "Dwarf"
+msgstr ""
+
+#: Dark_Elves/scenarios/Danger.cfg:40 Dark_Elves/scenarios/Time.cfg:40
+msgid "Kill the Dwarf Leader"
+msgstr ""
+
+#: Dark_Elves/scenarios/Path.cfg:70 Dark_Elves/scenarios/Hunt.cfg:69
+#: Dark_Elves/scenarios/Danger.cfg:48 Dark_Elves/scenarios/Relentless.cfg:60
+#: Dark_Elves/scenarios/Time.cfg:48
+msgid "Death of Voldel"
+msgstr ""
+
+#: Dark_Elves/scenarios/Path.cfg:74 Dark_Elves/scenarios/Danger.cfg:52
+#: Dark_Elves/scenarios/Time.cfg:52
+msgid "Death of Traya"
+msgstr ""
+
+#: Dark_Elves/scenarios/Danger.cfg:71
+msgid ""
+"The Dwarf very obstinate, but I have what we need. The advance guard is just "
+"beyond the Great Rift."
+msgstr ""
+
+#: Dark_Elves/scenarios/Danger.cfg:75
+msgid "The bridge is just ahead, and it looks like they have them guarded"
+msgstr ""
+
+#: Dark_Elves/scenarios/Danger.cfg:79
+msgid "Well then, what are we waiting for? Let's go get'em!"
+msgstr ""
+
+#: Dark_Elves/scenarios/Danger.cfg:90
+msgid "That was easy. I think they didn't expect us to survive their trap."
+msgstr ""
+
+#: Dark_Elves/scenarios/Danger.cfg:94
+msgid ""
+"Now we must choose which way to go. The cave ahead splits up. To the right "
+"is a new tunnel, and the one the Dwarves most likely came down. If I were "
+"you, I'd choose that one."
+msgstr ""
+
+#: Dark_Elves/scenarios/Danger.cfg:98
+msgid "Why?"
+msgstr ""
+
+#: Dark_Elves/scenarios/Danger.cfg:102
+msgid ""
+"No one has gone down the other one for a long time. It is said that a Dragon "
+"lives down there."
+msgstr ""
+
+#: Dark_Elves/scenarios/Danger.cfg:106
+msgid "A Dragon? Do you know for sure?"
+msgstr ""
+
+#: Dark_Elves/scenarios/Danger.cfg:110
+msgid "It is only a legend, but..."
+msgstr ""
+
+#: Dark_Elves/scenarios/Danger.cfg:114
+msgid "You're in command Varish'na. The path you choose is the own we follow."
+msgstr ""
+
+#: Dark_Elves/scenarios/Danger.cfg:116 Dark_Elves/scenarios/Danger.cfg:131
+msgid "If the Dwarves are to the left, then lets go kill some Dwarves!"
+msgstr ""
+
+#: Dark_Elves/scenarios/Danger.cfg:120 Dark_Elves/scenarios/Danger.cfg:135
+msgid "It's your chosen path. Come, let us continue"
+msgstr ""
+
+#: Dark_Elves/scenarios/Hunt.cfg:5
+msgid "Hunting the Enemy"
+msgstr ""
+
+#: Dark_Elves/scenarios/Hunt.cfg:12
+msgid "The Dark Elves Retreated..."
+msgstr ""
+
+#: Dark_Elves/scenarios/Hunt.cfg:48
+msgid "Unnamed Dwarf Leader"
+msgstr ""
+
+#: Dark_Elves/scenarios/Hunt.cfg:61
+msgid "Kill all the Dwarves"
+msgstr ""
+
+#: Dark_Elves/scenarios/Hunt.cfg:88
+msgid "Hold there! Who are you?"
+msgstr ""
+
+#: Dark_Elves/scenarios/Hunt.cfg:92
+msgid ""
+"Thank the Mother you are here! We are being besieged by Dwarves. They are "
+"pillaging our homes and killing our men. Help us please, please, please, "
+"please, pleasseee!"
+msgstr ""
+
+#: Dark_Elves/scenarios/Hunt.cfg:96
+msgid "Very well, but stop your begging before I loose my temper!"
+msgstr ""
+
+#: Dark_Elves/scenarios/Hunt.cfg:100
+msgid "Of course my lord. Others will rally to me, just visit the villages. "
+msgstr ""
+
+#: Dark_Elves/scenarios/Hunt.cfg:104
+msgid "Look! There are the Dwarves!"
+msgstr ""
+
+#: Dark_Elves/scenarios/Hunt.cfg:111
+msgid "Look! More Cave Elves! For Vladdy!"
+msgstr ""
+
+#: Dark_Elves/scenarios/Hunt.cfg:121
+msgid "Die, Dwarf scum! The Clerics will make great sport with you..."
+msgstr ""
+
+#: Dark_Elves/scenarios/Hunt.cfg:125
+msgid "*gasp* Nooooooooo!"
+msgstr ""
+
+#: Dark_Elves/scenarios/Hunt.cfg:129
+msgid "Yes, oh yes!"
+msgstr ""
+
+#: Dark_Elves/scenarios/Hunt.cfg:133
+msgid "Nooooooooo!"
+msgstr ""
+
+#: Dark_Elves/scenarios/Hunt.cfg:149
+msgid "Finally, our land is rid of these monsters!"
+msgstr ""
+
+#: Dark_Elves/scenarios/Hunt.cfg:153
+msgid ""
+"It won't last. A large army is coming this way. It's only the beginning."
+msgstr ""
+
+#: Dark_Elves/scenarios/Hunt.cfg:157
+msgid ""
+"Then I shall go with you on your quest. No one knows the caves better then I "
+"do."
+msgstr ""
+
+#: Dark_Elves/scenarios/Hunt.cfg:161
+msgid "Very well, you may join."
+msgstr ""
+
+#: Dark_Elves/scenarios/Hunt.cfg:165
+msgid "Oh! Thank you! Thank you! Thank you! Thank y..."
+msgstr ""
+
+#: Dark_Elves/scenarios/Hunt.cfg:169
+msgid "BE SILENT!"
+msgstr ""
+
+#: Dark_Elves/scenarios/Hunt.cfg:173
+msgid "...sorry."
+msgstr ""
+
+#: Dark_Elves/scenarios/Hunt.cfg:177
+msgid "Come, on-ward!"
+msgstr ""
+
+#: Dark_Elves/scenarios/Path.cfg:5
+msgid "Chosen Path"
+msgstr ""
+
+#: Dark_Elves/scenarios/Path.cfg:54
+msgid "Hold out until help arrives(turn 20)"
+msgstr ""
+
+#: Dark_Elves/scenarios/Path.cfg:62
+msgid "BONUS:Kill the dwarves before turn 20"
+msgstr ""
+
+#: Dark_Elves/scenarios/Path.cfg:107
+msgid "Okay Vondel, which way?"
+msgstr ""
+
+#: Dark_Elves/scenarios/Path.cfg:111
+msgid ""
+"It depends on where you want to go. Do you even know where the Dwarvish army "
+"is?"
+msgstr ""
+
+#: Dark_Elves/scenarios/Path.cfg:115
+msgid ""
+"No, actually not. My men won't take anyone alive, and we have no Clerics. I "
+"sent for reinforcements, but they won't arrive till later."
+msgstr ""
+
+#: Dark_Elves/scenarios/Path.cfg:119
+msgid "That's okay. I know a safe spot where we can hide and wait."
+msgstr ""
+
+#: Dark_Elves/scenarios/Path.cfg:123
+msgid ""
+"WHAT!?! Dhaeraow hide? We are soldiers of the Tenth House, we, NEVER, hide!"
+msgstr ""
+
+#: Dark_Elves/scenarios/Path.cfg:127
+msgid ""
+"You may know more about warring, but I have a few notches when it comes to "
+"hunting. The Dwarves would have scared the creatures further ahead toward "
+"us. Can't you feel it? We are surrounded by beasts, even the harmless ones "
+"are driven mad with fear. And we have no idea where the Dwarves are. We must "
+"proceed carefully."
+msgstr ""
+
+#: Dark_Elves/scenarios/Path.cfg:131
+msgid "Humph, very well. Your council is wise, lead us to this place."
+msgstr ""
+
+#: Dark_Elves/scenarios/Path.cfg:135
+msgid "It's north-east of here. Come on, this way"
+msgstr ""
+
+#: Dark_Elves/scenarios/Path.cfg:183
+msgid "Surprise!"
+msgstr ""
+
+#: Dark_Elves/scenarios/Path.cfg:187
+msgid "Now you will pay for our fallen brethren!"
+msgstr ""
+
+#: Dark_Elves/scenarios/Path.cfg:191
+msgid "It's an ambush! Hurry men! Cut them down!"
+msgstr ""
+
+#: Dark_Elves/scenarios/Path.cfg:195
+msgid "Muahhahahah!"
+msgstr ""
+
+#: Dark_Elves/scenarios/Path.cfg:199
+msgid ""
+"They round them up into the cave! Monsters in front and midgets in the back!"
+msgstr ""
+
+#: Dark_Elves/scenarios/Path.cfg:203
+msgid "Who you calling a midget!"
+msgstr ""
+
+#: Dark_Elves/scenarios/Path.cfg:216
+msgid "Traya"
+msgstr ""
+
+#: Dark_Elves/scenarios/Path.cfg:222
+msgid "They are relentless! Help better come soon or we'll be overrun!"
+msgstr ""
+
+#: Dark_Elves/scenarios/Path.cfg:226 Dark_Elves/scenarios/Path.cfg:234
+msgid "Varish'na, where are you?"
+msgstr ""
+
+#: Dark_Elves/scenarios/Path.cfg:230
+msgid "Traya? What are you doing here?"
+msgstr ""
+
+#: Dark_Elves/scenarios/Path.cfg:238
+msgid " Later, we have some Dwarves to kill. Just let me remove this wall..."
+msgstr ""
+
+#: Dark_Elves/scenarios/Path.cfg:258
+msgid "She is soo hot..."
+msgstr ""
+
+#: Dark_Elves/scenarios/Path.cfg:262
+msgid "She is also my sister."
+msgstr ""
+
+#: Dark_Elves/scenarios/Path.cfg:266
+msgid "...uhhh..."
+msgstr ""
+
+#: Dark_Elves/scenarios/Path.cfg:297
+msgid "Thank goodness Varish'na you're all right!"
+msgstr ""
+
+#: Dark_Elves/scenarios/Path.cfg:301
+msgid "Now maybe you can answer my question, why are you here?"
+msgstr ""
+
+#: Dark_Elves/scenarios/Path.cfg:305
+msgid ""
+"It was father's doing. He knew you would need all the help you can get, so "
+"he convinced them to send me with the reinforcements."
+msgstr ""
+
+#: Dark_Elves/scenarios/Path.cfg:309
+msgid "But what of the Clerics? I thought..."
+msgstr ""
+
+#: Dark_Elves/scenarios/Path.cfg:313
+msgid ""
+"It seems we both have a knack for getting into trouble. I...I was seeing "
+"Iselas."
+msgstr ""
+
+#: Dark_Elves/scenarios/Path.cfg:317
+msgid "Iselas! But I thought he was..."
+msgstr ""
+
+#: Dark_Elves/scenarios/Path.cfg:321
+msgid "Hush! This is not for outsiders to hear."
+msgstr ""
+
+#: Dark_Elves/scenarios/Path.cfg:325
+msgid ""
+"Huh? Oh, don't mind me beautiful, I don't hear anything except the pounding "
+"of my heart."
+msgstr ""
+
+#: Dark_Elves/scenarios/Path.cfg:329
+msgid "Vondel..."
+msgstr ""
+
+#: Dark_Elves/scenarios/Path.cfg:333
+msgid ""
+"Maybe we'll talk about this later Varish'na. We have more pressing matters "
+"to attend to. Come, let us continue."
+msgstr ""
+
+#: Dark_Elves/scenarios/Relentless.cfg:5
+msgid "Relentless"
+msgstr ""
+
+#: Dark_Elves/scenarios/Relentless.cfg:39
+msgid "Gomatas"
+msgstr ""
+
+#: Dark_Elves/scenarios/Relentless.cfg:52
+msgid "Kill all Dwarvish Leaders"
+msgstr ""
+
+#: Dark_Elves/scenarios/Relentless.cfg:82
+msgid ""
+"This is worse then I thought. We are only a weeks journey from home, and "
+"look at all these Dwarves!"
+msgstr ""
+
+#: Dark_Elves/scenarios/Relentless.cfg:86
+msgid ""
+"I agree, there are a lot of them. Luckily for you, I know every inch of this "
+"area. Just north of here is a small stream. A castle was built there during "
+"the First Years. It is old, but it still serves its purpose."
+msgstr ""
+
+#: Dark_Elves/scenarios/Relentless.cfg:90
+msgid "Then we must hurry, before the Dwarves overcome us!"
+msgstr ""
+
+#: Dark_Elves/scenarios/Relentless.cfg:94
+msgid "Muahhahahah! Kill the Elves!"
+msgstr ""
+
+#: Dark_Elves/scenarios/Relentless.cfg:98
+msgid "You shall all die!!"
+msgstr ""
+
+#: Dark_Elves/scenarios/Relentless.cfg:111
+msgid "There must be more of them, we have yet to hit the advance guard."
+msgstr ""
+
+#: Dark_Elves/scenarios/Relentless.cfg:115
+msgid ""
+"Let them come. We will rip them to shreds. Hunting the enemy is my specialty!"
+msgstr ""
+
+#: Dark_Elves/scenarios/Relentless.cfg:119
+msgid ""
+"We must proceed carefully. The fugitives will have spread word of our "
+"coming, and we may be ambushed."
+msgstr ""
+
+#: Dark_Elves/scenarios/Relentless.cfg:123
+msgid ""
+"The tunnels ahead have not been traversed for quite some time now. That is "
+"where I would often go to do my hunting, the larger creatures reside there."
+msgstr ""
+
+#: Dark_Elves/scenarios/Relentless.cfg:127
+msgid ""
+"Great, Dwarves and monsters. Well, we don't seem to have much choice. Let us "
+"keep going."
+msgstr ""
+
+#: Dark_Elves/scenarios/Time.cfg:5
+msgid "Just in Time"
+msgstr ""
+
+#: Dark_Elves/scenarios/Time.cfg:34
+msgid "Another Dwarf"
+msgstr ""
+
+#: Dark_Elves/scenarios/Time.cfg:71
+msgid "Ahh, there are the Dwarves."
+msgstr ""
+
+#: Dark_Elves/scenarios/Time.cfg:75
+msgid "There are a lot of them, but I don't think this is the main force."
+msgstr ""
+
+#: Dark_Elves/scenarios/Time.cfg:79
+msgid ""
+"It doesn't mater, they are Dwarves in Dhaeraow land, and must be killed!"
+msgstr ""
+
+#: Dark_Elves/scenarios/Time.cfg:83
+msgid "Give it your best shot, foul Elves!"
+msgstr ""
+
+#: Dark_Elves/scenarios/Time.cfg:87
+msgid "Eat my steel!"
+msgstr ""
+
+#: Dark_Elves/scenarios/Time.cfg:98
+msgid "What? Why am I still alive?"
+msgstr ""
+
+#: Dark_Elves/scenarios/Time.cfg:102
+msgid ""
+"Because I preserved your life. You're too wonderful a Dwarf to let die. Such "
+"big muscles, such a big..."
+msgstr ""
+
+#: Dark_Elves/scenarios/Time.cfg:106
+msgid "Forget it. I know what you want! I'll kill myself first!"
+msgstr ""
+
+#: Dark_Elves/scenarios/Time.cfg:110
+msgid "If you tell me your secrets I'll tell you mine."
+msgstr ""
+
+#: Dark_Elves/scenarios/Time.cfg:114
+msgid ""
+"Hah! Think I'd fall for that old trick! With your soft white skin, silky "
+"black hair, smooth lips, and beautiful br...No! I'll tell you nothing!"
+msgstr ""
+
+#: Dark_Elves/scenarios/Time.cfg:118
+msgid "Oh well, guess I'll have to do this the hard way."
+msgstr ""
+
+#: Dark_Elves/scenarios/Time.cfg:122
+msgid "Do you ever wish she wasn't your sister so you could, you know..."
+msgstr ""
+
+#: Dark_Elves/scenarios/Time.cfg:126
+msgid "You're disgusting Vondel."
+msgstr ""
+
+#: Dark_Elves/scenarios/Time.cfg:139
+msgid "Is *cough* is that...th..the best you *cough* c.c.can do?"
+msgstr ""
+
+#: Dark_Elves/scenarios/Time.cfg:149
+msgid "Urg!!!"
+msgstr ""
 
 #: Dark_Elves/units/Dark_Elf_Captain.cfg:4
 msgid "Dark Elf Captain"
