@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2005-10-11 01:23+0200\n"
+"POT-Creation-Date: 2005-10-11 11:34+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -130,7 +130,7 @@ msgstr ""
 msgid "Of...of course..m.my lord. We shall be ready to leave in an hour."
 msgstr ""
 
-#: ./Dark_Elves/scenarios/Path.cfg:352 ./Dark_Elves/scenarios/Hunt.cfg:192 ./Dark_Elves/scenarios/Danger.cfg:157 ./Dark_Elves/scenarios/Relentless.cfg:139 ./Dark_Elves/scenarios/Time.cfg:159 ./Dark_Elves/scenarios/Beginning.cfg:177
+#: ./Dark_Elves/scenarios/Path.cfg:301 ./Dark_Elves/scenarios/Hunt.cfg:192 ./Dark_Elves/scenarios/Danger.cfg:157 ./Dark_Elves/scenarios/Relentless.cfg:139 ./Dark_Elves/scenarios/Time.cfg:159 ./Dark_Elves/scenarios/Beginning.cfg:177
 msgid "No! I have failed!"
 msgstr ""
 
@@ -334,99 +334,75 @@ msgstr ""
 msgid "It's north-east of here. Come on, this way"
 msgstr ""
 
-#: ./Dark_Elves/scenarios/Path.cfg:183
-msgid "Surprise!"
-msgstr ""
-
-#: ./Dark_Elves/scenarios/Path.cfg:187
-msgid "Now you will pay for our fallen brethren!"
-msgstr ""
-
-#: ./Dark_Elves/scenarios/Path.cfg:191
-msgid "It's an ambush! Hurry men! Cut them down!"
-msgstr ""
-
-#: ./Dark_Elves/scenarios/Path.cfg:195
-msgid "Muahhahahah!"
-msgstr ""
-
-#: ./Dark_Elves/scenarios/Path.cfg:199
-msgid "They round them up into the cave! Monsters in front and midgets in the back!"
-msgstr ""
-
-#: ./Dark_Elves/scenarios/Path.cfg:203
-msgid "Who you calling a midget!"
-msgstr ""
-
-#: ./Dark_Elves/scenarios/Path.cfg:216
+#: ./Dark_Elves/scenarios/Path.cfg:165
 msgid "Traya"
 msgstr ""
 
-#: ./Dark_Elves/scenarios/Path.cfg:222
+#: ./Dark_Elves/scenarios/Path.cfg:171
 msgid "They are relentless! Help better come soon or we'll be overrun!"
 msgstr ""
 
-#: ./Dark_Elves/scenarios/Path.cfg:226 ./Dark_Elves/scenarios/Path.cfg:234
+#: ./Dark_Elves/scenarios/Path.cfg:175 ./Dark_Elves/scenarios/Path.cfg:183
 msgid "Varish'na, where are you?"
 msgstr ""
 
-#: ./Dark_Elves/scenarios/Path.cfg:230
+#: ./Dark_Elves/scenarios/Path.cfg:179
 msgid "Traya? What are you doing here?"
 msgstr ""
 
-#: ./Dark_Elves/scenarios/Path.cfg:238
+#: ./Dark_Elves/scenarios/Path.cfg:187
 msgid " Later, we have some Dwarves to kill. Just let me remove this wall..."
 msgstr ""
 
-#: ./Dark_Elves/scenarios/Path.cfg:258
+#: ./Dark_Elves/scenarios/Path.cfg:207
 msgid "She is soo hot..."
 msgstr ""
 
-#: ./Dark_Elves/scenarios/Path.cfg:262
+#: ./Dark_Elves/scenarios/Path.cfg:211
 msgid "She is also my sister."
 msgstr ""
 
-#: ./Dark_Elves/scenarios/Path.cfg:266
+#: ./Dark_Elves/scenarios/Path.cfg:215
 msgid "...uhhh..."
 msgstr ""
 
-#: ./Dark_Elves/scenarios/Path.cfg:297
+#: ./Dark_Elves/scenarios/Path.cfg:246
 msgid "Thank goodness Varish'na you're all right!"
 msgstr ""
 
-#: ./Dark_Elves/scenarios/Path.cfg:301
+#: ./Dark_Elves/scenarios/Path.cfg:250
 msgid "Now maybe you can answer my question, why are you here?"
 msgstr ""
 
-#: ./Dark_Elves/scenarios/Path.cfg:305
+#: ./Dark_Elves/scenarios/Path.cfg:254
 msgid "It was father's doing. He knew you would need all the help you can get, so he convinced them to send me with the reinforcements."
 msgstr ""
 
-#: ./Dark_Elves/scenarios/Path.cfg:309
+#: ./Dark_Elves/scenarios/Path.cfg:258
 msgid "But what of the Clerics? I thought..."
 msgstr ""
 
-#: ./Dark_Elves/scenarios/Path.cfg:313
+#: ./Dark_Elves/scenarios/Path.cfg:262
 msgid "It seems we both have a knack for getting into trouble. I...I was seeing Iselas."
 msgstr ""
 
-#: ./Dark_Elves/scenarios/Path.cfg:317
+#: ./Dark_Elves/scenarios/Path.cfg:266
 msgid "Iselas! But I thought he was..."
 msgstr ""
 
-#: ./Dark_Elves/scenarios/Path.cfg:321
+#: ./Dark_Elves/scenarios/Path.cfg:270
 msgid "Hush! This is not for outsiders to hear."
 msgstr ""
 
-#: ./Dark_Elves/scenarios/Path.cfg:325
+#: ./Dark_Elves/scenarios/Path.cfg:274
 msgid "Huh? Oh, don't mind me beautiful, I don't hear anything except the pounding of my heart."
 msgstr ""
 
-#: ./Dark_Elves/scenarios/Path.cfg:329
+#: ./Dark_Elves/scenarios/Path.cfg:278
 msgid "Vondel..."
 msgstr ""
 
-#: ./Dark_Elves/scenarios/Path.cfg:333
+#: ./Dark_Elves/scenarios/Path.cfg:282
 msgid "Maybe we'll talk about this later Varish'na. We have more pressing matters to attend to. Come, let us continue."
 msgstr ""
 
