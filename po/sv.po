@@ -3,41 +3,42 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2005-10-11 11:34+0200\n"
-"PO-Revision-Date: 2005-09-29 22:08+0200\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2005-10-04 21:49+0200\n"
+"Last-Translator: Stefan Bergström (tephlon)\n"
+"Language-Team: Swedish\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms:  nplurals=2; plural=(n != 1);\n"
+"X-Generator: KBabel 1.10.2\n"
 
 #: Dark_Elves.cfg:9
 msgid "A New Threat"
-msgstr ""
+msgstr "Ett Nytt Hot"
 
 #: Dark_Elves/units/Dark_Elf_Fighter.cfg:4 Dark_Elves.cfg:17
 msgid "Dark Elf Fighter"
-msgstr ""
+msgstr "Mörkalvskämpe"
 
 #: Dark_Elves.cfg:17
 msgid "(easiest)"
-msgstr ""
+msgstr "(lättast)"
 
 #: Dark_Elves/units/Dark_Elf_Warrior.cfg:4 Dark_Elves.cfg:18
 msgid "Dark Elf Warrior"
-msgstr ""
+msgstr "Mörkalvskrigare"
 
 #: Dark_Elves.cfg:19
 msgid "(hardest)"
-msgstr ""
+msgstr "(svårast)"
 
 #: Dark_Elves/units/Dark_Elf_Corsair.cfg:4 Dark_Elves.cfg:19
 msgid "Dark Elf Corsair"
-msgstr ""
+msgstr "Mörkalvsrövare"
 
 #: Dark_Elves.cfg:21
 msgid "Defend the Caves against the Dwarvish Invasion."
-msgstr ""
+msgstr "Försvara grottorna mot dvärginvasionen"
 
 #: Dark_Elves/scenarios/Beginning.cfg:5
 msgid "It's only the Beginning"
@@ -634,12 +635,12 @@ msgstr ""
 
 #: Dark_Elves/units/Dark_Elf_Captain.cfg:4
 msgid "Dark Elf Captain"
-msgstr ""
+msgstr "Mörkalvskapten"
 
 #: Dark_Elves/units/Dark_Elf_Marshal.cfg:19
 #: Dark_Elves/units/Dark_Elf_Captain.cfg:19
 msgid "leadership"
-msgstr ""
+msgstr "ledarskap"
 
 #: Dark_Elves/units/Dark_Elf_Captain.cfg:38
 msgid ""
@@ -655,7 +656,7 @@ msgstr ""
 #: Dark_Elves/units/Dark_Elf_Captain.cfg:58
 #: Dark_Elves/units/Dark_Elf_Fighter.cfg:56
 msgid "sword"
-msgstr ""
+msgstr "svärd"
 
 #: Dark_Elves/units/Dark_Elf_Corsair.cfg:57
 #: Dark_Elves/units/Dark_Elf_Stalker.cfg:58
@@ -668,13 +669,13 @@ msgstr ""
 #: Dark_Elves/units/Dark_Elf_Shadow.cfg:58
 #: Dark_Elves/units/Dark_Elf_Fighter.cfg:57
 msgid "blade"
-msgstr ""
+msgstr "hugg"
 
 #: Dark_Elves/units/Dark_Elf_Marshal.cfg:79
 #: Dark_Elves/units/Dark_Elf_Marshal.cfg:100
 #: Dark_Elves/units/Dark_Elf_Captain.cfg:79
 msgid "spear"
-msgstr ""
+msgstr "spjut"
 
 #: Dark_Elves/units/Dark_Elf_Stalker.cfg:79
 #: Dark_Elves/units/Dark_Elf_Marshal.cfg:80
@@ -685,11 +686,11 @@ msgstr ""
 #: Dark_Elves/units/Dark_Elf_Captain.cfg:80
 #: Dark_Elves/units/Dark_Elf_Shadow.cfg:79
 msgid "pierce"
-msgstr ""
+msgstr "spets"
 
 #: Dark_Elves/units/Dark_Elf_Cleric.cfg:4
 msgid "female^Dark Elf Cleric"
-msgstr ""
+msgstr "Mörkalvsprästinna"
 
 #: Dark_Elves/units/Dark_Elf_Cleric.cfg:39
 msgid ""
@@ -703,13 +704,13 @@ msgstr ""
 #: Dark_Elves/units/Dark_Elf_Enchantress.cfg:58
 #: Dark_Elves/units/Dark_Elf_Sorceress.cfg:59
 msgid "mace"
-msgstr ""
+msgstr "spikklubba"
 
 #: Dark_Elves/units/Dark_Elf_Cleric.cfg:60
 #: Dark_Elves/units/Dark_Elf_Enchantress.cfg:59
 #: Dark_Elves/units/Dark_Elf_Sorceress.cfg:60
 msgid "impact"
-msgstr ""
+msgstr "kross"
 
 #: Dark_Elves/units/Dark_Elf_Sorcerer.cfg:58
 #: Dark_Elves/units/Dark_Elf_Cleric.cfg:80
@@ -718,7 +719,7 @@ msgstr ""
 #: Dark_Elves/units/Dark_Elf_Enchantress.cfg:79
 #: Dark_Elves/units/Dark_Elf_Sorceress.cfg:80
 msgid "magic"
-msgstr ""
+msgstr "magi"
 
 #: Dark_Elves/units/Dark_Elf_Sorcerer.cfg:59
 #: Dark_Elves/units/Dark_Elf_Cleric.cfg:81
@@ -728,7 +729,7 @@ msgstr ""
 #: Dark_Elves/units/Dark_Elf_Enchantress.cfg:80
 #: Dark_Elves/units/Dark_Elf_Sorceress.cfg:81
 msgid "cold"
-msgstr ""
+msgstr "frost"
 
 #: Dark_Elves/units/Dark_Elf_Sorcerer.cfg:60
 #: Dark_Elves/units/Dark_Elf_Cleric.cfg:82
@@ -737,7 +738,7 @@ msgstr ""
 #: Dark_Elves/units/Dark_Elf_Enchantress.cfg:81
 #: Dark_Elves/units/Dark_Elf_Sorceress.cfg:82
 msgid "magical"
-msgstr ""
+msgstr "magisk"
 
 #: Dark_Elves/units/Dark_Elf_Corsair.cfg:36
 msgid ""
@@ -748,7 +749,7 @@ msgstr ""
 
 #: Dark_Elves/units/Dark_Elf_Enchantress.cfg:4
 msgid "female^Dark Elf Enchantress"
-msgstr ""
+msgstr "Mörkalvshuldra"
 
 #: Dark_Elves/units/Dark_Elf_Enchantress.cfg:38
 msgid ""
@@ -768,7 +769,7 @@ msgstr ""
 
 #: Dark_Elves/units/Dark_Elf_Hunter.cfg:4
 msgid "Dark Elf Hunter"
-msgstr ""
+msgstr "Mörkalvsjägare"
 
 #: Dark_Elves/units/Dark_Elf_Hunter.cfg:36
 msgid ""
@@ -780,21 +781,21 @@ msgstr ""
 #: Dark_Elves/units/Dark_Elf_Hunter.cfg:56
 #: Dark_Elves/units/Dark_Elf_Shadow.cfg:57
 msgid "dagger"
-msgstr ""
+msgstr "dolk"
 
 #: Dark_Elves/units/Dark_Elf_Hunter.cfg:77
 msgid "bow"
-msgstr ""
+msgstr "båge"
 
 #: Dark_Elves/units/Dark_Elf_Stalker.cfg:83
 #: Dark_Elves/units/Dark_Elf_Hunter.cfg:82
 #: Dark_Elves/units/Dark_Elf_Shadow.cfg:83
 msgid "poison"
-msgstr ""
+msgstr "gift"
 
 #: Dark_Elves/units/Dark_Elf_Lizard_Master.cfg:4
 msgid "Dark Elf Lizard-Master"
-msgstr ""
+msgstr "Mörkalvsödlemästare"
 
 #: Dark_Elves/units/Dark_Elf_Lizard_Master.cfg:19
 msgid ""
@@ -806,21 +807,21 @@ msgstr ""
 #: Dark_Elves/units/Dark_Elf_Lizard_Master.cfg:39
 #: Dark_Elves/units/Dark_Elf_Lizard_Rider.cfg:39
 msgid "deathlance"
-msgstr ""
+msgstr "dödslans"
 
 #: Dark_Elves/units/Dark_Elf_Lizard_Master.cfg:41
 #: Dark_Elves/units/Dark_Elf_Lizard_Rider.cfg:41
 msgid "charge"
-msgstr ""
+msgstr "storma"
 
 #: Dark_Elves/units/Dark_Elf_Lizard_Master.cfg:61
 #: Dark_Elves/units/Dark_Elf_Lizard_Rider.cfg:61
 msgid "bite"
-msgstr ""
+msgstr "bett"
 
 #: Dark_Elves/units/Dark_Elf_Lizard_Rider.cfg:4
 msgid "Dark Elf Lizard-Rider"
-msgstr ""
+msgstr "Mörkalvsödleryttare"
 
 #: Dark_Elves/units/Dark_Elf_Lizard_Rider.cfg:19
 msgid ""
@@ -832,7 +833,7 @@ msgstr ""
 
 #: Dark_Elves/units/Dark_Elf_Marshal.cfg:4
 msgid "Dark Elf Marshal"
-msgstr ""
+msgstr "Mörkalvsöverste"
 
 #: Dark_Elves/units/Dark_Elf_Marshal.cfg:38
 msgid ""
@@ -844,12 +845,12 @@ msgstr ""
 
 #: Dark_Elves/units/Dark_Elf_Shadow.cfg:4
 msgid "Dark Elf Shadow"
-msgstr ""
+msgstr "Mörkalvsskugga"
 
 #: Dark_Elves/units/Dark_Elf_Stalker.cfg:13
 #: Dark_Elves/units/Dark_Elf_Shadow.cfg:13
 msgid "cavestalk"
-msgstr ""
+msgstr "grottsmyg"
 
 #: Dark_Elves/units/Dark_Elf_Shadow.cfg:37
 msgid ""
@@ -861,11 +862,11 @@ msgstr ""
 #: Dark_Elves/units/Dark_Elf_Stalker.cfg:78
 #: Dark_Elves/units/Dark_Elf_Shadow.cfg:78
 msgid "crossbow"
-msgstr ""
+msgstr "armborst"
 
 #: Dark_Elves/units/Dark_Elf_Sorcerer.cfg:4
 msgid "Dark Elf Sorcerer"
-msgstr ""
+msgstr "Mörkalvsbesvärjare"
 
 #: Dark_Elves/units/Dark_Elf_Sorcerer.cfg:38
 msgid ""
@@ -877,7 +878,7 @@ msgstr ""
 
 #: Dark_Elves/units/Dark_Elf_Sorceress.cfg:4
 msgid "female^Dark Elf Sorceress"
-msgstr ""
+msgstr "Mörkalvsbesvärjerska"
 
 #: Dark_Elves/units/Dark_Elf_Sorceress.cfg:39
 msgid ""
@@ -890,7 +891,7 @@ msgstr ""
 
 #: Dark_Elves/units/Dark_Elf_Stalker.cfg:4
 msgid "Dark Elf Stalker"
-msgstr ""
+msgstr "Mörkalvssmygare"
 
 #: Dark_Elves/units/Dark_Elf_Stalker.cfg:37
 msgid ""
@@ -901,7 +902,7 @@ msgstr ""
 
 #: Dark_Elves/units/Dark_Elf_Warlock.cfg:4
 msgid "Dark Elf Warlock"
-msgstr ""
+msgstr "Mörkalvsmagiker"
 
 #: Dark_Elves/units/Dark_Elf_Warlock.cfg:37
 msgid ""
@@ -913,11 +914,11 @@ msgstr ""
 
 #: Dark_Elves/units/Dark_Elf_Warlock.cfg:57
 msgid "touch"
-msgstr ""
+msgstr "beröring"
 
 #: Dark_Elves/units/Dark_Elf_Warlock.cfg:62
 msgid "drain"
-msgstr ""
+msgstr "suga livskraft"
 
 #: Dark_Elves/units/Dark_Elf_Warrior.cfg:36
 msgid ""
@@ -928,7 +929,7 @@ msgstr ""
 
 #: Dark_Elves/units/Dark_Elf_Wizard.cfg:4
 msgid "Dark Elf Wizard"
-msgstr ""
+msgstr "Mörkalvstrollkarl"
 
 #: Dark_Elves/units/Dark_Elf_Wizard.cfg:38
 msgid ""
