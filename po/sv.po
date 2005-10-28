@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2005-10-11 11:34+0200\n"
-"PO-Revision-Date: 2005-10-04 21:49+0200\n"
+"PO-Revision-Date: 2005-10-28 12:21+0200\n"
 "Last-Translator: Stefan Bergström (tephlon)\n"
 "Language-Team: Swedish\n"
 "MIME-Version: 1.0\n"
@@ -99,27 +99,27 @@ msgstr ""
 #: Dark_Elves/scenarios/Danger.cfg:24 Dark_Elves/scenarios/Relentless.cfg:25
 #: Dark_Elves/scenarios/Time.cfg:23 Dark_Elves/scenarios/Beginning.cfg:47
 msgid "Varish'na"
-msgstr ""
+msgstr "Varish'na"
 
 #: Dark_Elves/scenarios/Beginning.cfg:63
 msgid "Trith"
-msgstr ""
+msgstr "Trith"
 
 #: Dark_Elves/scenarios/Path.cfg:58 Dark_Elves/scenarios/Beginning.cfg:76
 msgid "Kill the Dwarves"
-msgstr ""
+msgstr "Döda dvärgarna"
 
 #: Dark_Elves/scenarios/Path.cfg:66 Dark_Elves/scenarios/Hunt.cfg:65
 #: Dark_Elves/scenarios/Danger.cfg:44 Dark_Elves/scenarios/Relentless.cfg:56
 #: Dark_Elves/scenarios/Time.cfg:44 Dark_Elves/scenarios/Beginning.cfg:80
 msgid "Death of Varish'na"
-msgstr ""
+msgstr "Varish'na dör"
 
 #: Dark_Elves/scenarios/Path.cfg:78 Dark_Elves/scenarios/Hunt.cfg:73
 #: Dark_Elves/scenarios/Danger.cfg:56 Dark_Elves/scenarios/Relentless.cfg:64
 #: Dark_Elves/scenarios/Time.cfg:56 Dark_Elves/scenarios/Beginning.cfg:84
 msgid "Turns run out"
-msgstr ""
+msgstr "Dragen tar slut"
 
 #: Dark_Elves/scenarios/Beginning.cfg:94
 msgid ""
@@ -196,22 +196,22 @@ msgstr ""
 #: Dark_Elves/scenarios/Path.cfg:44 Dark_Elves/scenarios/Danger.cfg:34
 #: Dark_Elves/scenarios/Time.cfg:33
 msgid "Dwarf"
-msgstr ""
+msgstr "Dvärg"
 
 #: Dark_Elves/scenarios/Danger.cfg:40 Dark_Elves/scenarios/Time.cfg:40
 msgid "Kill the Dwarf Leader"
-msgstr ""
+msgstr "Döda dvärgarnas ledare"
 
 #: Dark_Elves/scenarios/Path.cfg:70 Dark_Elves/scenarios/Hunt.cfg:69
 #: Dark_Elves/scenarios/Danger.cfg:48 Dark_Elves/scenarios/Relentless.cfg:60
 #: Dark_Elves/scenarios/Time.cfg:48
 msgid "Death of Voldel"
-msgstr ""
+msgstr "Voldel dör"
 
 #: Dark_Elves/scenarios/Path.cfg:74 Dark_Elves/scenarios/Danger.cfg:52
 #: Dark_Elves/scenarios/Time.cfg:52
 msgid "Death of Traya"
-msgstr ""
+msgstr "Traya dör"
 
 #: Dark_Elves/scenarios/Danger.cfg:71
 msgid ""
@@ -278,11 +278,11 @@ msgstr ""
 
 #: Dark_Elves/scenarios/Hunt.cfg:48
 msgid "Unnamed Dwarf Leader"
-msgstr ""
+msgstr "Namnlös dvärgledare"
 
 #: Dark_Elves/scenarios/Hunt.cfg:61
 msgid "Kill all the Dwarves"
-msgstr ""
+msgstr "Döda alla dvärgar"
 
 #: Dark_Elves/scenarios/Hunt.cfg:88
 msgid "Hold there! Who are you?"
@@ -368,11 +368,11 @@ msgstr ""
 
 #: Dark_Elves/scenarios/Path.cfg:54
 msgid "Hold out until help arrives(turn 20)"
-msgstr ""
+msgstr "Håll stånd tills hjälpen anländer (drag 20)"
 
 #: Dark_Elves/scenarios/Path.cfg:62
 msgid "BONUS:Kill the dwarves before turn 20"
-msgstr ""
+msgstr "BONUS: Döda dvärgarna före drag 20"
 
 #: Dark_Elves/scenarios/Path.cfg:107
 msgid "Okay Vondel, which way?"
@@ -418,7 +418,7 @@ msgstr ""
 
 #: Dark_Elves/scenarios/Path.cfg:165
 msgid "Traya"
-msgstr ""
+msgstr "Traya"
 
 #: Dark_Elves/scenarios/Path.cfg:171
 msgid "They are relentless! Help better come soon or we'll be overrun!"
@@ -502,11 +502,11 @@ msgstr ""
 
 #: Dark_Elves/scenarios/Relentless.cfg:39
 msgid "Gomatas"
-msgstr ""
+msgstr "Gomatas"
 
 #: Dark_Elves/scenarios/Relentless.cfg:52
 msgid "Kill all Dwarvish Leaders"
-msgstr ""
+msgstr "Döda alla dvärgledare"
 
 #: Dark_Elves/scenarios/Relentless.cfg:82
 msgid ""
@@ -566,7 +566,7 @@ msgstr ""
 
 #: Dark_Elves/scenarios/Time.cfg:34
 msgid "Another Dwarf"
-msgstr ""
+msgstr "Ännu en dvärg"
 
 #: Dark_Elves/scenarios/Time.cfg:71
 msgid "Ahh, there are the Dwarves."
@@ -850,7 +850,7 @@ msgstr "Mörkalvsskugga"
 #: Dark_Elves/units/Dark_Elf_Stalker.cfg:13
 #: Dark_Elves/units/Dark_Elf_Shadow.cfg:13
 msgid "cavestalk"
-msgstr "grottsmyg"
+msgstr "grottsmygande"
 
 #: Dark_Elves/units/Dark_Elf_Shadow.cfg:37
 msgid ""
