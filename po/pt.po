@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2005-10-11 11:34+0200\n"
+"POT-Creation-Date: 2005-11-11 08:39+0100\n"
 "PO-Revision-Date: 2005-10-11 11:34+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -91,11 +91,11 @@ msgid ""
 "you are continually stopping fights, punishing your troops, and wishing "
 "something horrible would happen. Your watch as the guards alert you of a "
 "Dwarvish scout party heading towards the keep. You ready your men, hoping "
-"that you die in this battle......"
+"that you die in this battle..."
 msgstr ""
 
 #: Dark_Elves/scenarios/Path.cfg:30 Dark_Elves/scenarios/Hunt.cfg:34
-#: Dark_Elves/scenarios/Danger.cfg:24 Dark_Elves/scenarios/Relentless.cfg:25
+#: Dark_Elves/scenarios/Danger.cfg:24 Dark_Elves/scenarios/Relentless.cfg:50
 #: Dark_Elves/scenarios/Time.cfg:23 Dark_Elves/scenarios/Beginning.cfg:47
 msgid "Varish'na"
 msgstr ""
@@ -109,82 +109,70 @@ msgid "Kill the Dwarves"
 msgstr ""
 
 #: Dark_Elves/scenarios/Path.cfg:66 Dark_Elves/scenarios/Hunt.cfg:65
-#: Dark_Elves/scenarios/Danger.cfg:44 Dark_Elves/scenarios/Relentless.cfg:56
+#: Dark_Elves/scenarios/Danger.cfg:44 Dark_Elves/scenarios/Relentless.cfg:89
 #: Dark_Elves/scenarios/Time.cfg:44 Dark_Elves/scenarios/Beginning.cfg:80
 msgid "Death of Varish'na"
 msgstr ""
 
 #: Dark_Elves/scenarios/Path.cfg:78 Dark_Elves/scenarios/Hunt.cfg:73
-#: Dark_Elves/scenarios/Danger.cfg:56 Dark_Elves/scenarios/Relentless.cfg:64
+#: Dark_Elves/scenarios/Danger.cfg:56 Dark_Elves/scenarios/Relentless.cfg:97
 #: Dark_Elves/scenarios/Time.cfg:56 Dark_Elves/scenarios/Beginning.cfg:84
 msgid "Turns run out"
 msgstr ""
 
-#: Dark_Elves/scenarios/Beginning.cfg:94
-msgid ""
-"Ah good, some Dwarves. Maybe they can end this living hell for me. Come men, "
-"let us kill these greedy Dwarves!"
-msgstr ""
-
 #: Dark_Elves/scenarios/Beginning.cfg:98
 msgid ""
-"Look! Elves, in caves! How did they get here? But they are coming to attack "
-"us, Hurry! Kill the Elves"
+"What? These must be the forces who took poor Vladdy, no pointy ear is takin' "
+"Clan Stormhammer without a fight!"
 msgstr ""
 
-#: Dark_Elves/scenarios/Beginning.cfg:114
+#: Dark_Elves/scenarios/Beginning.cfg:108
 msgid ""
 "Accursed Dark Elf dogs, ye shall perish before this month is up. My brothers "
 "shall crush ye like an eggshell. And Dark Elf blood shall flow like water."
 msgstr ""
 
-#: Dark_Elves/scenarios/Beginning.cfg:121
+#: Dark_Elves/scenarios/Beginning.cfg:124
 msgid ""
-"My lord, our Clerics have resurrected a Dwarf, and have discovered something "
-"terrible."
+"My lord, we have found a Dwarf, and the Clerics have resurrected him. From "
+"him we have learned a terrible truth."
 msgstr ""
 
-#: Dark_Elves/scenarios/Beginning.cfg:125
-msgid "Go on."
+#: Dark_Elves/scenarios/Beginning.cfg:128
+msgid "What is it?"
 msgstr ""
 
-#: Dark_Elves/scenarios/Beginning.cfg:129
+#: Dark_Elves/scenarios/Beginning.cfg:132
 msgid ""
-"These are but a few of a large army. They are marching to the attack, and "
-"shall be here in a few days."
+"The Dwarves of clans Stormhammer, Stoutblade, and the fabled Red Mountain "
+"clan. They have all mobilized against us."
 msgstr ""
 
-#: Dark_Elves/scenarios/Beginning.cfg:133
+#: Dark_Elves/scenarios/Beginning.cfg:136
 msgid "Are they sure of this?"
 msgstr ""
 
-#: Dark_Elves/scenarios/Beginning.cfg:137
+#: Dark_Elves/scenarios/Beginning.cfg:140
 msgid "Have they ever been wrong before?"
 msgstr ""
 
-#: Dark_Elves/scenarios/Beginning.cfg:141
+#: Dark_Elves/scenarios/Beginning.cfg:144
 msgid ""
-"Hmm...Good point. Send our fastest Dhaeraow fighter to alert the Matron "
-"Mother We must attempt to arrest their advancement, or all of us are doomed! "
-"Make ready to abandon the keep."
+"Hmm...Good point. Send our fastest Elf to alert the Matron Mother. We must "
+"attempt to arrest their advancement. Make ready to leave the keep."
 msgstr ""
 
-#: Dark_Elves/scenarios/Beginning.cfg:145
-msgid "Yeah yeah, I'm on it."
+#: Dark_Elves/scenarios/Beginning.cfg:148
+msgid "But my lord... They far outnumber us to charge would be suicide... "
 msgstr ""
 
-#: Dark_Elves/scenarios/Beginning.cfg:149
-msgid ""
-"Show some respect, or I'll have your eyeballs pulled out of your sockets!"
+#: Dark_Elves/scenarios/Beginning.cfg:152
+msgid "That's the idea."
 msgstr ""
 
-#: Dark_Elves/scenarios/Beginning.cfg:153
-msgid "Of...of course..m.my lord. We shall be ready to leave in an hour."
-msgstr ""
-
-#: Dark_Elves/scenarios/Path.cfg:301 Dark_Elves/scenarios/Hunt.cfg:192
-#: Dark_Elves/scenarios/Danger.cfg:157 Dark_Elves/scenarios/Relentless.cfg:139
-#: Dark_Elves/scenarios/Time.cfg:159 Dark_Elves/scenarios/Beginning.cfg:177
+#: Dark_Elves/scenarios/Path.cfg:301 Dark_Elves/scenarios/Hunt.cfg:205
+#: Dark_Elves/scenarios/Danger.cfg:157 Dark_Elves/scenarios/Relentless.cfg:173
+#: Dark_Elves/scenarios/Time.cfg:159 Dark_Elves/scenarios/Beginning.cfg:168
 msgid "No! I have failed!"
 msgstr ""
 
@@ -202,7 +190,7 @@ msgid "Kill the Dwarf Leader"
 msgstr ""
 
 #: Dark_Elves/scenarios/Path.cfg:70 Dark_Elves/scenarios/Hunt.cfg:69
-#: Dark_Elves/scenarios/Danger.cfg:48 Dark_Elves/scenarios/Relentless.cfg:60
+#: Dark_Elves/scenarios/Danger.cfg:48 Dark_Elves/scenarios/Relentless.cfg:93
 #: Dark_Elves/scenarios/Time.cfg:48
 msgid "Death of Voldel"
 msgstr ""
@@ -276,7 +264,7 @@ msgid "The Dark Elves Retreated..."
 msgstr ""
 
 #: Dark_Elves/scenarios/Hunt.cfg:48
-msgid "Unnamed Dwarf Leader"
+msgid "Gimmy"
 msgstr ""
 
 #: Dark_Elves/scenarios/Hunt.cfg:61
@@ -284,81 +272,84 @@ msgid "Kill all the Dwarves"
 msgstr ""
 
 #: Dark_Elves/scenarios/Hunt.cfg:88
-msgid "Hold there! Who are you?"
+msgid "Hold there Dhaerow! What is your business here? "
 msgstr ""
 
 #: Dark_Elves/scenarios/Hunt.cfg:92
 msgid ""
-"Thank the Mother you are here! We are being besieged by Dwarves. They are "
-"pillaging our homes and killing our men. Help us please, please, please, "
-"please, pleasseee!"
+"Thank the Mother, we knew reinforcements would arrive. The Dwarves are "
+"numerous in the caverns to the north. They are ransacking and burning our "
+"homes. You must render us aid!"
 msgstr ""
 
 #: Dark_Elves/scenarios/Hunt.cfg:96
-msgid "Very well, but stop your begging before I loose my temper!"
+msgid ""
+"Our objective lies to the north as well, very well. Rally any Dhaerow "
+"capable of carrying weapons"
 msgstr ""
 
 #: Dark_Elves/scenarios/Hunt.cfg:100
-msgid "Of course my lord. Others will rally to me, just visit the villages. "
+msgid "Of course my lord. Others will help you, just visit the villages."
 msgstr ""
 
-#: Dark_Elves/scenarios/Hunt.cfg:104
-msgid "Look! There are the Dwarves!"
+#: Dark_Elves/scenarios/Hunt.cfg:107
+msgid ""
+"More of these darned Dark Elves. Now assault in the name of Vladdy, and Clan "
+"Stormhammer!"
 msgstr ""
 
-#: Dark_Elves/scenarios/Hunt.cfg:111
-msgid "Look! More Cave Elves! For Vladdy!"
+#: Dark_Elves/scenarios/Hunt.cfg:117
+msgid ""
+"Good... We have the dog ready for the Clerics. They shall have more sport "
+"with him then they did with Vladdy."
 msgstr ""
 
 #: Dark_Elves/scenarios/Hunt.cfg:121
-msgid "Die, Dwarf scum! The Clerics will make great sport with you..."
-msgstr ""
-
-#: Dark_Elves/scenarios/Hunt.cfg:125
 msgid "*gasp* Nooooooooo!"
 msgstr ""
 
-#: Dark_Elves/scenarios/Hunt.cfg:129
-msgid "Yes, oh yes!"
+#: Dark_Elves/scenarios/Hunt.cfg:125
+msgid "Yes, little bearded one, oh yes."
 msgstr ""
 
-#: Dark_Elves/scenarios/Hunt.cfg:133
-msgid "Nooooooooo!"
+#: Dark_Elves/scenarios/Hunt.cfg:129
+msgid "Still your tongue fool lest you be struck down."
+msgstr ""
+
+#: Dark_Elves/scenarios/Hunt.cfg:145
+msgid "At last our homes are saved for these stunted fools! "
 msgstr ""
 
 #: Dark_Elves/scenarios/Hunt.cfg:149
-msgid "Finally, our land is rid of these monsters!"
+msgid "The peace is an illusion, there are more, far more coming."
 msgstr ""
 
 #: Dark_Elves/scenarios/Hunt.cfg:153
 msgid ""
-"It won't last. A large army is coming this way. It's only the beginning."
+"I have nothing left, my family was slain by the Dwarves, and vengeance "
+"sounds good to me. I shall join you on your quest."
 msgstr ""
 
 #: Dark_Elves/scenarios/Hunt.cfg:157
-msgid ""
-"Then I shall go with you on your quest. No one knows the caves better then I "
-"do."
+msgid "Come if you will, but don't waste any more of my time."
 msgstr ""
 
 #: Dark_Elves/scenarios/Hunt.cfg:161
-msgid "Very well, you may join."
+msgid ""
+"Thank you my lord, I'll clean your armor, sharpen your weapons, wash your "
+"clothes..."
 msgstr ""
 
 #: Dark_Elves/scenarios/Hunt.cfg:165
-msgid "Oh! Thank you! Thank you! Thank you! Thank y..."
+msgid "Silence, lest I have your tongue tore from your mouth!"
 msgstr ""
 
-#: Dark_Elves/scenarios/Hunt.cfg:169
-msgid "BE SILENT!"
+#: Dark_Elves/scenarios/Hunt.cfg:170
+msgid "...sorry, my lord. \n"
 msgstr ""
 
-#: Dark_Elves/scenarios/Hunt.cfg:173
-msgid "...sorry."
-msgstr ""
-
-#: Dark_Elves/scenarios/Hunt.cfg:177
-msgid "Come, on-ward!"
+#: Dark_Elves/scenarios/Hunt.cfg:174
+msgid "Come, onward!"
 msgstr ""
 
 #: Dark_Elves/scenarios/Path.cfg:5
@@ -495,68 +486,41 @@ msgid ""
 "to attend to. Come, let us continue."
 msgstr ""
 
-#: Dark_Elves/scenarios/Relentless.cfg:5
+#: Dark_Elves/scenarios/Relentless.cfg:30
 msgid "Relentless"
 msgstr ""
 
-#: Dark_Elves/scenarios/Relentless.cfg:39
+#: Dark_Elves/scenarios/Relentless.cfg:64
 msgid "Gomatas"
 msgstr ""
 
-#: Dark_Elves/scenarios/Relentless.cfg:52
+#: Dark_Elves/scenarios/Relentless.cfg:85
 msgid "Kill all Dwarvish Leaders"
 msgstr ""
 
-#: Dark_Elves/scenarios/Relentless.cfg:82
+#: Dark_Elves/scenarios/Relentless.cfg:109
 msgid ""
 "This is worse then I thought. We are only a weeks journey from home, and "
 "look at all these Dwarves!"
 msgstr ""
 
-#: Dark_Elves/scenarios/Relentless.cfg:86
+#: Dark_Elves/scenarios/Relentless.cfg:113
 msgid ""
 "I agree, there are a lot of them. Luckily for you, I know every inch of this "
 "area. Just north of here is a small stream. A castle was built there during "
 "the First Years. It is old, but it still serves its purpose."
 msgstr ""
 
-#: Dark_Elves/scenarios/Relentless.cfg:90
+#: Dark_Elves/scenarios/Relentless.cfg:117
 msgid "Then we must hurry, before the Dwarves overcome us!"
 msgstr ""
 
-#: Dark_Elves/scenarios/Relentless.cfg:94
+#: Dark_Elves/scenarios/Relentless.cfg:121
 msgid "Muahhahahah! Kill the Elves!"
 msgstr ""
 
-#: Dark_Elves/scenarios/Relentless.cfg:98
+#: Dark_Elves/scenarios/Relentless.cfg:125
 msgid "You shall all die!!"
-msgstr ""
-
-#: Dark_Elves/scenarios/Relentless.cfg:111
-msgid "There must be more of them, we have yet to hit the advance guard."
-msgstr ""
-
-#: Dark_Elves/scenarios/Relentless.cfg:115
-msgid ""
-"Let them come. We will rip them to shreds. Hunting the enemy is my specialty!"
-msgstr ""
-
-#: Dark_Elves/scenarios/Relentless.cfg:119
-msgid ""
-"We must proceed carefully. The fugitives will have spread word of our "
-"coming, and we may be ambushed."
-msgstr ""
-
-#: Dark_Elves/scenarios/Relentless.cfg:123
-msgid ""
-"The tunnels ahead have not been traversed for quite some time now. That is "
-"where I would often go to do my hunting, the larger creatures reside there."
-msgstr ""
-
-#: Dark_Elves/scenarios/Relentless.cfg:127
-msgid ""
-"Great, Dwarves and monsters. Well, we don't seem to have much choice. Let us "
-"keep going."
 msgstr ""
 
 #: Dark_Elves/scenarios/Time.cfg:5
@@ -641,7 +605,7 @@ msgstr ""
 msgid "leadership"
 msgstr ""
 
-#: Dark_Elves/units/Dark_Elf_Captain.cfg:38
+#: Dark_Elves/units/Dark_Elf_Captain.cfg:21
 msgid ""
 "These Elves have been an example to their fellow soldiers, and have gained "
 "the rank of Captain. Although they can never become Lords, they still strive "
@@ -649,41 +613,41 @@ msgid ""
 "spears."
 msgstr ""
 
-#: Dark_Elves/units/Dark_Elf_Corsair.cfg:56
-#: Dark_Elves/units/Dark_Elf_Marshal.cfg:58
-#: Dark_Elves/units/Dark_Elf_Warrior.cfg:56
-#: Dark_Elves/units/Dark_Elf_Captain.cfg:58
-#: Dark_Elves/units/Dark_Elf_Fighter.cfg:56
+#: Dark_Elves/units/Dark_Elf_Corsair.cfg:39
+#: Dark_Elves/units/Dark_Elf_Marshal.cfg:41
+#: Dark_Elves/units/Dark_Elf_Warrior.cfg:39
+#: Dark_Elves/units/Dark_Elf_Captain.cfg:41
+#: Dark_Elves/units/Dark_Elf_Fighter.cfg:44
 msgid "sword"
 msgstr ""
 
-#: Dark_Elves/units/Dark_Elf_Corsair.cfg:57
-#: Dark_Elves/units/Dark_Elf_Stalker.cfg:58
-#: Dark_Elves/units/Dark_Elf_Marshal.cfg:59
+#: Dark_Elves/units/Dark_Elf_Corsair.cfg:40
+#: Dark_Elves/units/Dark_Elf_Stalker.cfg:41
+#: Dark_Elves/units/Dark_Elf_Marshal.cfg:42
 #: Dark_Elves/units/Dark_Elf_Lizard_Master.cfg:62
-#: Dark_Elves/units/Dark_Elf_Warrior.cfg:57
-#: Dark_Elves/units/Dark_Elf_Hunter.cfg:57
+#: Dark_Elves/units/Dark_Elf_Warrior.cfg:40
+#: Dark_Elves/units/Dark_Elf_Hunter.cfg:46
 #: Dark_Elves/units/Dark_Elf_Lizard_Rider.cfg:62
-#: Dark_Elves/units/Dark_Elf_Captain.cfg:59
-#: Dark_Elves/units/Dark_Elf_Shadow.cfg:58
-#: Dark_Elves/units/Dark_Elf_Fighter.cfg:57
+#: Dark_Elves/units/Dark_Elf_Captain.cfg:42
+#: Dark_Elves/units/Dark_Elf_Shadow.cfg:41
+#: Dark_Elves/units/Dark_Elf_Fighter.cfg:45
 msgid "blade"
 msgstr ""
 
-#: Dark_Elves/units/Dark_Elf_Marshal.cfg:79
-#: Dark_Elves/units/Dark_Elf_Marshal.cfg:100
-#: Dark_Elves/units/Dark_Elf_Captain.cfg:79
+#: Dark_Elves/units/Dark_Elf_Marshal.cfg:62
+#: Dark_Elves/units/Dark_Elf_Marshal.cfg:83
+#: Dark_Elves/units/Dark_Elf_Captain.cfg:62
 msgid "spear"
 msgstr ""
 
-#: Dark_Elves/units/Dark_Elf_Stalker.cfg:79
-#: Dark_Elves/units/Dark_Elf_Marshal.cfg:80
-#: Dark_Elves/units/Dark_Elf_Marshal.cfg:101
+#: Dark_Elves/units/Dark_Elf_Stalker.cfg:62
+#: Dark_Elves/units/Dark_Elf_Marshal.cfg:63
+#: Dark_Elves/units/Dark_Elf_Marshal.cfg:84
 #: Dark_Elves/units/Dark_Elf_Lizard_Master.cfg:40
-#: Dark_Elves/units/Dark_Elf_Hunter.cfg:78
-#: Dark_Elves/units/Dark_Elf_Lizard_Rider.cfg:40
-#: Dark_Elves/units/Dark_Elf_Captain.cfg:80
-#: Dark_Elves/units/Dark_Elf_Shadow.cfg:79
+#: Dark_Elves/units/Dark_Elf_Hunter.cfg:67
+#: Dark_Elves/units/Dark_Elf_Lizard_Rider.cfg:45
+#: Dark_Elves/units/Dark_Elf_Captain.cfg:63
+#: Dark_Elves/units/Dark_Elf_Shadow.cfg:62
 msgid "pierce"
 msgstr ""
 
@@ -691,7 +655,7 @@ msgstr ""
 msgid "female^Dark Elf Cleric"
 msgstr ""
 
-#: Dark_Elves/units/Dark_Elf_Cleric.cfg:39
+#: Dark_Elves/units/Dark_Elf_Cleric.cfg:21
 msgid ""
 "A Cleric is adapt at both their magical abilities and the use of their "
 "maces, as the Dwarves have found out. They have the cure ability, a tool "
@@ -699,47 +663,47 @@ msgid ""
 "feared and admired for their beauty and cruelty."
 msgstr ""
 
-#: Dark_Elves/units/Dark_Elf_Cleric.cfg:59
-#: Dark_Elves/units/Dark_Elf_Enchantress.cfg:58
-#: Dark_Elves/units/Dark_Elf_Sorceress.cfg:59
+#: Dark_Elves/units/Dark_Elf_Cleric.cfg:41
+#: Dark_Elves/units/Dark_Elf_Enchantress.cfg:40
+#: Dark_Elves/units/Dark_Elf_Sorceress.cfg:41
 msgid "mace"
 msgstr ""
 
-#: Dark_Elves/units/Dark_Elf_Cleric.cfg:60
-#: Dark_Elves/units/Dark_Elf_Enchantress.cfg:59
-#: Dark_Elves/units/Dark_Elf_Sorceress.cfg:60
+#: Dark_Elves/units/Dark_Elf_Cleric.cfg:42
+#: Dark_Elves/units/Dark_Elf_Enchantress.cfg:41
+#: Dark_Elves/units/Dark_Elf_Sorceress.cfg:42
 msgid "impact"
 msgstr ""
 
-#: Dark_Elves/units/Dark_Elf_Sorcerer.cfg:58
-#: Dark_Elves/units/Dark_Elf_Cleric.cfg:80
-#: Dark_Elves/units/Dark_Elf_Warlock.cfg:75
-#: Dark_Elves/units/Dark_Elf_Wizard.cfg:58
-#: Dark_Elves/units/Dark_Elf_Enchantress.cfg:79
-#: Dark_Elves/units/Dark_Elf_Sorceress.cfg:80
+#: Dark_Elves/units/Dark_Elf_Sorcerer.cfg:40
+#: Dark_Elves/units/Dark_Elf_Cleric.cfg:62
+#: Dark_Elves/units/Dark_Elf_Warlock.cfg:58
+#: Dark_Elves/units/Dark_Elf_Wizard.cfg:40
+#: Dark_Elves/units/Dark_Elf_Enchantress.cfg:61
+#: Dark_Elves/units/Dark_Elf_Sorceress.cfg:62
 msgid "magic"
 msgstr ""
 
-#: Dark_Elves/units/Dark_Elf_Sorcerer.cfg:59
-#: Dark_Elves/units/Dark_Elf_Cleric.cfg:81
-#: Dark_Elves/units/Dark_Elf_Warlock.cfg:58
-#: Dark_Elves/units/Dark_Elf_Warlock.cfg:76
-#: Dark_Elves/units/Dark_Elf_Wizard.cfg:59
-#: Dark_Elves/units/Dark_Elf_Enchantress.cfg:80
-#: Dark_Elves/units/Dark_Elf_Sorceress.cfg:81
+#: Dark_Elves/units/Dark_Elf_Sorcerer.cfg:41
+#: Dark_Elves/units/Dark_Elf_Cleric.cfg:63
+#: Dark_Elves/units/Dark_Elf_Warlock.cfg:41
+#: Dark_Elves/units/Dark_Elf_Warlock.cfg:59
+#: Dark_Elves/units/Dark_Elf_Wizard.cfg:41
+#: Dark_Elves/units/Dark_Elf_Enchantress.cfg:62
+#: Dark_Elves/units/Dark_Elf_Sorceress.cfg:63
 msgid "cold"
 msgstr ""
 
-#: Dark_Elves/units/Dark_Elf_Sorcerer.cfg:60
-#: Dark_Elves/units/Dark_Elf_Cleric.cfg:82
-#: Dark_Elves/units/Dark_Elf_Warlock.cfg:77
-#: Dark_Elves/units/Dark_Elf_Wizard.cfg:60
-#: Dark_Elves/units/Dark_Elf_Enchantress.cfg:81
-#: Dark_Elves/units/Dark_Elf_Sorceress.cfg:82
+#: Dark_Elves/units/Dark_Elf_Sorcerer.cfg:42
+#: Dark_Elves/units/Dark_Elf_Cleric.cfg:64
+#: Dark_Elves/units/Dark_Elf_Warlock.cfg:60
+#: Dark_Elves/units/Dark_Elf_Wizard.cfg:42
+#: Dark_Elves/units/Dark_Elf_Enchantress.cfg:63
+#: Dark_Elves/units/Dark_Elf_Sorceress.cfg:64
 msgid "magical"
 msgstr ""
 
-#: Dark_Elves/units/Dark_Elf_Corsair.cfg:36
+#: Dark_Elves/units/Dark_Elf_Corsair.cfg:19
 msgid ""
 "No single being can stand before a Dark Elf Corsair. If you every see one, "
 "run. With they're razor sharp swords, they can splice and dice a dwarves "
@@ -750,7 +714,7 @@ msgstr ""
 msgid "female^Dark Elf Enchantress"
 msgstr ""
 
-#: Dark_Elves/units/Dark_Elf_Enchantress.cfg:38
+#: Dark_Elves/units/Dark_Elf_Enchantress.cfg:20
 msgid ""
 "The women of the Dark Elves often join the Order of the Clerics at a very "
 "young age. They start of as an Enchantress, with limited physical and "
@@ -759,7 +723,7 @@ msgid ""
 "Sorceress."
 msgstr ""
 
-#: Dark_Elves/units/Dark_Elf_Fighter.cfg:36
+#: Dark_Elves/units/Dark_Elf_Fighter.cfg:19
 msgid ""
 "The initiates in their House army, many Fighters die because of lack of "
 "training. Dark Elves believe that only the best should have the honor of "
@@ -770,25 +734,31 @@ msgstr ""
 msgid "Dark Elf Hunter"
 msgstr ""
 
-#: Dark_Elves/units/Dark_Elf_Hunter.cfg:36
+#: Dark_Elves/units/Dark_Elf_Stalker.cfg:13
+#: Dark_Elves/units/Dark_Elf_Hunter.cfg:13
+#: Dark_Elves/units/Dark_Elf_Shadow.cfg:13
+msgid "skirmisher"
+msgstr ""
+
+#: Dark_Elves/units/Dark_Elf_Hunter.cfg:20
 msgid ""
 "Lurking in the ever dark depths of the caves, the Hunters move around with "
 "out a sound, except for the twang of their crossbows."
 msgstr ""
 
-#: Dark_Elves/units/Dark_Elf_Stalker.cfg:57
-#: Dark_Elves/units/Dark_Elf_Hunter.cfg:56
-#: Dark_Elves/units/Dark_Elf_Shadow.cfg:57
+#: Dark_Elves/units/Dark_Elf_Stalker.cfg:40
+#: Dark_Elves/units/Dark_Elf_Hunter.cfg:45
+#: Dark_Elves/units/Dark_Elf_Shadow.cfg:40
 msgid "dagger"
 msgstr ""
 
-#: Dark_Elves/units/Dark_Elf_Hunter.cfg:77
+#: Dark_Elves/units/Dark_Elf_Hunter.cfg:66
 msgid "bow"
 msgstr ""
 
-#: Dark_Elves/units/Dark_Elf_Stalker.cfg:83
-#: Dark_Elves/units/Dark_Elf_Hunter.cfg:82
-#: Dark_Elves/units/Dark_Elf_Shadow.cfg:83
+#: Dark_Elves/units/Dark_Elf_Stalker.cfg:66
+#: Dark_Elves/units/Dark_Elf_Hunter.cfg:71
+#: Dark_Elves/units/Dark_Elf_Shadow.cfg:66
 msgid "poison"
 msgstr ""
 
@@ -804,17 +774,16 @@ msgid ""
 msgstr ""
 
 #: Dark_Elves/units/Dark_Elf_Lizard_Master.cfg:39
-#: Dark_Elves/units/Dark_Elf_Lizard_Rider.cfg:39
+#: Dark_Elves/units/Dark_Elf_Lizard_Rider.cfg:44
 msgid "deathlance"
 msgstr ""
 
 #: Dark_Elves/units/Dark_Elf_Lizard_Master.cfg:41
-#: Dark_Elves/units/Dark_Elf_Lizard_Rider.cfg:41
+#: Dark_Elves/units/Dark_Elf_Lizard_Rider.cfg:46
 msgid "charge"
 msgstr ""
 
 #: Dark_Elves/units/Dark_Elf_Lizard_Master.cfg:61
-#: Dark_Elves/units/Dark_Elf_Lizard_Rider.cfg:61
 msgid "bite"
 msgstr ""
 
@@ -830,11 +799,15 @@ msgid ""
 "Master of the Lizard."
 msgstr ""
 
+#: Dark_Elves/units/Dark_Elf_Lizard_Rider.cfg:61
+msgid "claw"
+msgstr ""
+
 #: Dark_Elves/units/Dark_Elf_Marshal.cfg:4
 msgid "Dark Elf Marshal"
 msgstr ""
 
-#: Dark_Elves/units/Dark_Elf_Marshal.cfg:38
+#: Dark_Elves/units/Dark_Elf_Marshal.cfg:21
 msgid ""
 "These Elves have proven themselves on and off the battle field with their "
 "character and demeanor. They have earned for themselves the rank of Marshal. "
@@ -846,20 +819,15 @@ msgstr ""
 msgid "Dark Elf Shadow"
 msgstr ""
 
-#: Dark_Elves/units/Dark_Elf_Stalker.cfg:13
-#: Dark_Elves/units/Dark_Elf_Shadow.cfg:13
-msgid "cavestalk"
-msgstr ""
-
-#: Dark_Elves/units/Dark_Elf_Shadow.cfg:37
+#: Dark_Elves/units/Dark_Elf_Shadow.cfg:20
 msgid ""
 "Staying hidden safe in the shadows of the caves, they will hit you when you "
 "least expect it. Despite their frailty, they can inflict great damage over "
 "time, slowly taking the life away from their prey ."
 msgstr ""
 
-#: Dark_Elves/units/Dark_Elf_Stalker.cfg:78
-#: Dark_Elves/units/Dark_Elf_Shadow.cfg:78
+#: Dark_Elves/units/Dark_Elf_Stalker.cfg:61
+#: Dark_Elves/units/Dark_Elf_Shadow.cfg:61
 msgid "crossbow"
 msgstr ""
 
@@ -867,7 +835,7 @@ msgstr ""
 msgid "Dark Elf Sorcerer"
 msgstr ""
 
-#: Dark_Elves/units/Dark_Elf_Sorcerer.cfg:38
+#: Dark_Elves/units/Dark_Elf_Sorcerer.cfg:20
 msgid ""
 "Sorcerers are Wizards that have gone deeper into the studying of the arcane "
 "arts. Their research consumes them in a quest for more power, leading them "
@@ -879,7 +847,7 @@ msgstr ""
 msgid "female^Dark Elf Sorceress"
 msgstr ""
 
-#: Dark_Elves/units/Dark_Elf_Sorceress.cfg:39
+#: Dark_Elves/units/Dark_Elf_Sorceress.cfg:21
 msgid ""
 "The women of the Dark Elves often join the Order of the Clerics at a very "
 "young age. These have gained the rank of Sorceress, and have nearly mastered "
@@ -892,7 +860,7 @@ msgstr ""
 msgid "Dark Elf Stalker"
 msgstr ""
 
-#: Dark_Elves/units/Dark_Elf_Stalker.cfg:37
+#: Dark_Elves/units/Dark_Elf_Stalker.cfg:20
 msgid ""
 "Cunning, agile warriors, the Stalkers are powerful in both the use of their "
 "daggers and crossbows. They are completely hidden in the caves, only the "
@@ -903,7 +871,7 @@ msgstr ""
 msgid "Dark Elf Warlock"
 msgstr ""
 
-#: Dark_Elves/units/Dark_Elf_Warlock.cfg:37
+#: Dark_Elves/units/Dark_Elf_Warlock.cfg:20
 msgid ""
 "The best of their kind, these Warlocks have immense power, rivaling even "
 "that of the Arch Mage. They have discovered the secrets of the dark arts, "
@@ -911,15 +879,15 @@ msgid ""
 "and add it to their own."
 msgstr ""
 
-#: Dark_Elves/units/Dark_Elf_Warlock.cfg:57
+#: Dark_Elves/units/Dark_Elf_Warlock.cfg:40
 msgid "touch"
 msgstr ""
 
-#: Dark_Elves/units/Dark_Elf_Warlock.cfg:62
+#: Dark_Elves/units/Dark_Elf_Warlock.cfg:45
 msgid "drain"
 msgstr ""
 
-#: Dark_Elves/units/Dark_Elf_Warrior.cfg:36
+#: Dark_Elves/units/Dark_Elf_Warrior.cfg:19
 msgid ""
 "These Warriors have devoted themselves totally to mastering the use of dual "
 "weapons. With their balanced blades, they can shave a Dwarf. Only few become "
@@ -930,7 +898,7 @@ msgstr ""
 msgid "Dark Elf Wizard"
 msgstr ""
 
-#: Dark_Elves/units/Dark_Elf_Wizard.cfg:38
+#: Dark_Elves/units/Dark_Elf_Wizard.cfg:20
 msgid ""
 "Some Dark Elves prefer studying the arcane arts over close-comabt. Usually "
 "they are left to the lesser duties of the House, such as upkeep, watching "
