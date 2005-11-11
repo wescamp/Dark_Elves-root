@@ -1,11 +1,14 @@
+# Automatically generated <>, 2005.
+# 
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2005-10-11 11:34+0200\n"
-"PO-Revision-Date: 2005-09-29 22:08+0200\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"POT-Creation-Date: 2005-11-11 08:39+0100\n"
+"PO-Revision-Date: 2005-11-07 16:02+0200\n"
+"Last-Translator: PINAR YANARDAG <pinar@comu.edu.tr>\n"
+"Language-Team: Wesnoth-Turkish\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -13,35 +16,35 @@ msgstr ""
 
 #: Dark_Elves.cfg:9
 msgid "A New Threat"
-msgstr ""
+msgstr "Yeni Bir Tehlike"
 
 #: Dark_Elves/units/Dark_Elf_Fighter.cfg:4 Dark_Elves.cfg:17
 msgid "Dark Elf Fighter"
-msgstr ""
+msgstr "Kara Elf Savaşçı"
 
 #: Dark_Elves.cfg:17
 msgid "(easiest)"
-msgstr ""
+msgstr "(kolay)"
 
 #: Dark_Elves/units/Dark_Elf_Warrior.cfg:4 Dark_Elves.cfg:18
 msgid "Dark Elf Warrior"
-msgstr ""
+msgstr "Kara Elf Cengaver"
 
 #: Dark_Elves.cfg:19
 msgid "(hardest)"
-msgstr ""
+msgstr "(zor)"
 
 #: Dark_Elves/units/Dark_Elf_Corsair.cfg:4 Dark_Elves.cfg:19
 msgid "Dark Elf Corsair"
-msgstr ""
+msgstr "Kara Elf Korsan"
 
 #: Dark_Elves.cfg:21
 msgid "Defend the Caves against the Dwarvish Invasion."
-msgstr ""
+msgstr "Mağaraları cücelerin saldırısına karşı koruyun."
 
 #: Dark_Elves/scenarios/Beginning.cfg:5
 msgid "It's only the Beginning"
-msgstr ""
+msgstr "Bu sadece Başlangıç"
 
 #: Dark_Elves/scenarios/Beginning.cfg:10
 msgid ""
@@ -50,6 +53,10 @@ msgid ""
 "old wives tales send Dwarves scurrying from their homes. And to every legend "
 "a grain of truth can be found."
 msgstr ""
+"Yeraltının derinliklerinde kötülük yayılıyor. Elflerin suretine henüz pek "
+"yayılmadı. Eski hurafeler, Kara Elfler diye adlandırılan bir ırk olduğundan "
+"bahseder. Şimdi hurafeler Cüceleri evlerinden kaçırıyor. Ve her efsanede bir "
+"parça doğruluk payı vardır."
 
 #: Dark_Elves/scenarios/Beginning.cfg:14
 msgid ""
@@ -59,6 +66,11 @@ msgid ""
 "underground society. They had armies, cities, and a ruling queen. They "
 "divided into seperate houses, and thus were their lords chosen."
 msgstr ""
+"Kara Elfler yıllar boyunca sessiz karanlıkta yaşadılar ve kendi seçtikleri "
+"bu dünyaya ayak uydurdular. İlimlerine gizli sanatları ve kara büyüyü "
+"eklediler. Bunun aracılığı ile, gittikçe gelişen bir kavim yarattılar. "
+"Orduları, şehirleri ve hükümdar bir kraliçeleri var. Ve efendilerine göre "
+"ayrı meclislere bölündüler."
 
 #: Dark_Elves/scenarios/Beginning.cfg:18
 msgid ""
@@ -70,6 +82,13 @@ msgid ""
 "Clerics of the Night, torturing their chosen victims to death, only to "
 "restore them back to life."
 msgstr ""
+"Yıllar boyunca, kainatın ışığından uzakta hayatlarından memnun yaşadılar; "
+"taa ki gözü doymaz Cüceler, kolcu birlikleriyle derin mağaralara gelene "
+"kadar. Ama altın peşinde, gözlerini hırs bürümüş Cücelerin .pek azı yüce "
+"dehlizlerine yaralanmamış olarak dönebildi. Dönenlerin ağzından saçma sözler "
+"döküldü ve kelimeleri her zaman tuhaf kaldı. Gecenin Ruhbanları, onları "
+"sadece hayata geri döndürebilmek için, seçilmiş kurbanlarını ölüme "
+"zorluyordu."
 
 #: Dark_Elves/scenarios/Beginning.cfg:22
 msgid ""
@@ -79,8 +98,15 @@ msgid ""
 "Dwarf Lord's anger was aroused, he amassed his house to strike down his "
 "enemies once and for all. "
 msgstr ""
+"Cüceler bir süre bu şekilde yaşadılar, taa ki Büyük Cüce Efendisi genç "
+"kuzenini bir birlikle beraber onlara gözcülük etmesi için yollayana dek. "
+"Günler sonra kuzeni tek başına döndü. Çok korkmuştu ve gizemli Ruhbanlar "
+"hakkında çok fazla düşünüyordu. Bunun üzerine Büyük Cüce Efendisi'nin öfkesi "
+"uyandı ve düşmanlarını tek kere ve sonsuza kadar yok etmek için meclisi "
+"topladı. "
 
 #: Dark_Elves/scenarios/Beginning.cfg:26
+#, fuzzy
 msgid ""
 "The Queen of the Dark Elves heard tell of the Dwarves anger, and she "
 "appointed a new general to the front lines to command her troops. The "
@@ -91,144 +117,152 @@ msgid ""
 "you are continually stopping fights, punishing your troops, and wishing "
 "something horrible would happen. Your watch as the guards alert you of a "
 "Dwarvish scout party heading towards the keep. You ready your men, hoping "
-"that you die in this battle......"
+"that you die in this battle..."
 msgstr ""
+"Kara Elflerin Kraliçesi, Cücelerin öfkesinden haberdar oldu ve süvari "
+"bölüğünü yönetmesi için ön hatlara yeni bir general tayin etti. Şanlı; 10. "
+"Gecenin Alayı. Onurunuzu geri almak için 11 yıl uğraşabilirsiniz, ya da "
+"işkenceyle öldürülebilirsiniz, ama Ruhban'ların işkence tekniklerini "
+"üzerinizde denemekten sıkılmadan önce değil. Eğer sizi Cüceler öldürmezse, o "
+"zaman adamlarınız öldüreceklerdir. Emir; uyulması zor bir emir, ve durmadan "
+"adamlarınızın kavga etmelerini engellemek zorunda kalacaksınız, birliğinizi "
+"cezalandıracaksınız ve korkunç bir şeyler olmasını bekleyeceksiniz. "
+"Nöbetçileriniz bir Cüce casus birliğinin kalenin iç taraflarında olduğunu "
+"bildirdi. Adamlarınızı hazırladınız, bu muharebede öleceğinizi umarak......"
 
 #: Dark_Elves/scenarios/Path.cfg:30 Dark_Elves/scenarios/Hunt.cfg:34
-#: Dark_Elves/scenarios/Danger.cfg:24 Dark_Elves/scenarios/Relentless.cfg:25
+#: Dark_Elves/scenarios/Danger.cfg:24 Dark_Elves/scenarios/Relentless.cfg:50
 #: Dark_Elves/scenarios/Time.cfg:23 Dark_Elves/scenarios/Beginning.cfg:47
 msgid "Varish'na"
-msgstr ""
+msgstr "Varish'na"
 
 #: Dark_Elves/scenarios/Beginning.cfg:63
 msgid "Trith"
-msgstr ""
+msgstr "Trith"
 
 #: Dark_Elves/scenarios/Path.cfg:58 Dark_Elves/scenarios/Beginning.cfg:76
 msgid "Kill the Dwarves"
-msgstr ""
+msgstr "Cüceleri Öldür"
 
 #: Dark_Elves/scenarios/Path.cfg:66 Dark_Elves/scenarios/Hunt.cfg:65
-#: Dark_Elves/scenarios/Danger.cfg:44 Dark_Elves/scenarios/Relentless.cfg:56
+#: Dark_Elves/scenarios/Danger.cfg:44 Dark_Elves/scenarios/Relentless.cfg:89
 #: Dark_Elves/scenarios/Time.cfg:44 Dark_Elves/scenarios/Beginning.cfg:80
 msgid "Death of Varish'na"
-msgstr ""
+msgstr "Varish'na'nın Ölümü"
 
 #: Dark_Elves/scenarios/Path.cfg:78 Dark_Elves/scenarios/Hunt.cfg:73
-#: Dark_Elves/scenarios/Danger.cfg:56 Dark_Elves/scenarios/Relentless.cfg:64
+#: Dark_Elves/scenarios/Danger.cfg:56 Dark_Elves/scenarios/Relentless.cfg:97
 #: Dark_Elves/scenarios/Time.cfg:56 Dark_Elves/scenarios/Beginning.cfg:84
 msgid "Turns run out"
-msgstr ""
-
-#: Dark_Elves/scenarios/Beginning.cfg:94
-msgid ""
-"Ah good, some Dwarves. Maybe they can end this living hell for me. Come men, "
-"let us kill these greedy Dwarves!"
-msgstr ""
+msgstr "Tüm ellerin bitmesi"
 
 #: Dark_Elves/scenarios/Beginning.cfg:98
 msgid ""
-"Look! Elves, in caves! How did they get here? But they are coming to attack "
-"us, Hurry! Kill the Elves"
+"What? These must be the forces who took poor Vladdy, no pointy ear is takin' "
+"Clan Stormhammer without a fight!"
 msgstr ""
 
-#: Dark_Elves/scenarios/Beginning.cfg:114
+#: Dark_Elves/scenarios/Beginning.cfg:108
 msgid ""
 "Accursed Dark Elf dogs, ye shall perish before this month is up. My brothers "
 "shall crush ye like an eggshell. And Dark Elf blood shall flow like water."
 msgstr ""
+"Melun Kara Elf köpekleri, bu ay bitmeden ölmüş olacaklar. Kardeşlerim "
+"yumurta kabuğu gibi ezilecekler. Ve Kara Elf kanı su gibi akacak."
 
-#: Dark_Elves/scenarios/Beginning.cfg:121
+#: Dark_Elves/scenarios/Beginning.cfg:124
+#, fuzzy
 msgid ""
-"My lord, our Clerics have resurrected a Dwarf, and have discovered something "
-"terrible."
+"My lord, we have found a Dwarf, and the Clerics have resurrected him. From "
+"him we have learned a terrible truth."
+msgstr ""
+"Efendim, Ruhbanlarımız bir cüceyi dirilttiler ve korkunç birşey keşfettiler."
+
+#: Dark_Elves/scenarios/Beginning.cfg:128
+msgid "What is it?"
 msgstr ""
 
-#: Dark_Elves/scenarios/Beginning.cfg:125
-msgid "Go on."
-msgstr ""
-
-#: Dark_Elves/scenarios/Beginning.cfg:129
+#: Dark_Elves/scenarios/Beginning.cfg:132
 msgid ""
-"These are but a few of a large army. They are marching to the attack, and "
-"shall be here in a few days."
+"The Dwarves of clans Stormhammer, Stoutblade, and the fabled Red Mountain "
+"clan. They have all mobilized against us."
 msgstr ""
 
-#: Dark_Elves/scenarios/Beginning.cfg:133
+#: Dark_Elves/scenarios/Beginning.cfg:136
 msgid "Are they sure of this?"
-msgstr ""
+msgstr "Bundan emin misiniz?"
 
-#: Dark_Elves/scenarios/Beginning.cfg:137
+#: Dark_Elves/scenarios/Beginning.cfg:140
 msgid "Have they ever been wrong before?"
-msgstr ""
+msgstr "Daha önce hiç yanılmadılar mı?"
 
-#: Dark_Elves/scenarios/Beginning.cfg:141
+#: Dark_Elves/scenarios/Beginning.cfg:144
+#, fuzzy
 msgid ""
-"Hmm...Good point. Send our fastest Dhaeraow fighter to alert the Matron "
-"Mother We must attempt to arrest their advancement, or all of us are doomed! "
-"Make ready to abandon the keep."
+"Hmm...Good point. Send our fastest Elf to alert the Matron Mother. We must "
+"attempt to arrest their advancement. Make ready to leave the keep."
+msgstr ""
+"Hmm...İyi bir nokta. Matron Ana'yı haberdar etmek için en hızlı Dhaeraow "
+"dövüşçümüzü yollayın. İlerlemelerini durdurmak zorundayız, yoksa hepimiz "
+"öleceğiz! Kaleyi terk etmeye hazır olun."
+
+#: Dark_Elves/scenarios/Beginning.cfg:148
+msgid "But my lord... They far outnumber us to charge would be suicide... "
 msgstr ""
 
-#: Dark_Elves/scenarios/Beginning.cfg:145
-msgid "Yeah yeah, I'm on it."
+#: Dark_Elves/scenarios/Beginning.cfg:152
+msgid "That's the idea."
 msgstr ""
 
-#: Dark_Elves/scenarios/Beginning.cfg:149
-msgid ""
-"Show some respect, or I'll have your eyeballs pulled out of your sockets!"
-msgstr ""
-
-#: Dark_Elves/scenarios/Beginning.cfg:153
-msgid "Of...of course..m.my lord. We shall be ready to leave in an hour."
-msgstr ""
-
-#: Dark_Elves/scenarios/Path.cfg:301 Dark_Elves/scenarios/Hunt.cfg:192
-#: Dark_Elves/scenarios/Danger.cfg:157 Dark_Elves/scenarios/Relentless.cfg:139
-#: Dark_Elves/scenarios/Time.cfg:159 Dark_Elves/scenarios/Beginning.cfg:177
+#: Dark_Elves/scenarios/Path.cfg:301 Dark_Elves/scenarios/Hunt.cfg:205
+#: Dark_Elves/scenarios/Danger.cfg:157 Dark_Elves/scenarios/Relentless.cfg:173
+#: Dark_Elves/scenarios/Time.cfg:159 Dark_Elves/scenarios/Beginning.cfg:168
 msgid "No! I have failed!"
-msgstr ""
+msgstr "Hayır! Başarısız oldum!"
 
 #: Dark_Elves/scenarios/Danger.cfg:5
 msgid "Danger Lurks"
-msgstr ""
+msgstr "Tehlikeli Tenhalıklar"
 
 #: Dark_Elves/scenarios/Path.cfg:44 Dark_Elves/scenarios/Danger.cfg:34
 #: Dark_Elves/scenarios/Time.cfg:33
 msgid "Dwarf"
-msgstr ""
+msgstr "Cüce"
 
 #: Dark_Elves/scenarios/Danger.cfg:40 Dark_Elves/scenarios/Time.cfg:40
 msgid "Kill the Dwarf Leader"
-msgstr ""
+msgstr "Cüce Liderini Öldür"
 
 #: Dark_Elves/scenarios/Path.cfg:70 Dark_Elves/scenarios/Hunt.cfg:69
-#: Dark_Elves/scenarios/Danger.cfg:48 Dark_Elves/scenarios/Relentless.cfg:60
+#: Dark_Elves/scenarios/Danger.cfg:48 Dark_Elves/scenarios/Relentless.cfg:93
 #: Dark_Elves/scenarios/Time.cfg:48
 msgid "Death of Voldel"
-msgstr ""
+msgstr "Voldel'in Ölümü"
 
 #: Dark_Elves/scenarios/Path.cfg:74 Dark_Elves/scenarios/Danger.cfg:52
 #: Dark_Elves/scenarios/Time.cfg:52
 msgid "Death of Traya"
-msgstr ""
+msgstr "Traya'nın Ölümü"
 
 #: Dark_Elves/scenarios/Danger.cfg:71
 msgid ""
 "The Dwarf very obstinate, but I have what we need. The advance guard is just "
 "beyond the Great Rift."
 msgstr ""
+"Cüce çok inatçıydı, ama ihtiyacımız olanı aldım. Muhafız alayı sadece Büyük "
+"Çatlaktan biraz önde."
 
 #: Dark_Elves/scenarios/Danger.cfg:75
 msgid "The bridge is just ahead, and it looks like they have them guarded"
-msgstr ""
+msgstr "Köprü biraz ilerde, ve korunuyor gibi gözüküyor"
 
 #: Dark_Elves/scenarios/Danger.cfg:79
 msgid "Well then, what are we waiting for? Let's go get'em!"
-msgstr ""
+msgstr "Pekala, neyi bekliyoruz? Hadi canlarını almaya gidelim!"
 
 #: Dark_Elves/scenarios/Danger.cfg:90
 msgid "That was easy. I think they didn't expect us to survive their trap."
-msgstr ""
+msgstr "Çok kolaydı. Bence tuzaklarından kurtulacağımızı beklemiyorlardı. "
 
 #: Dark_Elves/scenarios/Danger.cfg:94
 msgid ""
@@ -236,167 +270,187 @@ msgid ""
 "is a new tunnel, and the one the Dwarves most likely came down. If I were "
 "you, I'd choose that one."
 msgstr ""
+"Şimdi hangi yoldan gideceğimize karar vermeliyiz. Mağara küçük hiziplere "
+"ayrılıyor. Sağ taraf yeni bir tünel ve Cücelerin muhtemelen indiği yer. Eğer "
+"yerinde olsaydım, bunu seçerdim."
 
 #: Dark_Elves/scenarios/Danger.cfg:98
 msgid "Why?"
-msgstr ""
+msgstr "Niçin?"
 
 #: Dark_Elves/scenarios/Danger.cfg:102
 msgid ""
 "No one has gone down the other one for a long time. It is said that a Dragon "
 "lives down there."
 msgstr ""
+"Diğer yoldan uzun zamandır kimse gitmiyor. Orada bir ejderhanın yaşadığı "
+"söyleniyor."
 
 #: Dark_Elves/scenarios/Danger.cfg:106
 msgid "A Dragon? Do you know for sure?"
-msgstr ""
+msgstr "Bir ejderha? Emin misin?"
 
 #: Dark_Elves/scenarios/Danger.cfg:110
 msgid "It is only a legend, but..."
-msgstr ""
+msgstr "Bu sadece bir efsane, ama..."
 
 #: Dark_Elves/scenarios/Danger.cfg:114
 msgid "You're in command Varish'na. The path you choose is the own we follow."
-msgstr ""
+msgstr "Komutan sensin Varish'na. İzleyeceğimiz yol, senin söylediğin yoldur."
 
 #: Dark_Elves/scenarios/Danger.cfg:116 Dark_Elves/scenarios/Danger.cfg:131
 msgid "If the Dwarves are to the left, then lets go kill some Dwarves!"
-msgstr ""
+msgstr "Eğer Cüceler soldaysa, o halde birkaç Cüce öldürelim!"
 
 #: Dark_Elves/scenarios/Danger.cfg:120 Dark_Elves/scenarios/Danger.cfg:135
 msgid "It's your chosen path. Come, let us continue"
-msgstr ""
+msgstr "Seçilmiş yol burası. Gel, devam edelim"
 
 #: Dark_Elves/scenarios/Hunt.cfg:5
 msgid "Hunting the Enemy"
-msgstr ""
+msgstr "Düşmanları Avlamak"
 
 #: Dark_Elves/scenarios/Hunt.cfg:12
 msgid "The Dark Elves Retreated..."
-msgstr ""
+msgstr "Kara Elfler Geri çekildiler..."
 
 #: Dark_Elves/scenarios/Hunt.cfg:48
-msgid "Unnamed Dwarf Leader"
+msgid "Gimmy"
 msgstr ""
 
 #: Dark_Elves/scenarios/Hunt.cfg:61
 msgid "Kill all the Dwarves"
-msgstr ""
+msgstr "Bütün Cüceleri Öldür"
 
 #: Dark_Elves/scenarios/Hunt.cfg:88
-msgid "Hold there! Who are you?"
+msgid "Hold there Dhaerow! What is your business here? "
 msgstr ""
 
 #: Dark_Elves/scenarios/Hunt.cfg:92
 msgid ""
-"Thank the Mother you are here! We are being besieged by Dwarves. They are "
-"pillaging our homes and killing our men. Help us please, please, please, "
-"please, pleasseee!"
+"Thank the Mother, we knew reinforcements would arrive. The Dwarves are "
+"numerous in the caverns to the north. They are ransacking and burning our "
+"homes. You must render us aid!"
 msgstr ""
 
 #: Dark_Elves/scenarios/Hunt.cfg:96
-msgid "Very well, but stop your begging before I loose my temper!"
+msgid ""
+"Our objective lies to the north as well, very well. Rally any Dhaerow "
+"capable of carrying weapons"
 msgstr ""
 
 #: Dark_Elves/scenarios/Hunt.cfg:100
-msgid "Of course my lord. Others will rally to me, just visit the villages. "
+#, fuzzy
+msgid "Of course my lord. Others will help you, just visit the villages."
+msgstr ""
+"Tabii ki efendim. Diğerleri de bana katılacaklardır, sadece köyü ziyaret "
+"edin. "
+
+#: Dark_Elves/scenarios/Hunt.cfg:107
+msgid ""
+"More of these darned Dark Elves. Now assault in the name of Vladdy, and Clan "
+"Stormhammer!"
 msgstr ""
 
-#: Dark_Elves/scenarios/Hunt.cfg:104
-msgid "Look! There are the Dwarves!"
-msgstr ""
-
-#: Dark_Elves/scenarios/Hunt.cfg:111
-msgid "Look! More Cave Elves! For Vladdy!"
+#: Dark_Elves/scenarios/Hunt.cfg:117
+msgid ""
+"Good... We have the dog ready for the Clerics. They shall have more sport "
+"with him then they did with Vladdy."
 msgstr ""
 
 #: Dark_Elves/scenarios/Hunt.cfg:121
-msgid "Die, Dwarf scum! The Clerics will make great sport with you..."
-msgstr ""
+msgid "*gasp* Nooooooooo!"
+msgstr "*nefes*. Hayıııırrrrrrrrrrrrrrrrrrr!"
 
 #: Dark_Elves/scenarios/Hunt.cfg:125
-msgid "*gasp* Nooooooooo!"
+msgid "Yes, little bearded one, oh yes."
 msgstr ""
 
 #: Dark_Elves/scenarios/Hunt.cfg:129
-msgid "Yes, oh yes!"
+msgid "Still your tongue fool lest you be struck down."
 msgstr ""
 
-#: Dark_Elves/scenarios/Hunt.cfg:133
-msgid "Nooooooooo!"
+#: Dark_Elves/scenarios/Hunt.cfg:145
+msgid "At last our homes are saved for these stunted fools! "
 msgstr ""
 
 #: Dark_Elves/scenarios/Hunt.cfg:149
-msgid "Finally, our land is rid of these monsters!"
+msgid "The peace is an illusion, there are more, far more coming."
 msgstr ""
 
 #: Dark_Elves/scenarios/Hunt.cfg:153
 msgid ""
-"It won't last. A large army is coming this way. It's only the beginning."
+"I have nothing left, my family was slain by the Dwarves, and vengeance "
+"sounds good to me. I shall join you on your quest."
 msgstr ""
 
 #: Dark_Elves/scenarios/Hunt.cfg:157
-msgid ""
-"Then I shall go with you on your quest. No one knows the caves better then I "
-"do."
+msgid "Come if you will, but don't waste any more of my time."
 msgstr ""
 
 #: Dark_Elves/scenarios/Hunt.cfg:161
-msgid "Very well, you may join."
+msgid ""
+"Thank you my lord, I'll clean your armor, sharpen your weapons, wash your "
+"clothes..."
 msgstr ""
 
 #: Dark_Elves/scenarios/Hunt.cfg:165
-msgid "Oh! Thank you! Thank you! Thank you! Thank y..."
+msgid "Silence, lest I have your tongue tore from your mouth!"
 msgstr ""
 
-#: Dark_Elves/scenarios/Hunt.cfg:169
-msgid "BE SILENT!"
-msgstr ""
+#: Dark_Elves/scenarios/Hunt.cfg:170
+#, fuzzy
+msgid "...sorry, my lord. \n"
+msgstr "...üzgünüm."
 
-#: Dark_Elves/scenarios/Hunt.cfg:173
-msgid "...sorry."
-msgstr ""
-
-#: Dark_Elves/scenarios/Hunt.cfg:177
-msgid "Come, on-ward!"
-msgstr ""
+#: Dark_Elves/scenarios/Hunt.cfg:174
+#, fuzzy
+msgid "Come, onward!"
+msgstr "Hadi, gel!"
 
 #: Dark_Elves/scenarios/Path.cfg:5
 msgid "Chosen Path"
-msgstr ""
+msgstr "Seçilmiş Patika"
 
 #: Dark_Elves/scenarios/Path.cfg:54
 msgid "Hold out until help arrives(turn 20)"
-msgstr ""
+msgstr "Yardım gelene kadar dayanın(20 devir)"
 
 #: Dark_Elves/scenarios/Path.cfg:62
 msgid "BONUS:Kill the dwarves before turn 20"
-msgstr ""
+msgstr "BONUS:20 devirden önce cüceleri öldür"
 
 #: Dark_Elves/scenarios/Path.cfg:107
 msgid "Okay Vondel, which way?"
-msgstr ""
+msgstr "Tamam Vondel, hangi yoldan?"
 
 #: Dark_Elves/scenarios/Path.cfg:111
 msgid ""
 "It depends on where you want to go. Do you even know where the Dwarvish army "
 "is?"
 msgstr ""
+"Bu nereye gitmek istediğine bağlı. Cüce ordusunun nerede olduğunu biliyor "
+"musun?"
 
 #: Dark_Elves/scenarios/Path.cfg:115
 msgid ""
 "No, actually not. My men won't take anyone alive, and we have no Clerics. I "
 "sent for reinforcements, but they won't arrive till later."
 msgstr ""
+"Hayır, tam olarak değil. Adamlarım sağ kimseyi almayacaklar ve hiç "
+"Ruhbanımız yok. Takviye kuvvet istedim, ancak yakın zamanda varacaklarından "
+"şüpheliyim."
 
 #: Dark_Elves/scenarios/Path.cfg:119
 msgid "That's okay. I know a safe spot where we can hide and wait."
-msgstr ""
+msgstr "Tamam o zaman. Gizlenip bekleyebileceğimiz bir yer biliyorum."
 
 #: Dark_Elves/scenarios/Path.cfg:123
 msgid ""
 "WHAT!?! Dhaeraow hide? We are soldiers of the Tenth House, we, NEVER, hide!"
 msgstr ""
+"NE!? Dhaeraow gizlenecek mi? Biz Tenth Meclisi'nin askerleriyiz, biz ASLA "
+"gizlenmeyiz!"
 
 #: Dark_Elves/scenarios/Path.cfg:127
 msgid ""
@@ -406,351 +460,366 @@ msgid ""
 "are driven mad with fear. And we have no idea where the Dwarves are. We must "
 "proceed carefully."
 msgstr ""
+"Uyarılar hakkında daha çok şey bilmelisin, ancak benim avlamaya geldikleri "
+"zamanlardan kalan bir kaç tecrübem var. Cücelerin bizden daha çok korktuğu "
+"yaratıklar var. Hissedebiliyor musun? Yaratıklar tarafından sarılmışız, "
+"tehlikeli olanlar, korkudan çıldırmana sebep olabilecek olanlar... Ve biz, "
+"cücelerin nerede olabileceklerine dair tek bir fikire sahip değiliz. "
+"Dikkatli hareket etmek zorundayız."
 
 #: Dark_Elves/scenarios/Path.cfg:131
 msgid "Humph, very well. Your council is wise, lead us to this place."
-msgstr ""
+msgstr "Hımm, pekala. Senin konseyin ariftir, bu mekanda bize önder ol."
 
 #: Dark_Elves/scenarios/Path.cfg:135
 msgid "It's north-east of here. Come on, this way"
-msgstr ""
+msgstr "Orası mekanın kuzey doğusu. Hadi, bu taraftan gelin."
 
 #: Dark_Elves/scenarios/Path.cfg:165
 msgid "Traya"
-msgstr ""
+msgstr "Traya"
 
 #: Dark_Elves/scenarios/Path.cfg:171
 msgid "They are relentless! Help better come soon or we'll be overrun!"
 msgstr ""
+"Onlar çok acımasız! Yardım bir an evvel gelse iyi olacak, yoksa istilaya "
+"uğrayacağız!"
 
 #: Dark_Elves/scenarios/Path.cfg:175 Dark_Elves/scenarios/Path.cfg:183
 msgid "Varish'na, where are you?"
-msgstr ""
+msgstr "Varish'na, neredesin?"
 
 #: Dark_Elves/scenarios/Path.cfg:179
 msgid "Traya? What are you doing here?"
-msgstr ""
+msgstr "Traya? Ne yapıyorsun?"
 
 #: Dark_Elves/scenarios/Path.cfg:187
 msgid " Later, we have some Dwarves to kill. Just let me remove this wall..."
 msgstr ""
+"Sonunda, öldürmek için bir kaç cüce bulduk. Sadece şu duvarı yıkmama izin "
+"ver..."
 
 #: Dark_Elves/scenarios/Path.cfg:207
 msgid "She is soo hot..."
-msgstr ""
+msgstr "O çok kızgın..."
 
 #: Dark_Elves/scenarios/Path.cfg:211
 msgid "She is also my sister."
-msgstr ""
+msgstr "Aynı zamanda benim kızkardeşim."
 
 #: Dark_Elves/scenarios/Path.cfg:215
 msgid "...uhhh..."
-msgstr ""
+msgstr "...ahhh..."
 
 #: Dark_Elves/scenarios/Path.cfg:246
 msgid "Thank goodness Varish'na you're all right!"
-msgstr ""
+msgstr "Tanrım, teşekkürler. Varish'na sen iyisin!"
 
 #: Dark_Elves/scenarios/Path.cfg:250
 msgid "Now maybe you can answer my question, why are you here?"
-msgstr ""
+msgstr "Şimdi sanırım benim sorumu cevaplayabilirsin, niçin buradasın?"
 
 #: Dark_Elves/scenarios/Path.cfg:254
 msgid ""
 "It was father's doing. He knew you would need all the help you can get, so "
 "he convinced them to send me with the reinforcements."
 msgstr ""
+"Bu babanın işi. Senin olabildiğince yardıma ihtiyacın olduğunu biliyordu, bu "
+"yüzden destek kuvvetleriyle birlikte beni yolladı."
 
 #: Dark_Elves/scenarios/Path.cfg:258
 msgid "But what of the Clerics? I thought..."
-msgstr ""
+msgstr "Ama, Ruhbanlar da neyin nesi? Ben düşünmüştüm ki..."
 
 #: Dark_Elves/scenarios/Path.cfg:262
 msgid ""
 "It seems we both have a knack for getting into trouble. I...I was seeing "
 "Iselas."
 msgstr ""
+"Görünen o ki, ikimiz de bir karmaşaya sürüklenmişiz. Ben...Ben Iselas'ı "
+"görüyordum."
 
 #: Dark_Elves/scenarios/Path.cfg:266
 msgid "Iselas! But I thought he was..."
-msgstr ""
+msgstr "Iselas! Ama ben düşünmüştüm ki o..."
 
 #: Dark_Elves/scenarios/Path.cfg:270
 msgid "Hush! This is not for outsiders to hear."
-msgstr ""
+msgstr "Şşşşt! Bunlar dışarıdakilerin duyması için değil."
 
 #: Dark_Elves/scenarios/Path.cfg:274
 msgid ""
 "Huh? Oh, don't mind me beautiful, I don't hear anything except the pounding "
 "of my heart."
 msgstr ""
+"Ha? Ahi dert etme güzelim. Kalp atışlarımın dışında hiçbirşey duymuyorum."
 
 #: Dark_Elves/scenarios/Path.cfg:278
 msgid "Vondel..."
-msgstr ""
+msgstr "Vondel..."
 
 #: Dark_Elves/scenarios/Path.cfg:282
 msgid ""
 "Maybe we'll talk about this later Varish'na. We have more pressing matters "
 "to attend to. Come, let us continue."
 msgstr ""
+"Belki bunu daha sonra konuşabiliriz Varish'na. Şimdi dikkat etmemiz gereken "
+"daha önemli konular var. Hadi, devam etmemize izin ver."
 
-#: Dark_Elves/scenarios/Relentless.cfg:5
+#: Dark_Elves/scenarios/Relentless.cfg:30
 msgid "Relentless"
-msgstr ""
+msgstr "Acımasızlık"
 
-#: Dark_Elves/scenarios/Relentless.cfg:39
+#: Dark_Elves/scenarios/Relentless.cfg:64
 msgid "Gomatas"
-msgstr ""
+msgstr "Gomatas"
 
-#: Dark_Elves/scenarios/Relentless.cfg:52
+#: Dark_Elves/scenarios/Relentless.cfg:85
 msgid "Kill all Dwarvish Leaders"
-msgstr ""
+msgstr "Bütün Cüce Liderlerini Öldür"
 
-#: Dark_Elves/scenarios/Relentless.cfg:82
+#: Dark_Elves/scenarios/Relentless.cfg:109
 msgid ""
 "This is worse then I thought. We are only a weeks journey from home, and "
 "look at all these Dwarves!"
 msgstr ""
+"Bu düşündüğümden de berbat. Evden sadece bir hafta uzaktayız ve şu cücelere "
+"bak!"
 
-#: Dark_Elves/scenarios/Relentless.cfg:86
+#: Dark_Elves/scenarios/Relentless.cfg:113
 msgid ""
 "I agree, there are a lot of them. Luckily for you, I know every inch of this "
 "area. Just north of here is a small stream. A castle was built there during "
 "the First Years. It is old, but it still serves its purpose."
 msgstr ""
+"Katılıyorum, çok fazlalar. Şanlısınız, bu arazinin her metrekaresini "
+"biliyorum. Buranın kuzeyinde küçük bir dere var. İlk Yıllarda kale burada "
+"inşa ediliyordu. Eskidir, ama hala amacına hizmet eder."
 
-#: Dark_Elves/scenarios/Relentless.cfg:90
+#: Dark_Elves/scenarios/Relentless.cfg:117
 msgid "Then we must hurry, before the Dwarves overcome us!"
-msgstr ""
+msgstr "O halde cüceler bizi istila etmeden, elimizi çabuk tutmalıyız!"
 
-#: Dark_Elves/scenarios/Relentless.cfg:94
+#: Dark_Elves/scenarios/Relentless.cfg:121
 msgid "Muahhahahah! Kill the Elves!"
-msgstr ""
+msgstr "Muahahahahha! Elfleri öldürün!"
 
-#: Dark_Elves/scenarios/Relentless.cfg:98
+#: Dark_Elves/scenarios/Relentless.cfg:125
 msgid "You shall all die!!"
-msgstr ""
-
-#: Dark_Elves/scenarios/Relentless.cfg:111
-msgid "There must be more of them, we have yet to hit the advance guard."
-msgstr ""
-
-#: Dark_Elves/scenarios/Relentless.cfg:115
-msgid ""
-"Let them come. We will rip them to shreds. Hunting the enemy is my specialty!"
-msgstr ""
-
-#: Dark_Elves/scenarios/Relentless.cfg:119
-msgid ""
-"We must proceed carefully. The fugitives will have spread word of our "
-"coming, and we may be ambushed."
-msgstr ""
-
-#: Dark_Elves/scenarios/Relentless.cfg:123
-msgid ""
-"The tunnels ahead have not been traversed for quite some time now. That is "
-"where I would often go to do my hunting, the larger creatures reside there."
-msgstr ""
-
-#: Dark_Elves/scenarios/Relentless.cfg:127
-msgid ""
-"Great, Dwarves and monsters. Well, we don't seem to have much choice. Let us "
-"keep going."
-msgstr ""
+msgstr "Hepiniz gebereceksiniz!"
 
 #: Dark_Elves/scenarios/Time.cfg:5
 msgid "Just in Time"
-msgstr ""
+msgstr "Tam zamanında"
 
 #: Dark_Elves/scenarios/Time.cfg:34
 msgid "Another Dwarf"
-msgstr ""
+msgstr "Başka bir Cüce"
 
 #: Dark_Elves/scenarios/Time.cfg:71
 msgid "Ahh, there are the Dwarves."
-msgstr ""
+msgstr "Ahh, Cüceler var."
 
 #: Dark_Elves/scenarios/Time.cfg:75
 msgid "There are a lot of them, but I don't think this is the main force."
-msgstr ""
+msgstr "Onlardan çok fazla var, ama ana gücün onlar olduğunu sanmıyorum."
 
 #: Dark_Elves/scenarios/Time.cfg:79
 msgid ""
 "It doesn't mater, they are Dwarves in Dhaeraow land, and must be killed!"
 msgstr ""
+"Fark etmez, Dhaeraow topraklarında cüceler var, ve öldürülmeleri gerek!"
 
 #: Dark_Elves/scenarios/Time.cfg:83
 msgid "Give it your best shot, foul Elves!"
-msgstr ""
+msgstr "En iyi vuruşunuzu gösterin, sizi zavallı Elfler!"
 
 #: Dark_Elves/scenarios/Time.cfg:87
 msgid "Eat my steel!"
-msgstr ""
+msgstr "Çeliğimin tadına bak!"
 
 #: Dark_Elves/scenarios/Time.cfg:98
 msgid "What? Why am I still alive?"
-msgstr ""
+msgstr "Ne? Ben hala hayatta mıyım?"
 
 #: Dark_Elves/scenarios/Time.cfg:102
 msgid ""
 "Because I preserved your life. You're too wonderful a Dwarf to let die. Such "
 "big muscles, such a big..."
 msgstr ""
+"Çünkü senin hayatını bağışladım. Bir cücenin öldürmeye izin veremeyeceği "
+"kadar mükemmeldin. Büyük kaslar, büyük..."
 
 #: Dark_Elves/scenarios/Time.cfg:106
 msgid "Forget it. I know what you want! I'll kill myself first!"
-msgstr ""
+msgstr "Unut bunu. Ne istediğini biliyorum! Kendimi öldürürüm daha iyi!"
 
 #: Dark_Elves/scenarios/Time.cfg:110
 msgid "If you tell me your secrets I'll tell you mine."
-msgstr ""
+msgstr "Eğer bana sırlarını açarsan, ben de kendikilerimi anlatırım."
 
 #: Dark_Elves/scenarios/Time.cfg:114
 msgid ""
 "Hah! Think I'd fall for that old trick! With your soft white skin, silky "
 "black hair, smooth lips, and beautiful br...No! I'll tell you nothing!"
 msgstr ""
+"Hah! Bu eski hileye kanacağımı mı düşünüyorsun! Beyaz tenin, ipeksi siyah "
+"saçların, dolgun dudakşarın, güzel gö... Hayır! Sana hiçbirşey "
+"söylemeyeceğim!"
 
 #: Dark_Elves/scenarios/Time.cfg:118
 msgid "Oh well, guess I'll have to do this the hard way."
-msgstr ""
+msgstr "Ah, peki. O halde zor yolu denemek zorunda kalacağım."
 
 #: Dark_Elves/scenarios/Time.cfg:122
 msgid "Do you ever wish she wasn't your sister so you could, you know..."
 msgstr ""
+"Hiç kendi kızkardeşin olmamasını umdun mu, o zaman yapabilirsin, bilirsin..."
 
 #: Dark_Elves/scenarios/Time.cfg:126
 msgid "You're disgusting Vondel."
-msgstr ""
+msgstr "İğrençsin Vondel."
 
 #: Dark_Elves/scenarios/Time.cfg:139
 msgid "Is *cough* is that...th..the best you *cough* c.c.can do?"
 msgstr ""
+"Tüm *öksürük* tüm yapabileceğin... yapabileceğinin en iyisi bu *öksürük* bu "
+"m mu?"
 
 #: Dark_Elves/scenarios/Time.cfg:149
 msgid "Urg!!!"
-msgstr ""
+msgstr "Arggh!!!"
 
 #: Dark_Elves/units/Dark_Elf_Captain.cfg:4
 msgid "Dark Elf Captain"
-msgstr ""
+msgstr "Kara Elf Kaptan"
 
 #: Dark_Elves/units/Dark_Elf_Marshal.cfg:19
 #: Dark_Elves/units/Dark_Elf_Captain.cfg:19
 msgid "leadership"
-msgstr ""
+msgstr "Liderlik"
 
-#: Dark_Elves/units/Dark_Elf_Captain.cfg:38
+#: Dark_Elves/units/Dark_Elf_Captain.cfg:21
 msgid ""
 "These Elves have been an example to their fellow soldiers, and have gained "
 "the rank of Captain. Although they can never become Lords, they still strive "
 "to do their best to defend the Matron Mother with their swords and short "
 "spears."
 msgstr ""
+"Bu elfler, takipçileri askerler için bir emsal olacaktır ve Kaptanlarının "
+"tecrübelerinden faydalanacaklardır. Asla Efendi olamayacaklarına rağmen, "
+"halen kılıçlarıyla ve kısa mızraklarıyla yapabilceklerinin en iyisini "
+"yapmaya çabalıyorlar."
 
-#: Dark_Elves/units/Dark_Elf_Corsair.cfg:56
-#: Dark_Elves/units/Dark_Elf_Marshal.cfg:58
-#: Dark_Elves/units/Dark_Elf_Warrior.cfg:56
-#: Dark_Elves/units/Dark_Elf_Captain.cfg:58
-#: Dark_Elves/units/Dark_Elf_Fighter.cfg:56
+#: Dark_Elves/units/Dark_Elf_Corsair.cfg:39
+#: Dark_Elves/units/Dark_Elf_Marshal.cfg:41
+#: Dark_Elves/units/Dark_Elf_Warrior.cfg:39
+#: Dark_Elves/units/Dark_Elf_Captain.cfg:41
+#: Dark_Elves/units/Dark_Elf_Fighter.cfg:44
 msgid "sword"
-msgstr ""
+msgstr "kılıç"
 
-#: Dark_Elves/units/Dark_Elf_Corsair.cfg:57
-#: Dark_Elves/units/Dark_Elf_Stalker.cfg:58
-#: Dark_Elves/units/Dark_Elf_Marshal.cfg:59
+#: Dark_Elves/units/Dark_Elf_Corsair.cfg:40
+#: Dark_Elves/units/Dark_Elf_Stalker.cfg:41
+#: Dark_Elves/units/Dark_Elf_Marshal.cfg:42
 #: Dark_Elves/units/Dark_Elf_Lizard_Master.cfg:62
-#: Dark_Elves/units/Dark_Elf_Warrior.cfg:57
-#: Dark_Elves/units/Dark_Elf_Hunter.cfg:57
+#: Dark_Elves/units/Dark_Elf_Warrior.cfg:40
+#: Dark_Elves/units/Dark_Elf_Hunter.cfg:46
 #: Dark_Elves/units/Dark_Elf_Lizard_Rider.cfg:62
-#: Dark_Elves/units/Dark_Elf_Captain.cfg:59
-#: Dark_Elves/units/Dark_Elf_Shadow.cfg:58
-#: Dark_Elves/units/Dark_Elf_Fighter.cfg:57
+#: Dark_Elves/units/Dark_Elf_Captain.cfg:42
+#: Dark_Elves/units/Dark_Elf_Shadow.cfg:41
+#: Dark_Elves/units/Dark_Elf_Fighter.cfg:45
 msgid "blade"
-msgstr ""
+msgstr "kesme"
 
-#: Dark_Elves/units/Dark_Elf_Marshal.cfg:79
-#: Dark_Elves/units/Dark_Elf_Marshal.cfg:100
-#: Dark_Elves/units/Dark_Elf_Captain.cfg:79
+#: Dark_Elves/units/Dark_Elf_Marshal.cfg:62
+#: Dark_Elves/units/Dark_Elf_Marshal.cfg:83
+#: Dark_Elves/units/Dark_Elf_Captain.cfg:62
 msgid "spear"
-msgstr ""
+msgstr "mızrak"
 
-#: Dark_Elves/units/Dark_Elf_Stalker.cfg:79
-#: Dark_Elves/units/Dark_Elf_Marshal.cfg:80
-#: Dark_Elves/units/Dark_Elf_Marshal.cfg:101
+#: Dark_Elves/units/Dark_Elf_Stalker.cfg:62
+#: Dark_Elves/units/Dark_Elf_Marshal.cfg:63
+#: Dark_Elves/units/Dark_Elf_Marshal.cfg:84
 #: Dark_Elves/units/Dark_Elf_Lizard_Master.cfg:40
-#: Dark_Elves/units/Dark_Elf_Hunter.cfg:78
-#: Dark_Elves/units/Dark_Elf_Lizard_Rider.cfg:40
-#: Dark_Elves/units/Dark_Elf_Captain.cfg:80
-#: Dark_Elves/units/Dark_Elf_Shadow.cfg:79
+#: Dark_Elves/units/Dark_Elf_Hunter.cfg:67
+#: Dark_Elves/units/Dark_Elf_Lizard_Rider.cfg:45
+#: Dark_Elves/units/Dark_Elf_Captain.cfg:63
+#: Dark_Elves/units/Dark_Elf_Shadow.cfg:62
 msgid "pierce"
-msgstr ""
+msgstr "delme"
 
 #: Dark_Elves/units/Dark_Elf_Cleric.cfg:4
 msgid "female^Dark Elf Cleric"
-msgstr ""
+msgstr "dişi^Kara Elf Ruhban"
 
-#: Dark_Elves/units/Dark_Elf_Cleric.cfg:39
+#: Dark_Elves/units/Dark_Elf_Cleric.cfg:21
 msgid ""
 "A Cleric is adapt at both their magical abilities and the use of their "
 "maces, as the Dwarves have found out. They have the cure ability, a tool "
 "they use for their sadistic pleasure. Terribly seductive, they are both "
 "feared and admired for their beauty and cruelty."
 msgstr ""
+"Bir ruhban hem sihirsel kabiliyetlerini hem de Cüceler gibi macelerini "
+"kullanırlar. Sadistik zevkleri için kullandıkları bir araçları, ilaç verme "
+"kabiliyetleri vardır. Korkunç derecede baştan çıkarıcı yartıklardır, hem "
+"güzellikleri hem de acımasızlıkları için arzulanırlar ve korkulurlar."
 
-#: Dark_Elves/units/Dark_Elf_Cleric.cfg:59
-#: Dark_Elves/units/Dark_Elf_Enchantress.cfg:58
-#: Dark_Elves/units/Dark_Elf_Sorceress.cfg:59
+#: Dark_Elves/units/Dark_Elf_Cleric.cfg:41
+#: Dark_Elves/units/Dark_Elf_Enchantress.cfg:40
+#: Dark_Elves/units/Dark_Elf_Sorceress.cfg:41
 msgid "mace"
-msgstr ""
+msgstr "gürz"
 
-#: Dark_Elves/units/Dark_Elf_Cleric.cfg:60
-#: Dark_Elves/units/Dark_Elf_Enchantress.cfg:59
-#: Dark_Elves/units/Dark_Elf_Sorceress.cfg:60
+#: Dark_Elves/units/Dark_Elf_Cleric.cfg:42
+#: Dark_Elves/units/Dark_Elf_Enchantress.cfg:41
+#: Dark_Elves/units/Dark_Elf_Sorceress.cfg:42
 msgid "impact"
-msgstr ""
+msgstr "darbe"
 
-#: Dark_Elves/units/Dark_Elf_Sorcerer.cfg:58
-#: Dark_Elves/units/Dark_Elf_Cleric.cfg:80
-#: Dark_Elves/units/Dark_Elf_Warlock.cfg:75
-#: Dark_Elves/units/Dark_Elf_Wizard.cfg:58
-#: Dark_Elves/units/Dark_Elf_Enchantress.cfg:79
-#: Dark_Elves/units/Dark_Elf_Sorceress.cfg:80
-msgid "magic"
-msgstr ""
-
-#: Dark_Elves/units/Dark_Elf_Sorcerer.cfg:59
-#: Dark_Elves/units/Dark_Elf_Cleric.cfg:81
+#: Dark_Elves/units/Dark_Elf_Sorcerer.cfg:40
+#: Dark_Elves/units/Dark_Elf_Cleric.cfg:62
 #: Dark_Elves/units/Dark_Elf_Warlock.cfg:58
-#: Dark_Elves/units/Dark_Elf_Warlock.cfg:76
-#: Dark_Elves/units/Dark_Elf_Wizard.cfg:59
-#: Dark_Elves/units/Dark_Elf_Enchantress.cfg:80
-#: Dark_Elves/units/Dark_Elf_Sorceress.cfg:81
+#: Dark_Elves/units/Dark_Elf_Wizard.cfg:40
+#: Dark_Elves/units/Dark_Elf_Enchantress.cfg:61
+#: Dark_Elves/units/Dark_Elf_Sorceress.cfg:62
+msgid "magic"
+msgstr "sihir"
+
+#: Dark_Elves/units/Dark_Elf_Sorcerer.cfg:41
+#: Dark_Elves/units/Dark_Elf_Cleric.cfg:63
+#: Dark_Elves/units/Dark_Elf_Warlock.cfg:41
+#: Dark_Elves/units/Dark_Elf_Warlock.cfg:59
+#: Dark_Elves/units/Dark_Elf_Wizard.cfg:41
+#: Dark_Elves/units/Dark_Elf_Enchantress.cfg:62
+#: Dark_Elves/units/Dark_Elf_Sorceress.cfg:63
 msgid "cold"
-msgstr ""
+msgstr "soğuk"
 
-#: Dark_Elves/units/Dark_Elf_Sorcerer.cfg:60
-#: Dark_Elves/units/Dark_Elf_Cleric.cfg:82
-#: Dark_Elves/units/Dark_Elf_Warlock.cfg:77
-#: Dark_Elves/units/Dark_Elf_Wizard.cfg:60
-#: Dark_Elves/units/Dark_Elf_Enchantress.cfg:81
-#: Dark_Elves/units/Dark_Elf_Sorceress.cfg:82
+#: Dark_Elves/units/Dark_Elf_Sorcerer.cfg:42
+#: Dark_Elves/units/Dark_Elf_Cleric.cfg:64
+#: Dark_Elves/units/Dark_Elf_Warlock.cfg:60
+#: Dark_Elves/units/Dark_Elf_Wizard.cfg:42
+#: Dark_Elves/units/Dark_Elf_Enchantress.cfg:63
+#: Dark_Elves/units/Dark_Elf_Sorceress.cfg:64
 msgid "magical"
-msgstr ""
+msgstr "sihirli"
 
-#: Dark_Elves/units/Dark_Elf_Corsair.cfg:36
+#: Dark_Elves/units/Dark_Elf_Corsair.cfg:19
 msgid ""
 "No single being can stand before a Dark Elf Corsair. If you every see one, "
 "run. With they're razor sharp swords, they can splice and dice a dwarves "
 "beard."
 msgstr ""
+"Hiç kimse tek başına Kara Elf Korsanlarının önünde duramaz. Eğer bir tane "
+"görürseniz, kaçın. Jilet keskinliğinde kılıçlarıyla bir cücenin bıyığını "
+"zarlara ayırabilirler."
 
 #: Dark_Elves/units/Dark_Elf_Enchantress.cfg:4
 msgid "female^Dark Elf Enchantress"
-msgstr ""
+msgstr "dişi^Kara Elf Büyücü Hanımlar"
 
-#: Dark_Elves/units/Dark_Elf_Enchantress.cfg:38
+#: Dark_Elves/units/Dark_Elf_Enchantress.cfg:20
 msgid ""
 "The women of the Dark Elves often join the Order of the Clerics at a very "
 "young age. They start of as an Enchantress, with limited physical and "
@@ -758,43 +827,58 @@ msgid ""
 "Through the guiding of the Clerics, someday they will become a mighty "
 "Sorceress."
 msgstr ""
+"Kara Elf kadınları çoğunlukla çok genç bir yaşta Ruhban Emirleri'ne "
+"katılırlar. Öncelikle sınırlı fiziksel ve sihirsel kabiliyetlerle birlikte "
+"Büyücü Hanım olarak başlarlar ve işkence tekniklerini geliştirirler. "
+"Ruhbanların kılavuzluğunda, birgün yüce birer büyücü olup çıkacaklardır."
 
-#: Dark_Elves/units/Dark_Elf_Fighter.cfg:36
+#: Dark_Elves/units/Dark_Elf_Fighter.cfg:19
 msgid ""
 "The initiates in their House army, many Fighters die because of lack of "
 "training. Dark Elves believe that only the best should have the honor of "
 "fighting for the Matron Mother."
 msgstr ""
+"Meclislere kabul edilmek oldukça zordur, birçok Savaşçı eğitim eksikliğinden "
+"ölmüştür. Çünkü kara elfler Matron Ana için savaşma onurunun yalnızca en "
+"iyilere layık olduğunu düşünürler."
 
 #: Dark_Elves/units/Dark_Elf_Hunter.cfg:4
 msgid "Dark Elf Hunter"
+msgstr "Kara Elf Avcı"
+
+#: Dark_Elves/units/Dark_Elf_Stalker.cfg:13
+#: Dark_Elves/units/Dark_Elf_Hunter.cfg:13
+#: Dark_Elves/units/Dark_Elf_Shadow.cfg:13
+msgid "skirmisher"
 msgstr ""
 
-#: Dark_Elves/units/Dark_Elf_Hunter.cfg:36
+#: Dark_Elves/units/Dark_Elf_Hunter.cfg:20
 msgid ""
 "Lurking in the ever dark depths of the caves, the Hunters move around with "
 "out a sound, except for the twang of their crossbows."
 msgstr ""
+"Mağaraların derin karanlığında pusuya yatarken, Avcılar tek bir ses olmadan "
+"hareket ederler, oklarının vınlaması da dahil."
 
-#: Dark_Elves/units/Dark_Elf_Stalker.cfg:57
-#: Dark_Elves/units/Dark_Elf_Hunter.cfg:56
-#: Dark_Elves/units/Dark_Elf_Shadow.cfg:57
+#: Dark_Elves/units/Dark_Elf_Stalker.cfg:40
+#: Dark_Elves/units/Dark_Elf_Hunter.cfg:45
+#: Dark_Elves/units/Dark_Elf_Shadow.cfg:40
 msgid "dagger"
-msgstr ""
+msgstr "hançer"
 
-#: Dark_Elves/units/Dark_Elf_Hunter.cfg:77
+#: Dark_Elves/units/Dark_Elf_Hunter.cfg:66
 msgid "bow"
-msgstr ""
+msgstr "ok"
 
-#: Dark_Elves/units/Dark_Elf_Stalker.cfg:83
-#: Dark_Elves/units/Dark_Elf_Hunter.cfg:82
-#: Dark_Elves/units/Dark_Elf_Shadow.cfg:83
+#: Dark_Elves/units/Dark_Elf_Stalker.cfg:66
+#: Dark_Elves/units/Dark_Elf_Hunter.cfg:71
+#: Dark_Elves/units/Dark_Elf_Shadow.cfg:66
 msgid "poison"
-msgstr ""
+msgstr "zehir"
 
 #: Dark_Elves/units/Dark_Elf_Lizard_Master.cfg:4
 msgid "Dark Elf Lizard-Master"
-msgstr ""
+msgstr "Kara Elf Kertenkele Ustaları"
 
 #: Dark_Elves/units/Dark_Elf_Lizard_Master.cfg:19
 msgid ""
@@ -802,25 +886,27 @@ msgid ""
 "Many an Dwarf has been cut in two by it's strong jaws. It would be well to "
 "recruit several of these powerful units."
 msgstr ""
+"Kertenkeleler atlar kadar hızlı olmasalar da onlardan çok daha güçlüdürler. "
+"Güçlü çeneleri bir cüceyi ikiye ayırmaya yeterlidir. Güçlü birliklerde "
+"bunlardan birçoğunu bulundurmakta yarar vardır."
 
 #: Dark_Elves/units/Dark_Elf_Lizard_Master.cfg:39
-#: Dark_Elves/units/Dark_Elf_Lizard_Rider.cfg:39
+#: Dark_Elves/units/Dark_Elf_Lizard_Rider.cfg:44
 msgid "deathlance"
-msgstr ""
+msgstr "ölümmızrağı"
 
 #: Dark_Elves/units/Dark_Elf_Lizard_Master.cfg:41
-#: Dark_Elves/units/Dark_Elf_Lizard_Rider.cfg:41
+#: Dark_Elves/units/Dark_Elf_Lizard_Rider.cfg:46
 msgid "charge"
-msgstr ""
+msgstr "yükleme"
 
 #: Dark_Elves/units/Dark_Elf_Lizard_Master.cfg:61
-#: Dark_Elves/units/Dark_Elf_Lizard_Rider.cfg:61
 msgid "bite"
-msgstr ""
+msgstr "ısır"
 
 #: Dark_Elves/units/Dark_Elf_Lizard_Rider.cfg:4
 msgid "Dark Elf Lizard-Rider"
-msgstr ""
+msgstr "Kara Elf Kertenkele Binici"
 
 #: Dark_Elves/units/Dark_Elf_Lizard_Rider.cfg:19
 msgid ""
@@ -829,57 +915,72 @@ msgid ""
 "unknown, to go where no Dark Elf has gone before. Some day, they will become "
 "Master of the Lizard."
 msgstr ""
+"Çocukluklarından beri, canavarlarıyla beraber eğitilmişlerdir, onları "
+"beslerler, iyileştirirler ve onlarla beraber uyurlar. Onların görevleri "
+"bilinmeyene öncülük etmektir, daha önce Kara Elflerin girmediği yerleri "
+"keşfetmektir. Bir gün Kertenkele Efendisi olacaklar."
+
+#: Dark_Elves/units/Dark_Elf_Lizard_Rider.cfg:61
+msgid "claw"
+msgstr ""
 
 #: Dark_Elves/units/Dark_Elf_Marshal.cfg:4
 msgid "Dark Elf Marshal"
-msgstr ""
+msgstr "Kara Elf Mareşaller"
 
-#: Dark_Elves/units/Dark_Elf_Marshal.cfg:38
+#: Dark_Elves/units/Dark_Elf_Marshal.cfg:21
 msgid ""
 "These Elves have proven themselves on and off the battle field with their "
 "character and demeanor. They have earned for themselves the rank of Marshal. "
 "Although they can never become Lords, they still strive to do their best to "
 "defend the Matron Mother with their swords and short spears."
 msgstr ""
+"Bu elfler, savaş alanındaki karakterleri ve tavırlarıyla kendilerini "
+"kanıtlamışlardır. Mareşal rühbesini kendileri için kazanmışlardır. Asla "
+"Efendi olamayacaklarına rağmen, hala kılıçları ve kısa mızraklarıyla, Matron "
+"Ana'yı en iyi şekilde savunmaya çalışmaktadırlar."
 
 #: Dark_Elves/units/Dark_Elf_Shadow.cfg:4
 msgid "Dark Elf Shadow"
-msgstr ""
+msgstr "Kara Elf Gölgeler"
 
-#: Dark_Elves/units/Dark_Elf_Stalker.cfg:13
-#: Dark_Elves/units/Dark_Elf_Shadow.cfg:13
-msgid "cavestalk"
-msgstr ""
-
-#: Dark_Elves/units/Dark_Elf_Shadow.cfg:37
+#: Dark_Elves/units/Dark_Elf_Shadow.cfg:20
 msgid ""
 "Staying hidden safe in the shadows of the caves, they will hit you when you "
 "least expect it. Despite their frailty, they can inflict great damage over "
 "time, slowly taking the life away from their prey ."
 msgstr ""
+"Mağaraların gölgelerinde güvenle otururlar ve sizi en beklemediğiniz anda "
+"vururlar. Zayıflıklarına rağmen, zamanla büyük hasar verirler, kurbanlarının "
+"hayatını yavaşça alırlar."
 
-#: Dark_Elves/units/Dark_Elf_Stalker.cfg:78
-#: Dark_Elves/units/Dark_Elf_Shadow.cfg:78
+#: Dark_Elves/units/Dark_Elf_Stalker.cfg:61
+#: Dark_Elves/units/Dark_Elf_Shadow.cfg:61
 msgid "crossbow"
-msgstr ""
+msgstr "Tatar yayı"
 
 #: Dark_Elves/units/Dark_Elf_Sorcerer.cfg:4
 msgid "Dark Elf Sorcerer"
-msgstr ""
+msgstr "Kara Elf Sihirbazlar"
 
-#: Dark_Elves/units/Dark_Elf_Sorcerer.cfg:38
+#: Dark_Elves/units/Dark_Elf_Sorcerer.cfg:20
 msgid ""
 "Sorcerers are Wizards that have gone deeper into the studying of the arcane "
 "arts. Their research consumes them in a quest for more power, leading them "
 "down a path toward the dark arts practiced by the Necromancers and Lichs. "
 "Their mighty cold blast can freeze any foe that dares to cross their path."
 msgstr ""
+"Sihirbazlar ve büyücüler gizli sanatlarda çalışmalarını çok derinlere "
+"götürenlerdir. Araştırmaları onları daha fazla güç için arayışa sürükler, ve "
+"Nekromantikler ve Ölü büyücülerin ilişkilendiği kara  sanatlara doğru "
+"götürür. Kudretli soğuk öfkeleri, önlerine çıkmaya cesaret eden her düşmanı "
+"donduracak niteliktedir."
 
 #: Dark_Elves/units/Dark_Elf_Sorceress.cfg:4
 msgid "female^Dark Elf Sorceress"
-msgstr ""
+msgstr "dişi^Kara Elf Sihirbazlar"
 
-#: Dark_Elves/units/Dark_Elf_Sorceress.cfg:39
+#: Dark_Elves/units/Dark_Elf_Sorceress.cfg:21
 msgid ""
 "The women of the Dark Elves often join the Order of the Clerics at a very "
 "young age. These have gained the rank of Sorceress, and have nearly mastered "
@@ -887,53 +988,201 @@ msgid ""
 "Very soon, they will become Clerics, the terribly seductive sadistic "
 "torturers."
 msgstr ""
+"Kara Elf kadınları çoğunlukla çok genç bir yaşta Ruhban Emirleri'ne "
+"katılırlar. Sihirbazlık rütbesini alanlar ve kurbanlarını tekrar tekrar "
+"iyileştirme, işkence etme ve yeniden iyileştirme konusunda neredeyse usta "
+"olanlar, çok geçmeden korkunç sadistik işkenceler yapan Ruhbanlara "
+"dönüşürler."
 
 #: Dark_Elves/units/Dark_Elf_Stalker.cfg:4
 msgid "Dark Elf Stalker"
-msgstr ""
+msgstr "Kara Elf İzcileri"
 
-#: Dark_Elves/units/Dark_Elf_Stalker.cfg:37
+#: Dark_Elves/units/Dark_Elf_Stalker.cfg:20
 msgid ""
 "Cunning, agile warriors, the Stalkers are powerful in both the use of their "
 "daggers and crossbows. They are completely hidden in the caves, only the "
 "thud of a dead body tells you they are near."
 msgstr ""
+"Kurnaz, çevik savaşçılar olan İzciler hem hançerlerini hem de tatar "
+"yaylarını kullanmakta ustadırlar. Tamamiyle mağaralarda saklanırlar ve "
+"onların yakınlarda bir yerlerde olduğunun tek belirtisi yerde yatan ölü bir "
+"bedendir."
 
 #: Dark_Elves/units/Dark_Elf_Warlock.cfg:4
 msgid "Dark Elf Warlock"
-msgstr ""
+msgstr "Kara Elf Cincileri"
 
-#: Dark_Elves/units/Dark_Elf_Warlock.cfg:37
+#: Dark_Elves/units/Dark_Elf_Warlock.cfg:20
 msgid ""
 "The best of their kind, these Warlocks have immense power, rivaling even "
 "that of the Arch Mage. They have discovered the secrets of the dark arts, "
 "and have the power to drain life from their opponents with a single touch, "
 "and add it to their own."
 msgstr ""
+"Türlerinin en iyileri olan Cinciler muazzam güce sahiptirler ve yalnızca Baş "
+"Büyücülere rakip olabilirler. Karanlık sanatların sırlarını keşfetmişlerdir "
+"ve basit bir dokunuşla karşısındakinin yaşamını içip kendilerine "
+"katabilirler."
 
-#: Dark_Elves/units/Dark_Elf_Warlock.cfg:57
+#: Dark_Elves/units/Dark_Elf_Warlock.cfg:40
 msgid "touch"
-msgstr ""
+msgstr "dokun"
 
-#: Dark_Elves/units/Dark_Elf_Warlock.cfg:62
+#: Dark_Elves/units/Dark_Elf_Warlock.cfg:45
 msgid "drain"
-msgstr ""
+msgstr "iç"
 
-#: Dark_Elves/units/Dark_Elf_Warrior.cfg:36
+#: Dark_Elves/units/Dark_Elf_Warrior.cfg:19
 msgid ""
 "These Warriors have devoted themselves totally to mastering the use of dual "
 "weapons. With their balanced blades, they can shave a Dwarf. Only few become "
 "Corsairs."
 msgstr ""
+"Bu savaşçılar kendilerini tamamen çifte silahların kullanımında ustalaşmaya "
+"adamışlardır. Dengeli bıçaklarıyla bir cüceyi traş edebilirler. Çok azı "
+"Korsana dönüşebilir."
 
 #: Dark_Elves/units/Dark_Elf_Wizard.cfg:4
 msgid "Dark Elf Wizard"
-msgstr ""
+msgstr "Kara Elf Büyücü"
 
-#: Dark_Elves/units/Dark_Elf_Wizard.cfg:38
+#: Dark_Elves/units/Dark_Elf_Wizard.cfg:20
 msgid ""
 "Some Dark Elves prefer studying the arcane arts over close-comabt. Usually "
 "they are left to the lesser duties of the House, such as upkeep, watching "
 "the slaves, and other such things. However, in time of conflict, they can do "
 "great damage, even though they lack any training in close-combat."
 msgstr ""
+"Bazı Kara Elfler, gizli sanatlarını yakın dövüşte sergilemeyi severler. "
+"Genelde meclisin küçük işleriyle uğraşırlar, esirleri gözleme ya da bunun "
+"gibi şeyler. Ancak zamanla çok büyük zarar verebilirler, yalnızca yakın "
+"dövüşe gereksinim duyarlar."
+
+#~ msgid ""
+#~ "Ah good, some Dwarves. Maybe they can end this living hell for me. Come "
+#~ "men, let us kill these greedy Dwarves!"
+#~ msgstr ""
+#~ "Ah iyi, birkaç Cüce. Belki de bu yaşayan cehennemi benim için "
+#~ "sonlandırabilirler. Gelin adamlarım, şu açgözlü Cüceleri öldürmeye yardım "
+#~ "edin!"
+
+#~ msgid ""
+#~ "Look! Elves, in caves! How did they get here? But they are coming to "
+#~ "attack us, Hurry! Kill the Elves"
+#~ msgstr ""
+#~ "Bakın! Mağaralarda elfler! Buraya nasıl girmişler? Bize saldırmak için "
+#~ "geliyorlar. Çabuk! Elfleri öldürün"
+
+#~ msgid "Go on."
+#~ msgstr "Devam et"
+
+#~ msgid ""
+#~ "These are but a few of a large army. They are marching to the attack, and "
+#~ "shall be here in a few days."
+#~ msgstr ""
+#~ "Bunlar büyük bir ordunun sadece birazı. Saldırmaya hazırlanıyorlar ve "
+#~ "birkaç gün içinde burada olurlar."
+
+#~ msgid "Yeah yeah, I'm on it."
+#~ msgstr "Evet, evet. Elimizi çabuk tutalım."
+
+#~ msgid ""
+#~ "Show some respect, or I'll have your eyeballs pulled out of your sockets!"
+#~ msgstr "Biraz saygı gösterin, yoksa gözlerinizi yuvalarından çıkarırım!"
+
+#~ msgid "Of...of course..m.my lord. We shall be ready to leave in an hour."
+#~ msgstr "Tabii...tabii ki..e.efendim. Bir saat içinde hazır oluruz."
+
+#~ msgid "Unnamed Dwarf Leader"
+#~ msgstr "Adsız Cüce Lideri"
+
+#~ msgid "Hold there! Who are you?"
+#~ msgstr "Dur bakalım! Sen de kimsin?"
+
+#~ msgid ""
+#~ "Thank the Mother you are here! We are being besieged by Dwarves. They are "
+#~ "pillaging our homes and killing our men. Help us please, please, please, "
+#~ "please, pleasseee!"
+#~ msgstr ""
+#~ "Ana'ya şükür ki buradasınız! Cüceler tarafından saldırıya uğradık. "
+#~ "Evlerimizi basıyorlar ve adamlarımızı öldürüyorlar. Bize yardım edin, "
+#~ "lütfen, lütfen, lütfeeeeennn!"
+
+#~ msgid "Very well, but stop your begging before I loose my temper!"
+#~ msgstr "Pekala, ama sabrımı taşırmadan önce, yalvarmayı kes!"
+
+#~ msgid "Look! There are the Dwarves!"
+#~ msgstr "Bakın! Burada cüceler var!"
+
+#~ msgid "Look! More Cave Elves! For Vladdy!"
+#~ msgstr "Bakın! Bir kaç mağara elfi daha! Vladdy için!"
+
+#~ msgid "Die, Dwarf scum! The Clerics will make great sport with you..."
+#~ msgstr "Öl cüce, seni pislik! Ruhbanlar senle alakadar olacaklardır..."
+
+#~ msgid "Yes, oh yes!"
+#~ msgstr "Evet, ahh evet!"
+
+#~ msgid "Nooooooooo!"
+#~ msgstr "Hayıııııırrrrrrrrr!"
+
+#~ msgid "Finally, our land is rid of these monsters!"
+#~ msgstr "Sonunda topraklarımız bu canavardan kurtuldu!"
+
+#~ msgid ""
+#~ "It won't last. A large army is coming this way. It's only the beginning."
+#~ msgstr ""
+#~ "Bu son değil. Büyük bir ordu buraya doğru geliyor. Bu yalnızca başlangıç."
+
+#~ msgid ""
+#~ "Then I shall go with you on your quest. No one knows the caves better "
+#~ "then I do."
+#~ msgstr ""
+#~ "O halde ben de seninle geleceğim. Bu mağaraları kimse benden daha iyi "
+#~ "bilemez."
+
+#~ msgid "Very well, you may join."
+#~ msgstr "Çok güzel, o halde katılabilirsin."
+
+#~ msgid "Oh! Thank you! Thank you! Thank you! Thank y..."
+#~ msgstr ""
+#~ "Ah! Teşekkür ederim! Teşekkür ederim! Teşekkür ederim! Teşekkür ed..."
+
+#~ msgid "BE SILENT!"
+#~ msgstr "SESSİZ OL!"
+
+#~ msgid "There must be more of them, we have yet to hit the advance guard."
+#~ msgstr "Onlardan çok fazla olmalı, öncelikle pişdarlarını vurmalıyız."
+
+#~ msgid ""
+#~ "Let them come. We will rip them to shreds. Hunting the enemy is my "
+#~ "specialty!"
+#~ msgstr ""
+#~ "Gelmelerine izin verin. Onları parçalara ayıracağız. Düşmanları avlamak "
+#~ "benim özel yeteneğim!"
+
+#~ msgid ""
+#~ "We must proceed carefully. The fugitives will have spread word of our "
+#~ "coming, and we may be ambushed."
+#~ msgstr ""
+#~ "Dikkatli ilerlemeliyiz. Casuslar geldiğimizi fısıldayabilirler ve pusuya "
+#~ "düşürülebiliriz."
+
+#~ msgid ""
+#~ "The tunnels ahead have not been traversed for quite some time now. That "
+#~ "is where I would often go to do my hunting, the larger creatures reside "
+#~ "there."
+#~ msgstr ""
+#~ "İlerideki tüneller uzun zamandır kullanılmıyor. Oraları sık sık avlanmaya "
+#~ "gittiğim yerlerdir, büyük yaratıklar orada ikamet ederler."
+
+#~ msgid ""
+#~ "Great, Dwarves and monsters. Well, we don't seem to have much choice. Let "
+#~ "us keep going."
+#~ msgstr ""
+#~ "Güzel, Cüceler ve canavarlar. Peki, pek fazla seçim şansımız yok gibi. "
+#~ "Hadi öyleyse..."
+
+#~ msgid "cavestalk"
+#~ msgstr "cavestalk"
