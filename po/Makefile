@@ -14,7 +14,7 @@
 # - proper behaviour when msgfmt is missing
 # - support for relative localedir
 
-PACKAGE = wesnoth-A_New_Order
+PACKAGE = wesnoth-Dark_Elves
 VERSION = @VERSION@
 
 SHELL = /bin/sh

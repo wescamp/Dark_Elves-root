@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2005-11-26 10:58+0100\n"
+"POT-Creation-Date: 2006-03-13 13:44+0100\n"
 "PO-Revision-Date: 2005-11-26 10:58+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -94,9 +94,9 @@ msgid ""
 "that you die in this battle..."
 msgstr ""
 
-#: Dark_Elves/scenarios/Path.cfg:25 Dark_Elves/scenarios/Hunt.cfg:34
+#: Dark_Elves/scenarios/Hunt.cfg:34 Dark_Elves/scenarios/Path.cfg:25
+#: Dark_Elves/scenarios/Beginning.cfg:47 Dark_Elves/scenarios/Time.cfg:23
 #: Dark_Elves/scenarios/Danger.cfg:24 Dark_Elves/scenarios/Relentless.cfg:26
-#: Dark_Elves/scenarios/Time.cfg:23 Dark_Elves/scenarios/Beginning.cfg:47
 msgid "Varish'na"
 msgstr ""
 
@@ -108,15 +108,15 @@ msgstr ""
 msgid "Kill the Dwarves"
 msgstr ""
 
-#: Dark_Elves/scenarios/Path.cfg:61 Dark_Elves/scenarios/Hunt.cfg:65
+#: Dark_Elves/scenarios/Hunt.cfg:65 Dark_Elves/scenarios/Path.cfg:61
+#: Dark_Elves/scenarios/Beginning.cfg:79 Dark_Elves/scenarios/Time.cfg:44
 #: Dark_Elves/scenarios/Danger.cfg:44 Dark_Elves/scenarios/Relentless.cfg:76
-#: Dark_Elves/scenarios/Time.cfg:44 Dark_Elves/scenarios/Beginning.cfg:79
 msgid "Death of Varish'na"
 msgstr ""
 
-#: Dark_Elves/scenarios/Path.cfg:73 Dark_Elves/scenarios/Hunt.cfg:73
+#: Dark_Elves/scenarios/Hunt.cfg:73 Dark_Elves/scenarios/Path.cfg:73
+#: Dark_Elves/scenarios/Beginning.cfg:83 Dark_Elves/scenarios/Time.cfg:56
 #: Dark_Elves/scenarios/Danger.cfg:56 Dark_Elves/scenarios/Relentless.cfg:84
-#: Dark_Elves/scenarios/Time.cfg:56 Dark_Elves/scenarios/Beginning.cfg:83
 msgid "Turns run out"
 msgstr ""
 
@@ -170,9 +170,9 @@ msgstr ""
 msgid "That's the idea."
 msgstr ""
 
-#: Dark_Elves/scenarios/Path.cfg:357 Dark_Elves/scenarios/Hunt.cfg:205
+#: Dark_Elves/scenarios/Hunt.cfg:205 Dark_Elves/scenarios/Path.cfg:357
+#: Dark_Elves/scenarios/Beginning.cfg:167 Dark_Elves/scenarios/Time.cfg:159
 #: Dark_Elves/scenarios/Danger.cfg:157 Dark_Elves/scenarios/Relentless.cfg:150
-#: Dark_Elves/scenarios/Time.cfg:159 Dark_Elves/scenarios/Beginning.cfg:167
 msgid "No! I have failed!"
 msgstr ""
 
@@ -180,22 +180,22 @@ msgstr ""
 msgid "Danger Lurks"
 msgstr ""
 
-#: Dark_Elves/scenarios/Danger.cfg:34 Dark_Elves/scenarios/Time.cfg:33
+#: Dark_Elves/scenarios/Time.cfg:33 Dark_Elves/scenarios/Danger.cfg:34
 msgid "Dwarf"
 msgstr ""
 
-#: Dark_Elves/scenarios/Danger.cfg:40 Dark_Elves/scenarios/Time.cfg:40
+#: Dark_Elves/scenarios/Time.cfg:40 Dark_Elves/scenarios/Danger.cfg:40
 msgid "Kill the Dwarf Leader"
 msgstr ""
 
-#: Dark_Elves/scenarios/Path.cfg:65 Dark_Elves/scenarios/Hunt.cfg:69
-#: Dark_Elves/scenarios/Danger.cfg:48 Dark_Elves/scenarios/Relentless.cfg:80
-#: Dark_Elves/scenarios/Time.cfg:48
+#: Dark_Elves/scenarios/Hunt.cfg:69 Dark_Elves/scenarios/Path.cfg:65
+#: Dark_Elves/scenarios/Time.cfg:48 Dark_Elves/scenarios/Danger.cfg:48
+#: Dark_Elves/scenarios/Relentless.cfg:80
 msgid "Death of Voldel"
 msgstr ""
 
-#: Dark_Elves/scenarios/Path.cfg:69 Dark_Elves/scenarios/Danger.cfg:52
-#: Dark_Elves/scenarios/Time.cfg:52
+#: Dark_Elves/scenarios/Path.cfg:69 Dark_Elves/scenarios/Time.cfg:52
+#: Dark_Elves/scenarios/Danger.cfg:52
 msgid "Death of Traya"
 msgstr ""
 
@@ -658,23 +658,23 @@ msgid ""
 msgstr ""
 
 #: Dark_Elves/units/Dark_Elf_Corsair.cfg:56
-#: Dark_Elves/units/Dark_Elf_Marshal.cfg:58
-#: Dark_Elves/units/Dark_Elf_Warrior.cfg:56
-#: Dark_Elves/units/Dark_Elf_Captain.cfg:58
 #: Dark_Elves/units/Dark_Elf_Fighter.cfg:56
+#: Dark_Elves/units/Dark_Elf_Warrior.cfg:56
+#: Dark_Elves/units/Dark_Elf_Marshal.cfg:58
+#: Dark_Elves/units/Dark_Elf_Captain.cfg:58
 msgid "sword"
 msgstr ""
 
 #: Dark_Elves/units/Dark_Elf_Corsair.cfg:57
+#: Dark_Elves/units/Dark_Elf_Shadow.cfg:58
 #: Dark_Elves/units/Dark_Elf_Stalker.cfg:58
+#: Dark_Elves/units/Dark_Elf_Fighter.cfg:57
+#: Dark_Elves/units/Dark_Elf_Lizard_Rider.cfg:62
+#: Dark_Elves/units/Dark_Elf_Hunter.cfg:57
+#: Dark_Elves/units/Dark_Elf_Warrior.cfg:57
 #: Dark_Elves/units/Dark_Elf_Marshal.cfg:59
 #: Dark_Elves/units/Dark_Elf_Lizard_Master.cfg:62
-#: Dark_Elves/units/Dark_Elf_Warrior.cfg:57
-#: Dark_Elves/units/Dark_Elf_Hunter.cfg:57
-#: Dark_Elves/units/Dark_Elf_Lizard_Rider.cfg:62
 #: Dark_Elves/units/Dark_Elf_Captain.cfg:59
-#: Dark_Elves/units/Dark_Elf_Shadow.cfg:58
-#: Dark_Elves/units/Dark_Elf_Fighter.cfg:57
 msgid "blade"
 msgstr ""
 
@@ -684,14 +684,14 @@ msgstr ""
 msgid "spear"
 msgstr ""
 
+#: Dark_Elves/units/Dark_Elf_Shadow.cfg:79
 #: Dark_Elves/units/Dark_Elf_Stalker.cfg:79
+#: Dark_Elves/units/Dark_Elf_Lizard_Rider.cfg:40
+#: Dark_Elves/units/Dark_Elf_Hunter.cfg:78
 #: Dark_Elves/units/Dark_Elf_Marshal.cfg:80
 #: Dark_Elves/units/Dark_Elf_Marshal.cfg:101
 #: Dark_Elves/units/Dark_Elf_Lizard_Master.cfg:40
-#: Dark_Elves/units/Dark_Elf_Hunter.cfg:78
-#: Dark_Elves/units/Dark_Elf_Lizard_Rider.cfg:40
 #: Dark_Elves/units/Dark_Elf_Captain.cfg:80
-#: Dark_Elves/units/Dark_Elf_Shadow.cfg:79
 msgid "pierce"
 msgstr ""
 
@@ -708,42 +708,42 @@ msgid ""
 msgstr ""
 
 #: Dark_Elves/units/Dark_Elf_Cleric.cfg:59
-#: Dark_Elves/units/Dark_Elf_Enchantress.cfg:58
 #: Dark_Elves/units/Dark_Elf_Sorceress.cfg:59
+#: Dark_Elves/units/Dark_Elf_Enchantress.cfg:58
 msgid "mace"
 msgstr ""
 
 #: Dark_Elves/units/Dark_Elf_Cleric.cfg:60
-#: Dark_Elves/units/Dark_Elf_Enchantress.cfg:59
 #: Dark_Elves/units/Dark_Elf_Sorceress.cfg:60
+#: Dark_Elves/units/Dark_Elf_Enchantress.cfg:59
 msgid "impact"
 msgstr ""
 
-#: Dark_Elves/units/Dark_Elf_Sorcerer.cfg:58
-#: Dark_Elves/units/Dark_Elf_Cleric.cfg:80
-#: Dark_Elves/units/Dark_Elf_Warlock.cfg:75
 #: Dark_Elves/units/Dark_Elf_Wizard.cfg:58
-#: Dark_Elves/units/Dark_Elf_Enchantress.cfg:79
+#: Dark_Elves/units/Dark_Elf_Cleric.cfg:80
+#: Dark_Elves/units/Dark_Elf_Sorcerer.cfg:58
+#: Dark_Elves/units/Dark_Elf_Warlock.cfg:75
 #: Dark_Elves/units/Dark_Elf_Sorceress.cfg:80
+#: Dark_Elves/units/Dark_Elf_Enchantress.cfg:79
 msgid "magic"
 msgstr ""
 
-#: Dark_Elves/units/Dark_Elf_Sorcerer.cfg:59
+#: Dark_Elves/units/Dark_Elf_Wizard.cfg:59
 #: Dark_Elves/units/Dark_Elf_Cleric.cfg:81
+#: Dark_Elves/units/Dark_Elf_Sorcerer.cfg:59
 #: Dark_Elves/units/Dark_Elf_Warlock.cfg:58
 #: Dark_Elves/units/Dark_Elf_Warlock.cfg:76
-#: Dark_Elves/units/Dark_Elf_Wizard.cfg:59
-#: Dark_Elves/units/Dark_Elf_Enchantress.cfg:80
 #: Dark_Elves/units/Dark_Elf_Sorceress.cfg:81
+#: Dark_Elves/units/Dark_Elf_Enchantress.cfg:80
 msgid "cold"
 msgstr ""
 
-#: Dark_Elves/units/Dark_Elf_Sorcerer.cfg:60
-#: Dark_Elves/units/Dark_Elf_Cleric.cfg:82
-#: Dark_Elves/units/Dark_Elf_Warlock.cfg:77
 #: Dark_Elves/units/Dark_Elf_Wizard.cfg:60
-#: Dark_Elves/units/Dark_Elf_Enchantress.cfg:81
+#: Dark_Elves/units/Dark_Elf_Cleric.cfg:82
+#: Dark_Elves/units/Dark_Elf_Sorcerer.cfg:60
+#: Dark_Elves/units/Dark_Elf_Warlock.cfg:77
 #: Dark_Elves/units/Dark_Elf_Sorceress.cfg:82
+#: Dark_Elves/units/Dark_Elf_Enchantress.cfg:81
 msgid "magical"
 msgstr ""
 
@@ -784,9 +784,9 @@ msgid ""
 "out a sound, except for the twang of their crossbows."
 msgstr ""
 
+#: Dark_Elves/units/Dark_Elf_Shadow.cfg:57
 #: Dark_Elves/units/Dark_Elf_Stalker.cfg:57
 #: Dark_Elves/units/Dark_Elf_Hunter.cfg:56
-#: Dark_Elves/units/Dark_Elf_Shadow.cfg:57
 msgid "dagger"
 msgstr ""
 
@@ -794,9 +794,9 @@ msgstr ""
 msgid "bow"
 msgstr ""
 
+#: Dark_Elves/units/Dark_Elf_Shadow.cfg:83
 #: Dark_Elves/units/Dark_Elf_Stalker.cfg:83
 #: Dark_Elves/units/Dark_Elf_Hunter.cfg:82
-#: Dark_Elves/units/Dark_Elf_Shadow.cfg:83
 msgid "poison"
 msgstr ""
 
@@ -811,18 +811,18 @@ msgid ""
 "recruit several of these powerful units."
 msgstr ""
 
-#: Dark_Elves/units/Dark_Elf_Lizard_Master.cfg:39
 #: Dark_Elves/units/Dark_Elf_Lizard_Rider.cfg:39
+#: Dark_Elves/units/Dark_Elf_Lizard_Master.cfg:39
 msgid "deathlance"
 msgstr ""
 
-#: Dark_Elves/units/Dark_Elf_Lizard_Master.cfg:41
 #: Dark_Elves/units/Dark_Elf_Lizard_Rider.cfg:41
+#: Dark_Elves/units/Dark_Elf_Lizard_Master.cfg:41
 msgid "charge"
 msgstr ""
 
-#: Dark_Elves/units/Dark_Elf_Lizard_Master.cfg:61
 #: Dark_Elves/units/Dark_Elf_Lizard_Rider.cfg:61
+#: Dark_Elves/units/Dark_Elf_Lizard_Master.cfg:61
 msgid "bite"
 msgstr ""
 
@@ -854,8 +854,8 @@ msgstr ""
 msgid "Dark Elf Shadow"
 msgstr ""
 
-#: Dark_Elves/units/Dark_Elf_Stalker.cfg:13
 #: Dark_Elves/units/Dark_Elf_Shadow.cfg:13
+#: Dark_Elves/units/Dark_Elf_Stalker.cfg:13
 msgid "cavestalk"
 msgstr ""
 
@@ -866,8 +866,8 @@ msgid ""
 "time, slowly taking the life away from their prey ."
 msgstr ""
 
-#: Dark_Elves/units/Dark_Elf_Stalker.cfg:78
 #: Dark_Elves/units/Dark_Elf_Shadow.cfg:78
+#: Dark_Elves/units/Dark_Elf_Stalker.cfg:78
 msgid "crossbow"
 msgstr ""
 
