@@ -1,11 +1,12 @@
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2006-03-13 13:44+0100\n"
-"PO-Revision-Date: 2005-09-29 22:08+0200\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2006-06-12 15:03+0200\n"
+"Last-Translator: Hendrik Brandt <eru@gmx.li>\n"
+"Language-Team: German <gnome-de@gnome.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -13,35 +14,36 @@ msgstr ""
 
 #: Dark_Elves.cfg:9
 msgid "A New Threat"
-msgstr ""
+msgstr "Eine neue Bedrohung"
 
 #: Dark_Elves/units/Dark_Elf_Fighter.cfg:4 Dark_Elves.cfg:17
 msgid "Dark Elf Fighter"
-msgstr ""
+msgstr "Dunkelelfen Kämpfer"
 
 #: Dark_Elves.cfg:17
 msgid "(easiest)"
-msgstr ""
+msgstr "(einfach)"
 
 #: Dark_Elves/units/Dark_Elf_Warrior.cfg:4 Dark_Elves.cfg:18
 msgid "Dark Elf Warrior"
-msgstr ""
+msgstr "Dunkelelfen Krieger"
 
 #: Dark_Elves.cfg:19
 msgid "(hardest)"
-msgstr ""
+msgstr "(schwierig)"
 
 #: Dark_Elves/units/Dark_Elf_Corsair.cfg:4 Dark_Elves.cfg:19
+#, fuzzy
 msgid "Dark Elf Corsair"
-msgstr ""
+msgstr "Dunkelelfen Kosar"
 
 #: Dark_Elves.cfg:21
 msgid "Defend the Caves against the Dwarvish Invasion."
-msgstr ""
+msgstr "Verteidigt die Höhlen gegen die Inversion der Zwerge"
 
 #: Dark_Elves/scenarios/Beginning.cfg:5
 msgid "It's only the Beginning"
-msgstr ""
+msgstr "Es ist nur der Anfang"
 
 #: Dark_Elves/scenarios/Beginning.cfg:10
 msgid ""
@@ -98,27 +100,27 @@ msgstr ""
 #: Dark_Elves/scenarios/Beginning.cfg:47 Dark_Elves/scenarios/Time.cfg:23
 #: Dark_Elves/scenarios/Danger.cfg:24 Dark_Elves/scenarios/Relentless.cfg:26
 msgid "Varish'na"
-msgstr ""
+msgstr "Varish'na"
 
 #: Dark_Elves/scenarios/Beginning.cfg:62
 msgid "Trith"
-msgstr ""
+msgstr "Trith"
 
 #: Dark_Elves/scenarios/Path.cfg:53 Dark_Elves/scenarios/Beginning.cfg:75
 msgid "Kill the Dwarves"
-msgstr ""
+msgstr "Tötet die Zwerge"
 
 #: Dark_Elves/scenarios/Hunt.cfg:65 Dark_Elves/scenarios/Path.cfg:61
 #: Dark_Elves/scenarios/Beginning.cfg:79 Dark_Elves/scenarios/Time.cfg:44
 #: Dark_Elves/scenarios/Danger.cfg:44 Dark_Elves/scenarios/Relentless.cfg:76
 msgid "Death of Varish'na"
-msgstr ""
+msgstr "Tod von Varish'na"
 
 #: Dark_Elves/scenarios/Hunt.cfg:73 Dark_Elves/scenarios/Path.cfg:73
 #: Dark_Elves/scenarios/Beginning.cfg:83 Dark_Elves/scenarios/Time.cfg:56
 #: Dark_Elves/scenarios/Danger.cfg:56 Dark_Elves/scenarios/Relentless.cfg:84
 msgid "Turns run out"
-msgstr ""
+msgstr "Rundenlimit überschritten"
 
 #: Dark_Elves/scenarios/Beginning.cfg:97
 msgid ""
@@ -140,7 +142,7 @@ msgstr ""
 
 #: Dark_Elves/scenarios/Beginning.cfg:127
 msgid "What is it?"
-msgstr ""
+msgstr "Was gibt es?"
 
 #: Dark_Elves/scenarios/Beginning.cfg:131
 msgid ""
@@ -150,11 +152,11 @@ msgstr ""
 
 #: Dark_Elves/scenarios/Beginning.cfg:135
 msgid "Are they sure of this?"
-msgstr ""
+msgstr "Sind sie sich da sicher?"
 
 #: Dark_Elves/scenarios/Beginning.cfg:139
 msgid "Have they ever been wrong before?"
-msgstr ""
+msgstr "Haben sie jemals falsch gelegen?"
 
 #: Dark_Elves/scenarios/Beginning.cfg:143
 msgid ""
@@ -167,14 +169,15 @@ msgid "But my lord... They far outnumber us to charge would be suicide... "
 msgstr ""
 
 #: Dark_Elves/scenarios/Beginning.cfg:151
+#, fuzzy
 msgid "That's the idea."
-msgstr ""
+msgstr "Das ist DIE Idee."
 
 #: Dark_Elves/scenarios/Hunt.cfg:205 Dark_Elves/scenarios/Path.cfg:357
 #: Dark_Elves/scenarios/Beginning.cfg:167 Dark_Elves/scenarios/Time.cfg:159
 #: Dark_Elves/scenarios/Danger.cfg:157 Dark_Elves/scenarios/Relentless.cfg:150
 msgid "No! I have failed!"
-msgstr ""
+msgstr "Nein! Ich habe mich geirrt!"
 
 #: Dark_Elves/scenarios/Danger.cfg:5
 msgid "Danger Lurks"
@@ -182,22 +185,22 @@ msgstr ""
 
 #: Dark_Elves/scenarios/Time.cfg:33 Dark_Elves/scenarios/Danger.cfg:34
 msgid "Dwarf"
-msgstr ""
+msgstr "Zwerg"
 
 #: Dark_Elves/scenarios/Time.cfg:40 Dark_Elves/scenarios/Danger.cfg:40
 msgid "Kill the Dwarf Leader"
-msgstr ""
+msgstr "Tötet den Anführer der Zwerge."
 
 #: Dark_Elves/scenarios/Hunt.cfg:69 Dark_Elves/scenarios/Path.cfg:65
 #: Dark_Elves/scenarios/Time.cfg:48 Dark_Elves/scenarios/Danger.cfg:48
 #: Dark_Elves/scenarios/Relentless.cfg:80
 msgid "Death of Voldel"
-msgstr ""
+msgstr "Tod von Voldel"
 
 #: Dark_Elves/scenarios/Path.cfg:69 Dark_Elves/scenarios/Time.cfg:52
 #: Dark_Elves/scenarios/Danger.cfg:52
 msgid "Death of Traya"
-msgstr ""
+msgstr "Tod von Traya"
 
 #: Dark_Elves/scenarios/Danger.cfg:71
 msgid ""
@@ -211,7 +214,7 @@ msgstr ""
 
 #: Dark_Elves/scenarios/Danger.cfg:79
 msgid "Well then, what are we waiting for? Let's go get'em!"
-msgstr ""
+msgstr "Gut so, worauf warten wir dann noch? Los, auf sie!"
 
 #: Dark_Elves/scenarios/Danger.cfg:90
 msgid "That was easy. I think they didn't expect us to survive their trap."
@@ -226,7 +229,7 @@ msgstr ""
 
 #: Dark_Elves/scenarios/Danger.cfg:98
 msgid "Why?"
-msgstr ""
+msgstr "Weshalb?"
 
 #: Dark_Elves/scenarios/Danger.cfg:102
 msgid ""
@@ -236,27 +239,31 @@ msgstr ""
 
 #: Dark_Elves/scenarios/Danger.cfg:106
 msgid "A Dragon? Do you know for sure?"
-msgstr ""
+msgstr "Ein Drache? Du bist dir da wirklich sicher?"
 
 #: Dark_Elves/scenarios/Danger.cfg:110
 msgid "It is only a legend, but..."
-msgstr ""
+msgstr "Es ist nur eine Sage, aber..."
 
 #: Dark_Elves/scenarios/Danger.cfg:114
 msgid "You're in command Varish'na. The path you choose is the own we follow."
 msgstr ""
+"Du hast das befehl, Varish'na. Den Pfad den du wählst wird der dem wir "
+"folgen werden sein."
 
 #: Dark_Elves/scenarios/Danger.cfg:116 Dark_Elves/scenarios/Danger.cfg:131
 msgid "If the Dwarves are to the left, then lets go kill some Dwarves!"
 msgstr ""
+"Wenn die Zwerge von links kommen, dann können wir ein paar von ihnen "
+"umbringen"
 
 #: Dark_Elves/scenarios/Danger.cfg:120 Dark_Elves/scenarios/Danger.cfg:135
 msgid "It's your chosen path. Come, let us continue"
-msgstr ""
+msgstr "Du hast diesen Weg gewählt.Los, lasst uns weiter ziehen"
 
 #: Dark_Elves/scenarios/Hunt.cfg:5
 msgid "Hunting the Enemy"
-msgstr ""
+msgstr "Jagt den Feind"
 
 #: Dark_Elves/scenarios/Hunt.cfg:12
 msgid "The Dark Elves Retreated..."
@@ -264,15 +271,15 @@ msgstr ""
 
 #: Dark_Elves/scenarios/Hunt.cfg:48
 msgid "Gimmy"
-msgstr ""
+msgstr "Gimmy"
 
 #: Dark_Elves/scenarios/Hunt.cfg:61
 msgid "Kill all the Dwarves"
-msgstr ""
+msgstr "Töted die all diese Zwerge"
 
 #: Dark_Elves/scenarios/Hunt.cfg:88
 msgid "Hold there Dhaerow! What is your business here? "
-msgstr ""
+msgstr "Bleib da Dhaerow! Was ist deine Aufgabe?"
 
 #: Dark_Elves/scenarios/Hunt.cfg:92
 msgid ""
@@ -290,6 +297,8 @@ msgstr ""
 #: Dark_Elves/scenarios/Hunt.cfg:100
 msgid "Of course my lord. Others will help you, just visit the villages."
 msgstr ""
+"Selbstverständlich mein Herr und Gebieter. Andere werden ihnen helfen, "
+"schaut euch einfach die Dörfer an."
 
 #: Dark_Elves/scenarios/Hunt.cfg:107
 msgid ""
@@ -309,7 +318,7 @@ msgstr ""
 
 #: Dark_Elves/scenarios/Hunt.cfg:125
 msgid "Yes, little bearded one, oh yes."
-msgstr ""
+msgstr "Ja, kleiner Bärtiger, oh ja."
 
 #: Dark_Elves/scenarios/Hunt.cfg:129
 msgid "Still your tongue fool lest you be struck down."
@@ -321,7 +330,7 @@ msgstr ""
 
 #: Dark_Elves/scenarios/Hunt.cfg:149
 msgid "The peace is an illusion, there are more, far more coming."
-msgstr ""
+msgstr "Der Frieden ist eine Ilussion, da kommen mehr, viele mehr."
 
 #: Dark_Elves/scenarios/Hunt.cfg:153
 msgid ""
@@ -338,6 +347,8 @@ msgid ""
 "Thank you my lord, I'll clean your armor, sharpen your weapons, wash your "
 "clothes..."
 msgstr ""
+"Oh, danke mein Herr und Gebieter, ich werde eure Rüstung säubern, eure "
+"Waffen schärfen, eure Kleider reinigen..."
 
 #: Dark_Elves/scenarios/Hunt.cfg:165
 msgid "Silence, lest I have your tongue tore from your mouth!"
@@ -345,15 +356,15 @@ msgstr ""
 
 #: Dark_Elves/scenarios/Hunt.cfg:170
 msgid "...sorry, my lord. \n"
-msgstr ""
+msgstr "...entschuldigt, mein Herr, \n"
 
 #: Dark_Elves/scenarios/Hunt.cfg:174
 msgid "Come, onward!"
-msgstr ""
+msgstr "Kommt, vorwärts!"
 
 #: Dark_Elves/scenarios/Path.cfg:5
 msgid "Chosen Path"
-msgstr ""
+msgstr "Gewählter Weg"
 
 #: Dark_Elves/scenarios/Path.cfg:38
 msgid "Rofel"
@@ -361,21 +372,24 @@ msgstr ""
 
 #: Dark_Elves/scenarios/Path.cfg:49
 msgid "Hold out until help arrives(turn 20)"
-msgstr ""
+msgstr "Haltet ein bis Hilfe kommt(zwanzigster Zug)"
 
 #: Dark_Elves/scenarios/Path.cfg:57
 msgid "BONUS:Kill the dwarves before turn 20"
 msgstr ""
+"BONUS:Tötet den Zwergenführer noch bevor der zwantigste Zug verstrichen ist."
 
 #: Dark_Elves/scenarios/Path.cfg:107
 msgid "Okay Vondel, which way?"
-msgstr ""
+msgstr "Ok Vondle, welchen Weg sollen wir nehmen?"
 
 #: Dark_Elves/scenarios/Path.cfg:111
 msgid ""
 "It depends on where you want to go. Do you even know where the Dwarvish army "
 "is?"
 msgstr ""
+"Es hängt davon ab wo ihr langgehen wollt. Habt ihr jemals gewusst wo sich "
+"die zwergische Armee befindet?"
 
 #: Dark_Elves/scenarios/Path.cfg:115
 msgid ""
@@ -391,6 +405,8 @@ msgstr ""
 msgid ""
 "WHAT!?! Dhaeraow hide? We are soldiers of the Tenth House, we, NEVER, hide!"
 msgstr ""
+"WAS!?! Dhaeraow versteckt? Wir sind Krieger des zehnten Hauses, wir "
+"verstecken uns NIE!"
 
 #: Dark_Elves/scenarios/Path.cfg:127
 msgid ""
@@ -407,11 +423,11 @@ msgstr ""
 
 #: Dark_Elves/scenarios/Path.cfg:135
 msgid "It's north-east of here. Come on, this way"
-msgstr ""
+msgstr "Es ist im nord-osten von hier. Mach schon, diesen Weg."
 
 #: Dark_Elves/scenarios/Path.cfg:173
 msgid "Traya"
-msgstr ""
+msgstr "Traya"
 
 #: Dark_Elves/scenarios/Path.cfg:216
 msgid "They are relentless! Help better come soon or we'll be overrun!"
@@ -419,31 +435,33 @@ msgstr ""
 
 #: Dark_Elves/scenarios/Path.cfg:220
 msgid "Varish'na, where are you?"
-msgstr ""
+msgstr "Varish'na, wo bist du?"
 
 #: Dark_Elves/scenarios/Path.cfg:224
 msgid "Traya? What are you doing here?"
-msgstr ""
+msgstr "Traya? Was machst du hier?"
 
 #: Dark_Elves/scenarios/Path.cfg:228
 msgid "*ZAP*"
-msgstr ""
+msgstr "*ZAP*"
 
 #: Dark_Elves/scenarios/Path.cfg:232
 msgid "Later, we have some Dwarves to kill. Just let me remove this wall..."
 msgstr ""
+"Später, wir haben ein paar Zwerge zu töten. Last mich nur noch schnell diese "
+"Wand beseitigen."
 
 #: Dark_Elves/scenarios/Path.cfg:252
 msgid "She is soo hot..."
-msgstr ""
+msgstr "Sie ist soo schön..."
 
 #: Dark_Elves/scenarios/Path.cfg:256
 msgid "She is also my sister."
-msgstr ""
+msgstr "Doch sie ist auch meine Schwester."
 
 #: Dark_Elves/scenarios/Path.cfg:260
 msgid "...uhhh..."
-msgstr ""
+msgstr "...uhhh..."
 
 #: Dark_Elves/scenarios/Path.cfg:272
 msgid ""
@@ -458,6 +476,7 @@ msgstr ""
 #: Dark_Elves/scenarios/Path.cfg:303
 msgid "Now maybe you can answer my question, why are you here?"
 msgstr ""
+"Jetzt kannst du vielleicht meine Frage beantworten, warum bist du hier?"
 
 #: Dark_Elves/scenarios/Path.cfg:307
 msgid ""
@@ -477,7 +496,7 @@ msgstr ""
 
 #: Dark_Elves/scenarios/Path.cfg:319
 msgid "Iselas! But I thought he was..."
-msgstr ""
+msgstr "Iselas! Aber ich dachte er war..."
 
 #: Dark_Elves/scenarios/Path.cfg:323
 msgid "Hush! This is not for outsiders to hear."
@@ -491,7 +510,7 @@ msgstr ""
 
 #: Dark_Elves/scenarios/Path.cfg:331
 msgid "Vondel..."
-msgstr ""
+msgstr "Vondel..."
 
 #: Dark_Elves/scenarios/Path.cfg:335
 msgid ""
@@ -505,21 +524,23 @@ msgstr ""
 
 #: Dark_Elves/scenarios/Relentless.cfg:40
 msgid "Gomatas"
-msgstr ""
+msgstr "Gomatas"
 
 #: Dark_Elves/scenarios/Relentless.cfg:53
 msgid "Antha"
-msgstr ""
+msgstr "Antha"
 
 #: Dark_Elves/scenarios/Relentless.cfg:72
 msgid "Kill all Dwarvish Leaders"
-msgstr ""
+msgstr "Tötet alle Zwergen Anführer"
 
 #: Dark_Elves/scenarios/Relentless.cfg:96
 msgid ""
 "This is worse then I thought. We are only a weeks journey from home, and "
 "look at all these Dwarves!"
 msgstr ""
+"Das ist schlimmer als ich dachte. Wir sind nur eine Reies von einer Woche "
+"von Zuhause entfernt und schon sop viele Zwerge."
 
 #: Dark_Elves/scenarios/Relentless.cfg:100
 msgid ""
@@ -534,11 +555,11 @@ msgstr ""
 
 #: Dark_Elves/scenarios/Relentless.cfg:108
 msgid "Muahhahahah! Kill the Elves!"
-msgstr ""
+msgstr "Muahhahahah! Tötet die Elfen!"
 
 #: Dark_Elves/scenarios/Relentless.cfg:112
 msgid "You shall all die!!"
-msgstr ""
+msgstr "Möget ihr alle sterben!!"
 
 #: Dark_Elves/scenarios/Relentless.cfg:122
 msgid "There must be more of them, we have yet to hit the advance guard."
@@ -566,39 +587,47 @@ msgid ""
 "Great, Dwarves and monsters. Well, we don't seem to have much choice. Let us "
 "keep going."
 msgstr ""
+"Super, Zwerger und Monster. Es sieht nicht so aus als wenn wir eine große "
+"auswahl hätten. Last uns weiter gehen."
 
 #: Dark_Elves/scenarios/Time.cfg:5
+#, fuzzy
 msgid "Just in Time"
-msgstr ""
+msgstr "Nur in der Zeit"
 
 #: Dark_Elves/scenarios/Time.cfg:34
 msgid "Another Dwarf"
-msgstr ""
+msgstr "Noch ein Zwerg"
 
 #: Dark_Elves/scenarios/Time.cfg:71
 msgid "Ahh, there are the Dwarves."
-msgstr ""
+msgstr "Ahh, da sind die Zwerge"
 
 #: Dark_Elves/scenarios/Time.cfg:75
 msgid "There are a lot of them, but I don't think this is the main force."
 msgstr ""
+"Da sind viele von ihnen, doch ich glaube nicht das sie die Haupttruppe "
+"darstellen."
 
 #: Dark_Elves/scenarios/Time.cfg:79
 msgid ""
 "It doesn't mater, they are Dwarves in Dhaeraow land, and must be killed!"
 msgstr ""
+"Es tut nicht zur Sache, sie sind Zwerge im Dhaeraow Land, und müssen "
+"vernichtet werden."
 
 #: Dark_Elves/scenarios/Time.cfg:83
 msgid "Give it your best shot, foul Elves!"
 msgstr ""
 
 #: Dark_Elves/scenarios/Time.cfg:87
+#, fuzzy
 msgid "Eat my steel!"
-msgstr ""
+msgstr "Schmecke Stahl!"
 
 #: Dark_Elves/scenarios/Time.cfg:98
 msgid "What? Why am I still alive?"
-msgstr ""
+msgstr "Was? Warum lebe ich noch?"
 
 #: Dark_Elves/scenarios/Time.cfg:102
 msgid ""
@@ -608,11 +637,11 @@ msgstr ""
 
 #: Dark_Elves/scenarios/Time.cfg:106
 msgid "Forget it. I know what you want! I'll kill myself first!"
-msgstr ""
+msgstr "Vergiss es. Ich weiss was du willst. Ich werde mich schneller töten."
 
 #: Dark_Elves/scenarios/Time.cfg:110
 msgid "If you tell me your secrets I'll tell you mine."
-msgstr ""
+msgstr "Wenn du mir dei Geheimniss erzählst werde ich dir das meine erzählen."
 
 #: Dark_Elves/scenarios/Time.cfg:114
 msgid ""
@@ -625,8 +654,11 @@ msgid "Oh well, guess I'll have to do this the hard way."
 msgstr ""
 
 #: Dark_Elves/scenarios/Time.cfg:122
+#, fuzzy
 msgid "Do you ever wish she wasn't your sister so you could, you know..."
 msgstr ""
+"Hast du dir jemals gewünscht, das sie nicht deine Schwester wäre, dann "
+"könntest du, du weisst schon..."
 
 #: Dark_Elves/scenarios/Time.cfg:126
 msgid "You're disgusting Vondel."
@@ -638,16 +670,16 @@ msgstr ""
 
 #: Dark_Elves/scenarios/Time.cfg:149
 msgid "Urg!!!"
-msgstr ""
+msgstr "Urg!!!"
 
 #: Dark_Elves/units/Dark_Elf_Captain.cfg:4
 msgid "Dark Elf Captain"
-msgstr ""
+msgstr "Dunkelelfen Kapitän"
 
 #: Dark_Elves/units/Dark_Elf_Marshal.cfg:19
 #: Dark_Elves/units/Dark_Elf_Captain.cfg:19
 msgid "leadership"
-msgstr ""
+msgstr "Führungsquallität"
 
 #: Dark_Elves/units/Dark_Elf_Captain.cfg:38
 msgid ""
@@ -663,7 +695,7 @@ msgstr ""
 #: Dark_Elves/units/Dark_Elf_Marshal.cfg:58
 #: Dark_Elves/units/Dark_Elf_Captain.cfg:58
 msgid "sword"
-msgstr ""
+msgstr "Schwert"
 
 #: Dark_Elves/units/Dark_Elf_Corsair.cfg:57
 #: Dark_Elves/units/Dark_Elf_Shadow.cfg:58
@@ -676,13 +708,13 @@ msgstr ""
 #: Dark_Elves/units/Dark_Elf_Lizard_Master.cfg:62
 #: Dark_Elves/units/Dark_Elf_Captain.cfg:59
 msgid "blade"
-msgstr ""
+msgstr "Klinge"
 
 #: Dark_Elves/units/Dark_Elf_Marshal.cfg:79
 #: Dark_Elves/units/Dark_Elf_Marshal.cfg:100
 #: Dark_Elves/units/Dark_Elf_Captain.cfg:79
 msgid "spear"
-msgstr ""
+msgstr "Speer"
 
 #: Dark_Elves/units/Dark_Elf_Shadow.cfg:79
 #: Dark_Elves/units/Dark_Elf_Stalker.cfg:79
@@ -693,7 +725,7 @@ msgstr ""
 #: Dark_Elves/units/Dark_Elf_Lizard_Master.cfg:40
 #: Dark_Elves/units/Dark_Elf_Captain.cfg:80
 msgid "pierce"
-msgstr ""
+msgstr "Stich"
 
 #: Dark_Elves/units/Dark_Elf_Cleric.cfg:4
 msgid "female^Dark Elf Cleric"
@@ -711,13 +743,13 @@ msgstr ""
 #: Dark_Elves/units/Dark_Elf_Sorceress.cfg:59
 #: Dark_Elves/units/Dark_Elf_Enchantress.cfg:58
 msgid "mace"
-msgstr ""
+msgstr "Streitkolben"
 
 #: Dark_Elves/units/Dark_Elf_Cleric.cfg:60
 #: Dark_Elves/units/Dark_Elf_Sorceress.cfg:60
 #: Dark_Elves/units/Dark_Elf_Enchantress.cfg:59
 msgid "impact"
-msgstr ""
+msgstr "Wucht"
 
 #: Dark_Elves/units/Dark_Elf_Wizard.cfg:58
 #: Dark_Elves/units/Dark_Elf_Cleric.cfg:80
@@ -726,7 +758,7 @@ msgstr ""
 #: Dark_Elves/units/Dark_Elf_Sorceress.cfg:80
 #: Dark_Elves/units/Dark_Elf_Enchantress.cfg:79
 msgid "magic"
-msgstr ""
+msgstr "Magisch"
 
 #: Dark_Elves/units/Dark_Elf_Wizard.cfg:59
 #: Dark_Elves/units/Dark_Elf_Cleric.cfg:81
@@ -736,7 +768,7 @@ msgstr ""
 #: Dark_Elves/units/Dark_Elf_Sorceress.cfg:81
 #: Dark_Elves/units/Dark_Elf_Enchantress.cfg:80
 msgid "cold"
-msgstr ""
+msgstr "Kälte"
 
 #: Dark_Elves/units/Dark_Elf_Wizard.cfg:60
 #: Dark_Elves/units/Dark_Elf_Cleric.cfg:82
@@ -745,7 +777,7 @@ msgstr ""
 #: Dark_Elves/units/Dark_Elf_Sorceress.cfg:82
 #: Dark_Elves/units/Dark_Elf_Enchantress.cfg:81
 msgid "magical"
-msgstr ""
+msgstr "magisch"
 
 #: Dark_Elves/units/Dark_Elf_Corsair.cfg:36
 msgid ""
@@ -776,7 +808,7 @@ msgstr ""
 
 #: Dark_Elves/units/Dark_Elf_Hunter.cfg:4
 msgid "Dark Elf Hunter"
-msgstr ""
+msgstr "Dunkelelfen Jäger"
 
 #: Dark_Elves/units/Dark_Elf_Hunter.cfg:36
 msgid ""
@@ -788,21 +820,21 @@ msgstr ""
 #: Dark_Elves/units/Dark_Elf_Stalker.cfg:57
 #: Dark_Elves/units/Dark_Elf_Hunter.cfg:56
 msgid "dagger"
-msgstr ""
+msgstr "Dolch"
 
 #: Dark_Elves/units/Dark_Elf_Hunter.cfg:77
 msgid "bow"
-msgstr ""
+msgstr "Bogen"
 
 #: Dark_Elves/units/Dark_Elf_Shadow.cfg:83
 #: Dark_Elves/units/Dark_Elf_Stalker.cfg:83
 #: Dark_Elves/units/Dark_Elf_Hunter.cfg:82
 msgid "poison"
-msgstr ""
+msgstr "vergiften"
 
 #: Dark_Elves/units/Dark_Elf_Lizard_Master.cfg:4
 msgid "Dark Elf Lizard-Master"
-msgstr ""
+msgstr "Dunkelelfen Echsenmeister"
 
 #: Dark_Elves/units/Dark_Elf_Lizard_Master.cfg:19
 msgid ""
@@ -814,21 +846,21 @@ msgstr ""
 #: Dark_Elves/units/Dark_Elf_Lizard_Rider.cfg:39
 #: Dark_Elves/units/Dark_Elf_Lizard_Master.cfg:39
 msgid "deathlance"
-msgstr ""
+msgstr "Todeslanze"
 
 #: Dark_Elves/units/Dark_Elf_Lizard_Rider.cfg:41
 #: Dark_Elves/units/Dark_Elf_Lizard_Master.cfg:41
 msgid "charge"
-msgstr ""
+msgstr "Ansturm"
 
 #: Dark_Elves/units/Dark_Elf_Lizard_Rider.cfg:61
 #: Dark_Elves/units/Dark_Elf_Lizard_Master.cfg:61
 msgid "bite"
-msgstr ""
+msgstr "Biss"
 
 #: Dark_Elves/units/Dark_Elf_Lizard_Rider.cfg:4
 msgid "Dark Elf Lizard-Rider"
-msgstr ""
+msgstr "Dunkelelfen Echsenreiter"
 
 #: Dark_Elves/units/Dark_Elf_Lizard_Rider.cfg:19
 msgid ""
@@ -840,7 +872,7 @@ msgstr ""
 
 #: Dark_Elves/units/Dark_Elf_Marshal.cfg:4
 msgid "Dark Elf Marshal"
-msgstr ""
+msgstr "Dunkelelfen Marshal"
 
 #: Dark_Elves/units/Dark_Elf_Marshal.cfg:38
 msgid ""
@@ -851,13 +883,15 @@ msgid ""
 msgstr ""
 
 #: Dark_Elves/units/Dark_Elf_Shadow.cfg:4
+#, fuzzy
 msgid "Dark Elf Shadow"
-msgstr ""
+msgstr "Dunkelelfen Schatten"
 
 #: Dark_Elves/units/Dark_Elf_Shadow.cfg:13
 #: Dark_Elves/units/Dark_Elf_Stalker.cfg:13
+#, fuzzy
 msgid "cavestalk"
-msgstr ""
+msgstr "Höhlenverstecken"
 
 #: Dark_Elves/units/Dark_Elf_Shadow.cfg:37
 msgid ""
@@ -869,11 +903,11 @@ msgstr ""
 #: Dark_Elves/units/Dark_Elf_Shadow.cfg:78
 #: Dark_Elves/units/Dark_Elf_Stalker.cfg:78
 msgid "crossbow"
-msgstr ""
+msgstr "Armbrust"
 
 #: Dark_Elves/units/Dark_Elf_Sorcerer.cfg:4
 msgid "Dark Elf Sorcerer"
-msgstr ""
+msgstr "Dunkelelfen Zauberer"
 
 #: Dark_Elves/units/Dark_Elf_Sorcerer.cfg:38
 msgid ""
@@ -885,7 +919,7 @@ msgstr ""
 
 #: Dark_Elves/units/Dark_Elf_Sorceress.cfg:4
 msgid "female^Dark Elf Sorceress"
-msgstr ""
+msgstr "female^Dunkelelfen Zauberin"
 
 #: Dark_Elves/units/Dark_Elf_Sorceress.cfg:39
 msgid ""
@@ -897,8 +931,9 @@ msgid ""
 msgstr ""
 
 #: Dark_Elves/units/Dark_Elf_Stalker.cfg:4
+#, fuzzy
 msgid "Dark Elf Stalker"
-msgstr ""
+msgstr "Dunkelelfen Verstecker"
 
 #: Dark_Elves/units/Dark_Elf_Stalker.cfg:37
 msgid ""
@@ -908,8 +943,9 @@ msgid ""
 msgstr ""
 
 #: Dark_Elves/units/Dark_Elf_Warlock.cfg:4
+#, fuzzy
 msgid "Dark Elf Warlock"
-msgstr ""
+msgstr "Dunkelelfen Kriegsherr"
 
 #: Dark_Elves/units/Dark_Elf_Warlock.cfg:37
 msgid ""
@@ -921,11 +957,11 @@ msgstr ""
 
 #: Dark_Elves/units/Dark_Elf_Warlock.cfg:57
 msgid "touch"
-msgstr ""
+msgstr "Berührung"
 
 #: Dark_Elves/units/Dark_Elf_Warlock.cfg:62
 msgid "drain"
-msgstr ""
+msgstr "Lebensentzug"
 
 #: Dark_Elves/units/Dark_Elf_Warrior.cfg:36
 msgid ""
@@ -936,7 +972,7 @@ msgstr ""
 
 #: Dark_Elves/units/Dark_Elf_Wizard.cfg:4
 msgid "Dark Elf Wizard"
-msgstr ""
+msgstr "Dunkelelfen Magier"
 
 #: Dark_Elves/units/Dark_Elf_Wizard.cfg:38
 msgid ""
