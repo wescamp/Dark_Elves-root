@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2006-03-13 13:44+0100\n"
-"PO-Revision-Date: 2006-06-12 15:03+0200\n"
+"PO-Revision-Date: 2006-06-15 13:36+0200\n"
 "Last-Translator: Hendrik Brandt <eru@gmx.li>\n"
 "Language-Team: German <gnome-de@gnome.org>\n"
 "MIME-Version: 1.0\n"
@@ -123,10 +123,13 @@ msgid "Turns run out"
 msgstr "Rundenlimit überschritten"
 
 #: Dark_Elves/scenarios/Beginning.cfg:97
+#, fuzzy
 msgid ""
 "What? These must be the forces who took poor Vladdy, no pointy ear is takin' "
 "Clan Stormhammer without a fight!"
 msgstr ""
+"Was? Das muss die Truppe sien die den armen Vladdy mit genommen haben, kein "
+"Spitzohr nimmt Clan Stormhammer ohne einen Kampf ein!"
 
 #: Dark_Elves/scenarios/Beginning.cfg:107
 msgid ""
@@ -314,7 +317,7 @@ msgstr ""
 
 #: Dark_Elves/scenarios/Hunt.cfg:121
 msgid "*gasp* Nooooooooo!"
-msgstr ""
+msgstr "*keuch* Neeeeiiiiiiiinnnn!"
 
 #: Dark_Elves/scenarios/Hunt.cfg:125
 msgid "Yes, little bearded one, oh yes."
@@ -325,8 +328,9 @@ msgid "Still your tongue fool lest you be struck down."
 msgstr ""
 
 #: Dark_Elves/scenarios/Hunt.cfg:145
+#, fuzzy
 msgid "At last our homes are saved for these stunted fools! "
-msgstr ""
+msgstr "Für's erste sind unsere Heimaten sicher vor diesen verwirrten Narren! "
 
 #: Dark_Elves/scenarios/Hunt.cfg:149
 msgid "The peace is an illusion, there are more, far more coming."
@@ -368,7 +372,7 @@ msgstr "Gewählter Weg"
 
 #: Dark_Elves/scenarios/Path.cfg:38
 msgid "Rofel"
-msgstr ""
+msgstr "Rofel"
 
 #: Dark_Elves/scenarios/Path.cfg:49
 msgid "Hold out until help arrives(turn 20)"
@@ -400,6 +404,8 @@ msgstr ""
 #: Dark_Elves/scenarios/Path.cfg:119
 msgid "That's okay. I know a safe spot where we can hide and wait."
 msgstr ""
+"Das ist Ok. Ich kenne ein sicheres Fleckchen, wo wir uns verstecken, und "
+"warten können"
 
 #: Dark_Elves/scenarios/Path.cfg:123
 msgid ""
@@ -471,7 +477,7 @@ msgstr ""
 
 #: Dark_Elves/scenarios/Path.cfg:299
 msgid "Thank goodness Varish'na you're all right!"
-msgstr ""
+msgstr "Danke Göttin Varish'na du hast immer recht!"
 
 #: Dark_Elves/scenarios/Path.cfg:303
 msgid "Now maybe you can answer my question, why are you here?"
@@ -499,8 +505,9 @@ msgid "Iselas! But I thought he was..."
 msgstr "Iselas! Aber ich dachte er war..."
 
 #: Dark_Elves/scenarios/Path.cfg:323
+#, fuzzy
 msgid "Hush! This is not for outsiders to hear."
-msgstr ""
+msgstr "Hush! Das kann man von drausen nicht höhren."
 
 #: Dark_Elves/scenarios/Path.cfg:327
 msgid ""
@@ -617,8 +624,9 @@ msgstr ""
 "vernichtet werden."
 
 #: Dark_Elves/scenarios/Time.cfg:83
+#, fuzzy
 msgid "Give it your best shot, foul Elves!"
-msgstr ""
+msgstr "Gib deinen besten Schuss, geflügelter Elf!"
 
 #: Dark_Elves/scenarios/Time.cfg:87
 #, fuzzy
@@ -667,6 +675,8 @@ msgstr ""
 #: Dark_Elves/scenarios/Time.cfg:139
 msgid "Is *cough* is that...th..the best you *cough* c.c.can do?"
 msgstr ""
+"Ist *schluck* ist das d dass beste das *schluck* d dd ddu m mmachen k kk "
+"kannst?"
 
 #: Dark_Elves/scenarios/Time.cfg:149
 msgid "Urg!!!"
@@ -815,6 +825,9 @@ msgid ""
 "Lurking in the ever dark depths of the caves, the Hunters move around with "
 "out a sound, except for the twang of their crossbows."
 msgstr ""
+"Versteckt in den immer dunkelen Tiefen der Höhlen, bewegen sich die Jäger "
+"ohne auch nur ein Geräusch von sich zu geben, abgesehen von dem leisen "
+"\"twäng\" ihrer Armbrüste."
 
 #: Dark_Elves/units/Dark_Elf_Shadow.cfg:57
 #: Dark_Elves/units/Dark_Elf_Stalker.cfg:57
