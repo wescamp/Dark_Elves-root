@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2006-03-13 13:44+0100\n"
-"PO-Revision-Date: 2006-06-15 13:36+0200\n"
+"PO-Revision-Date: 2006-06-16 14:39+0200\n"
 "Last-Translator: Hendrik Brandt <eru@gmx.li>\n"
 "Language-Team: German <gnome-de@gnome.org>\n"
 "MIME-Version: 1.0\n"
@@ -212,33 +212,45 @@ msgid ""
 msgstr ""
 
 #: Dark_Elves/scenarios/Danger.cfg:75
+#, fuzzy
 msgid "The bridge is just ahead, and it looks like they have them guarded"
 msgstr ""
+"Die Brücke ist gerade aus, und es sieht so aus als würde sie bewacht sein"
 
 #: Dark_Elves/scenarios/Danger.cfg:79
 msgid "Well then, what are we waiting for? Let's go get'em!"
 msgstr "Gut so, worauf warten wir dann noch? Los, auf sie!"
 
 #: Dark_Elves/scenarios/Danger.cfg:90
+#, fuzzy
 msgid "That was easy. I think they didn't expect us to survive their trap."
 msgstr ""
+"Das war einfach. Ich denke nicht das sie es unz zutrauen ihre Falle überlabt "
+"zu haben."
 
 #: Dark_Elves/scenarios/Danger.cfg:94
+#, fuzzy
 msgid ""
 "Now we must choose which way to go. The cave ahead splits up. To the right "
 "is a new tunnel, and the one the Dwarves most likely came down. If I were "
 "you, I'd choose that one."
 msgstr ""
+"Nun müssen wir den Weg den wir gehen wollen aussuchen. Die Höhle teilt sich. "
+"Zur rechten ist ein neuer Tunnel, den die Zwerge genrne benutzen. Wenn ich "
+"du wäre würde ich den nehmen."
 
 #: Dark_Elves/scenarios/Danger.cfg:98
 msgid "Why?"
 msgstr "Weshalb?"
 
 #: Dark_Elves/scenarios/Danger.cfg:102
+#, fuzzy
 msgid ""
 "No one has gone down the other one for a long time. It is said that a Dragon "
 "lives down there."
 msgstr ""
+"Eine lange Zeit hat niemant den anderen Tunnel benutzt. Es würd erzählt, das "
+"da unten ein Drache lebt."
 
 #: Dark_Elves/scenarios/Danger.cfg:106
 msgid "A Dragon? Do you know for sure?"
@@ -310,10 +322,13 @@ msgid ""
 msgstr ""
 
 #: Dark_Elves/scenarios/Hunt.cfg:117
+#, fuzzy
 msgid ""
 "Good... We have the dog ready for the Clerics. They shall have more sport "
 "with him then they did with Vladdy."
 msgstr ""
+"Gut... Wir haben diesen Hund bereit für die Geistlichen. Sie sollten mehr "
+"Sport mit ihm, als mit Vladdy haben."
 
 #: Dark_Elves/scenarios/Hunt.cfg:121
 msgid "*gasp* Nooooooooo!"
@@ -345,6 +360,7 @@ msgstr ""
 #: Dark_Elves/scenarios/Hunt.cfg:157
 msgid "Come if you will, but don't waste any more of my time."
 msgstr ""
+"Komm, wenn du willst, aber verschwende nicht noch mehr von meiner Zeit."
 
 #: Dark_Elves/scenarios/Hunt.cfg:161
 msgid ""
@@ -425,7 +441,7 @@ msgstr ""
 
 #: Dark_Elves/scenarios/Path.cfg:131
 msgid "Humph, very well. Your council is wise, lead us to this place."
-msgstr ""
+msgstr "Humpf, sehr gut. Deine Beratung ist weise, führe uns zu diesem Platz."
 
 #: Dark_Elves/scenarios/Path.cfg:135
 msgid "It's north-east of here. Come on, this way"
@@ -470,10 +486,13 @@ msgid "...uhhh..."
 msgstr "...uhhh..."
 
 #: Dark_Elves/scenarios/Path.cfg:272
+#, fuzzy
 msgid ""
 "You have recieved 100 gold and can now recruit Lizard-Riders and "
 "Enchantresses."
 msgstr ""
+"Du hast 100 Goldstücke erhalten und kannst jetzt Echsenreiter und "
+"Zauberinnen ausbilden."
 
 #: Dark_Elves/scenarios/Path.cfg:299
 msgid "Thank goodness Varish'na you're all right!"
@@ -491,8 +510,9 @@ msgid ""
 msgstr ""
 
 #: Dark_Elves/scenarios/Path.cfg:311
+#, fuzzy
 msgid "But what of the Clerics? I thought..."
-msgstr ""
+msgstr "Aber was ist mit denn Geistlichen? Ich dachte..."
 
 #: Dark_Elves/scenarios/Path.cfg:315
 msgid ""
@@ -557,8 +577,9 @@ msgid ""
 msgstr ""
 
 #: Dark_Elves/scenarios/Relentless.cfg:104
+#, fuzzy
 msgid "Then we must hurry, before the Dwarves overcome us!"
-msgstr ""
+msgstr "Wir müssen uns beeilen, bevor uns diese Zwerge überrumpeln."
 
 #: Dark_Elves/scenarios/Relentless.cfg:108
 msgid "Muahhahahah! Kill the Elves!"
@@ -573,9 +594,12 @@ msgid "There must be more of them, we have yet to hit the advance guard."
 msgstr ""
 
 #: Dark_Elves/scenarios/Relentless.cfg:126
+#, fuzzy
 msgid ""
 "Let them come. We will rip them to shreds. Hunting the enemy is my specialty!"
 msgstr ""
+"Last sie nur kommen. Wir werden sie zu Spänen zerreißen. Das Jagen von "
+"Feinden ist meine Spetzialität!"
 
 #: Dark_Elves/scenarios/Relentless.cfg:130
 msgid ""
@@ -738,8 +762,9 @@ msgid "pierce"
 msgstr "Stich"
 
 #: Dark_Elves/units/Dark_Elf_Cleric.cfg:4
+#, fuzzy
 msgid "female^Dark Elf Cleric"
-msgstr ""
+msgstr "female^Dunkelelfen Geistliche"
 
 #: Dark_Elves/units/Dark_Elf_Cleric.cfg:39
 msgid ""
@@ -790,15 +815,20 @@ msgid "magical"
 msgstr "magisch"
 
 #: Dark_Elves/units/Dark_Elf_Corsair.cfg:36
+#, fuzzy
 msgid ""
 "No single being can stand before a Dark Elf Corsair. If you every see one, "
 "run. With they're razor sharp swords, they can splice and dice a dwarves "
 "beard."
 msgstr ""
+"Keine einzige Person kann über einem Kosar der Dunkelelfen stehen. Wenn du "
+"je einen sehen solltest lauf um dein Leben. Mit ihren rasierscharfen "
+"Schwertern können sie den Bart eines Zwergen zerschlitzen."
 
 #: Dark_Elves/units/Dark_Elf_Enchantress.cfg:4
+#, fuzzy
 msgid "female^Dark Elf Enchantress"
-msgstr ""
+msgstr "female^Dunkelelfen Zauberinn"
 
 #: Dark_Elves/units/Dark_Elf_Enchantress.cfg:38
 msgid ""
@@ -855,6 +885,10 @@ msgid ""
 "Many an Dwarf has been cut in two by it's strong jaws. It would be well to "
 "recruit several of these powerful units."
 msgstr ""
+"Die Echsen sind natürlich nicht so schnell wie Pferde, doch sie sind um "
+"einiges kräftiger! Viele Zwerge wurden schon in Zwei geteilt von diesen "
+"starken Kiefern. Es wäre gut, viele von diesen energieerfüllten Einheiten zu "
+"rekrutieren."
 
 #: Dark_Elves/units/Dark_Elf_Lizard_Rider.cfg:39
 #: Dark_Elves/units/Dark_Elf_Lizard_Master.cfg:39
