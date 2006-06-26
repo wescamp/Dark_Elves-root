@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2006-06-23 17:49+0200\n"
-"PO-Revision-Date: 2006-04-27 20:40+0100\n"
-"Last-Translator: \n"
+"PO-Revision-Date: 2006-06-26 13:41+0100\n"
+"Last-Translator: Brivido <brivido@gmail.com>\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -29,7 +29,7 @@ msgstr "Guerriero degli elfi neri"
 
 #: Dark_Elves.cfg:19
 msgid "(hardest)"
-msgstr "(Difficile)"
+msgstr "(difficile)"
 
 #: Dark_Elves/units/Dark_Elf_Corsair.cfg:4 Dark_Elves.cfg:19
 msgid "Dark Elf Corsair"
@@ -112,6 +112,13 @@ msgid ""
 "little fortress far away from civilization, where he will at least have a "
 "slime chance of requiting himself..."
 msgstr ""
+"Varish'na, nobile della Decima Casa, commise un crimine contro la Madre "
+"Matrona. Gli furono dati 11 anni per riguadagnare il suo onore oppure sarà "
+"torturato a morte, ma non prima che le sacerdotesse sperimentino le loro "
+"tecniche di tortura su di lui fino alla noia. Come parte del suo castigo e "
+"con l'influenza del suo padre, Varish'na fu inviato a custodire una piccola "
+"fortezza molto lontana dalla civiltà, dove avrebbe avuto almeno un'infima "
+"possibilità di redimersi..."
 
 #: Dark_Elves/scenarios/Hunt.cfg:34 Dark_Elves/scenarios/Path.cfg:26
 #: Dark_Elves/scenarios/Beginning.cfg:46 Dark_Elves/scenarios/Time.cfg:20
@@ -148,7 +155,6 @@ msgstr ""
 "nessun orecchie a punta prenderà il clan Scuotimartello senza combattere!"
 
 #: Dark_Elves/scenarios/Beginning.cfg:106
-#, fuzzy
 msgid ""
 "Accursed Elf dogs, ye shall perish before this month is up. My brothers "
 "shall crush ye like an eggshell. And Dark Elf blood shall flow like water."
@@ -170,25 +176,22 @@ msgid "What is it?"
 msgstr "Quale?"
 
 #: Dark_Elves/scenarios/Beginning.cfg:132
-#, fuzzy
 msgid ""
 "The Dwarvish clans of Stormhammer, Stoutblade, the Cleavers, and the "
 "'fabled' Red Mountain clan have all mobilized against us."
 msgstr ""
-"I nani dei clan Scuotimartello, Fortelama e il clan leggendario della "
-"Montagna Rossa. Tutti si sono mobilitati contro di noi."
+"I nani dei clan Scuotimartello, Fortelama, Tranciapietra e il clan "
+"leggendario della Montagna Rossa. Tutti si sono mobilitati contro di noi."
 
 #: Dark_Elves/scenarios/Beginning.cfg:136
 msgid "Are they sure of this?"
 msgstr "Ne sei sicuro?"
 
 #: Dark_Elves/scenarios/Beginning.cfg:141
-#, fuzzy
 msgid "Have they ever been wrong before sir?"
-msgstr "Hanno mai sbagliato in passato?"
+msgstr "Hanno mai sbagliato in passato, signore?"
 
 #: Dark_Elves/scenarios/Beginning.cfg:145
-#, fuzzy
 msgid ""
 "Hmm...Good point. Send our fastest soldier to alert the Matron Mother. We "
 "must attempt to arrest their advancement. Make ready to leave the keep."
@@ -223,7 +226,7 @@ msgstr "nano"
 
 #: Dark_Elves/scenarios/Danger.cfg:38
 msgid "Moral"
-msgstr ""
+msgstr "Morale"
 
 #: Dark_Elves/scenarios/Danger.cfg:52
 msgid "Kill the Dwarf Leader"
@@ -310,15 +313,16 @@ msgid ""
 "We need to get to the Dwarves as quickly as possible. Dragon or no Dragon, "
 "we shall go right."
 msgstr ""
+"Dobbiamo prendere i nani al più presto possibile. Drago o non drago, andremo "
+"a destra."
 
 #: Dark_Elves/scenarios/Hunt.cfg:5
 msgid "Hunting the Enemy"
 msgstr "A caccia del nemico"
 
 #: Dark_Elves/scenarios/Hunt.cfg:12
-#, fuzzy
 msgid "The Dark Elves Advanced..."
-msgstr "Gli elfi neri si sono ritirati..."
+msgstr "Gli elfi neri avanzarono..."
 
 #: Dark_Elves/scenarios/Hunt.cfg:48
 msgid "Gimmy"
@@ -329,9 +333,8 @@ msgid "Kill all the Dwarves"
 msgstr "Uccidi tutti i nani"
 
 #: Dark_Elves/scenarios/Hunt.cfg:91
-#, fuzzy
 msgid "Hold there Dhaerow! What is your business here?"
-msgstr "Piantala Dhaerow! Cosa vuoi?"
+msgstr "Piantala Dhaerow! Cosa ci fai qua?"
 
 #: Dark_Elves/scenarios/Hunt.cfg:95
 msgid ""
@@ -357,7 +360,6 @@ msgstr ""
 "Naturalmente, mio signore. Gli altri ti aiuteranno, visita solo i villaggi."
 
 #: Dark_Elves/scenarios/Hunt.cfg:110
-#, fuzzy
 msgid ""
 "More of these darned cave Elves. Now assault in the name of Vladdy, and Clan "
 "Stormhammer!"
@@ -411,6 +413,9 @@ msgid ""
 "dagger, I shall be a terror to them. Despite their staunch and stature, I "
 "shall kill the little hairy monsters without-"
 msgstr ""
+"I nani assaggeranno la mia vendetta! Con le mie potenti frecce e il mio "
+"pugnale possente, spargerò il terrore nelle loro fila. Malgrado la loro "
+"fermezza e statura, ucciderò quei piccoli mostri pelosi senza-"
 
 #: Dark_Elves/scenarios/Hunt.cfg:168
 msgid "Silence, lest I have your tongue tore from your mouth!"
@@ -533,13 +538,12 @@ msgid "...uhhh..."
 msgstr "...uhhh..."
 
 #: Dark_Elves/scenarios/Path.cfg:480
-#, fuzzy
 msgid ""
 "You have recieved 100 gold and can now recruit Lizard-Riders and "
 "Enchantresses. Now go kick some hairy butt!"
 msgstr ""
 "Hai ricevuto 100 pezzi d'oro e adesso puoi reclutare Cavalca-lucertole e "
-"Incantatrici."
+"Incantatrici. Andiamo a prendere a calci qualche culo peloso!"
 
 #: Dark_Elves/scenarios/Path.cfg:517
 msgid "Thank goodness Varish'na you're all right!"
@@ -551,26 +555,26 @@ msgstr "Adesso forse vorrai rispondermi, perché sei qua?"
 
 #: Dark_Elves/scenarios/Path.cfg:525 Dark_Elves/scenarios/Path.cfg:635
 msgid "It was father's doing. He thought you could use some company."
-msgstr ""
+msgstr "È stato mio padre. Ha pensato che ti serviva un po' di compagnia."
 
 #: Dark_Elves/scenarios/Path.cfg:529 Dark_Elves/scenarios/Path.cfg:639
 msgid ""
 "But what of the Clerics? I thought you couldn't get away for another four "
 "years!"
 msgstr ""
+"E le Sacerdotesse? Credevo che non potevi andartene per altri quattro anni!"
 
 #: Dark_Elves/scenarios/Path.cfg:533 Dark_Elves/scenarios/Path.cfg:643
-#, fuzzy
 msgid ""
 "It seems we both have a knack for getting into trouble. Iselas and I got in "
 "a bit of trouble."
 msgstr ""
-"Sembra che entrambi abbiamo una speciale abilità nel cacciarsi nei guai. "
-"Io... io stavo cercando Iselas."
+"Sembra che entrambi abbiamo una speciale abilità nel cacciarci nei guai. "
+"Iselas e io abbiamo avuto qualche rogna."
 
 #: Dark_Elves/scenarios/Path.cfg:537 Dark_Elves/scenarios/Path.cfg:647
 msgid "Iselas! What has he done now?"
-msgstr ""
+msgstr "Iselas! Cosa ha combinato questa volta!"
 
 #: Dark_Elves/scenarios/Path.cfg:541 Dark_Elves/scenarios/Path.cfg:651
 msgid "Hush! This is not for outsiders to hear."
@@ -585,9 +589,8 @@ msgstr ""
 "del mio cuore."
 
 #: Dark_Elves/scenarios/Path.cfg:549 Dark_Elves/scenarios/Path.cfg:659
-#, fuzzy
 msgid "Voldel..."
-msgstr "Vondel..."
+msgstr "Voldel..."
 
 #: Dark_Elves/scenarios/Path.cfg:553 Dark_Elves/scenarios/Path.cfg:663
 msgid ""
@@ -602,16 +605,16 @@ msgid ""
 "Our troops have indeed proven themselves today. They took care of those foul "
 "creatures like old veterans."
 msgstr ""
+"Oggi, le noste truppe hanno davvero dato prova del loro valore. Hanno "
+"affrontato quelle luride creature come vecchi veterani."
 
 #: Dark_Elves/scenarios/Path.cfg:627
-#, fuzzy
 msgid "Varish'na! Are you all right?"
-msgstr "Gli dei siano lodati, Varish'na! Sei salvo!"
+msgstr "Varish'na! Tutto a posto?"
 
 #: Dark_Elves/scenarios/Path.cfg:631
-#, fuzzy
 msgid "Trya?! What are you doing here?"
-msgstr "Traya? Cosa ci fai qui?"
+msgstr "Trya?! Cosa ci fai qui?"
 
 #: Dark_Elves/scenarios/Relentless.cfg:5
 msgid "Relentless"
@@ -698,58 +701,56 @@ msgid "Just in Time"
 msgstr "Appena in tempo"
 
 #: Dark_Elves/scenarios/Time.cfg:29
-#, fuzzy
 msgid "Grimy"
-msgstr "Gimmy"
+msgstr "Grimy"
 
 #: Dark_Elves/scenarios/Time.cfg:30
 msgid "Thowrowal"
-msgstr ""
+msgstr "Thowrowal"
 
 #: Dark_Elves/scenarios/Time.cfg:38
 msgid "Defeat the Enemy Leaders"
-msgstr ""
+msgstr "Sconfiggi i comandanti nemici"
 
 #: Dark_Elves/scenarios/Time.cfg:69
-#, fuzzy
 msgid "And here are the dwarves, Lord Varish'na."
-msgstr "Ah, ecco i nani."
+msgstr "Ah, ecco i nani, lord Varish'na."
 
 #: Dark_Elves/scenarios/Time.cfg:73
-#, fuzzy
 msgid "There are a great many of them, are you certain this is a good idea?"
-msgstr "Ce ne sono molti, ma non penso che siano il corpo principale."
+msgstr "Sono moltissimi, sei sicuro che sia una buona idea?"
 
 #: Dark_Elves/scenarios/Time.cfg:77
 msgid "It does not matter, we've been spotted."
-msgstr ""
+msgstr "Non importa, ci hanno visto."
 
 #: Dark_Elves/scenarios/Time.cfg:81
 msgid "Big words for such a small elf"
-msgstr ""
+msgstr "Parole grosse per un elfo così piccolo."
 
 #: Dark_Elves/scenarios/Time.cfg:85
 msgid ""
 "Look, the midget calls us small, he apparently has a lack of reflective "
 "surfaces handy."
 msgstr ""
+"Toh, il nanerottolo ci chiama piccoli, sembra che non ci siano molte "
+"superfici riflettenti dalle sue parti."
 
 #: Dark_Elves/scenarios/Time.cfg:89
 msgid "Taste my steel and die, dark one!"
-msgstr ""
+msgstr "Assaggia il mio acciaio e crepa, elfo nero!"
 
 #: Dark_Elves/scenarios/Time.cfg:98
 msgid "What? Why am I still alive?"
 msgstr "Cosa? Perché sono ancora vivo?"
 
 #: Dark_Elves/scenarios/Time.cfg:102
-#, fuzzy
 msgid ""
 "Because I preserved your life. You're too wonderful a Dwarf to let die. Such "
 "big muscles, such big..."
 msgstr ""
-"Perché ti ho risparmiato. Sei un nano troppo speciale per morire. Hai dei "
-"grossi muscoli, un grosso..."
+"Perché ti ho risparmiato. Sei proprio un esemplare di nano meraviglioso per "
+"lasciarti morire. Hai dei grossi muscoli, un grosso..."
 
 #: Dark_Elves/scenarios/Time.cfg:106
 msgid "Forget it. I know what you want! I'll kill myself first!"
@@ -757,17 +758,16 @@ msgstr "Scordatelo. So cosa vuoi! Piuttosto mi ammazzo!"
 
 #: Dark_Elves/scenarios/Time.cfg:110
 msgid "If you tell me your secrets I'll tell you mine."
-msgstr "Se tu mi racconti il tuo segreto io ti racconterò il mio."
+msgstr "Se tu mi racconti il tuo segreto, io ti racconterò il mio."
 
 #: Dark_Elves/scenarios/Time.cfg:114
-#, fuzzy
 msgid ""
 "Hah! Think I'd fall for that old trick! With your soft white skin, silky "
 "black hair, smooth lips, and beautiful--No! I'll tell you nothing! *Gahh...!*"
 msgstr ""
 "Aha! Credevi che ci sarei cascato! È un trucco vecchio, la tua soffice pelle "
 "chiara, i capelli neri di seta, labbra morbide e un bel... No! Non dirò "
-"nulla!"
+"nulla! *Gahh...!*"
 
 #: Dark_Elves/scenarios/Time.cfg:118
 msgid "Oh well, guess I'll have to do this the hard way."
@@ -779,13 +779,14 @@ msgstr ""
 "Non hai mai desiderato che non fosse tua sorella così tu potresti... sai no?"
 
 #: Dark_Elves/scenarios/Time.cfg:126
-#, fuzzy
 msgid "You are disgusting Vondel."
-msgstr "Sei disgustoso Vondel!"
+msgstr "Sei disgustoso, Vondel!"
 
 #: Dark_Elves/scenarios/Time.cfg:136
 msgid "Curse you, you durned Dark Elf... May you rot in Hythenglim for this..."
 msgstr ""
+"Sii maledetto, dannato elfo nero... che tu possa marcire nell'Hythenglim per "
+"questo..."
 
 #: Dark_Elves/units/Dark_Elf_Captain.cfg:4
 msgid "Dark Elf Captain"
@@ -882,7 +883,7 @@ msgstr "magico"
 #: Dark_Elves/units/Dark_Elf_Sorceress.cfg:54
 #: Dark_Elves/units/Dark_Elf_Enchantress.cfg:51
 msgid "fire"
-msgstr ""
+msgstr "fuoco"
 
 #: Dark_Elves/units/Dark_Elf_Corsair.cfg:17
 msgid ""
@@ -985,7 +986,7 @@ msgstr ""
 
 #: Dark_Elves/units/Dark_Elf_Lizard_Rider.cfg:68
 msgid "claw"
-msgstr ""
+msgstr "artigli"
 
 #: Dark_Elves/units/Dark_Elf_Marshal.cfg:4
 msgid "Dark Elf Marshal"
@@ -1113,7 +1114,6 @@ msgid "Dark Elf Wizard"
 msgstr "Mago degli elfi neri"
 
 #: Dark_Elves/units/Dark_Elf_Wizard.cfg:17
-#, fuzzy
 msgid ""
 "Some Dark Elves prefer studying the arcane arts over close-combat. Usually "
 "they are left to the lesser duties of the House, such as upkeep, watching "
@@ -1123,8 +1123,8 @@ msgstr ""
 "Alcuni elfi neri preferiscono studiare le arti arcane al combattimento "
 "ravvicinato. Di solito nella loro Casa svolgono i compiti meno gravosi come "
 "la manutenzione, la sorveglianza degli schiavi e altre cose di questo tipo. "
-"Tuttavia, in tempo di guerra, possono fare gravi danni, anche se difettano "
-"di tutto l'addestramento al combattimento ravvicinato."
+"Tuttavia, in tempo di guerra, possono fare gravi danni, anche se non hanno "
+"alcun addestramento al combattimento ravvicinato."
 
 #~ msgid ""
 #~ "The Queen of the Dark Elves heard tell of the Dwarves anger, and she "
