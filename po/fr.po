@@ -613,7 +613,6 @@ msgid "Varish'na! Are you all right?"
 msgstr "Varish'na ! Est-ce que ça va ?"
 
 #: Dark_Elves/scenarios/Path.cfg:631
-#, fuzzy
 msgid "Trya?! What are you doing here?"
 msgstr "Trya ?! Que fais-tu là ?"
 
