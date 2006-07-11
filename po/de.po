@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2006-06-23 17:49+0200\n"
-"PO-Revision-Date: 2006-06-16 14:39+0200\n"
+"PO-Revision-Date: 2006-07-11 11:04+0200\n"
 "Last-Translator: Hendrik Brandt <eru@gmx.li>\n"
 "Language-Team: German <gnome-de@gnome.org>\n"
 "MIME-Version: 1.0\n"
@@ -512,8 +512,9 @@ msgstr ""
 "Jetzt kannst du vielleicht meine Frage beantworten, warum bist du hier?"
 
 #: Dark_Elves/scenarios/Path.cfg:525 Dark_Elves/scenarios/Path.cfg:635
+#, fuzzy
 msgid "It was father's doing. He thought you could use some company."
-msgstr ""
+msgstr "Es war vaters Werk. Er dachte du könntest etwas Kopmanie gebrauchen."
 
 #: Dark_Elves/scenarios/Path.cfg:529 Dark_Elves/scenarios/Path.cfg:639
 msgid ""
@@ -529,7 +530,7 @@ msgstr ""
 
 #: Dark_Elves/scenarios/Path.cfg:537 Dark_Elves/scenarios/Path.cfg:647
 msgid "Iselas! What has he done now?"
-msgstr ""
+msgstr "Iselas! Was hat er jetzt schon wieder gemacht?"
 
 #: Dark_Elves/scenarios/Path.cfg:541 Dark_Elves/scenarios/Path.cfg:651
 #, fuzzy
@@ -661,7 +662,7 @@ msgstr ""
 
 #: Dark_Elves/scenarios/Time.cfg:38
 msgid "Defeat the Enemy Leaders"
-msgstr ""
+msgstr "Besiegt die gegnerischen Anführer"
 
 #: Dark_Elves/scenarios/Time.cfg:69
 #, fuzzy
@@ -681,7 +682,7 @@ msgstr ""
 
 #: Dark_Elves/scenarios/Time.cfg:81
 msgid "Big words for such a small elf"
-msgstr ""
+msgstr "Große Worte für so einen kleinen Elf"
 
 #: Dark_Elves/scenarios/Time.cfg:85
 msgid ""
@@ -690,8 +691,9 @@ msgid ""
 msgstr ""
 
 #: Dark_Elves/scenarios/Time.cfg:89
+#, fuzzy
 msgid "Taste my steel and die, dark one!"
-msgstr ""
+msgstr "Schmecke mein Stahl und sterbe, dunkeler!"
 
 #: Dark_Elves/scenarios/Time.cfg:98
 msgid "What? Why am I still alive?"
@@ -824,7 +826,7 @@ msgstr "Magisch"
 #: Dark_Elves/units/Dark_Elf_Sorceress.cfg:54
 #: Dark_Elves/units/Dark_Elf_Enchantress.cfg:51
 msgid "fire"
-msgstr ""
+msgstr "Feuer"
 
 #: Dark_Elves/units/Dark_Elf_Corsair.cfg:17
 #, fuzzy
@@ -919,7 +921,7 @@ msgstr ""
 
 #: Dark_Elves/units/Dark_Elf_Lizard_Rider.cfg:68
 msgid "claw"
-msgstr ""
+msgstr "Klauen"
 
 #: Dark_Elves/units/Dark_Elf_Marshal.cfg:4
 msgid "Dark Elf Marshal"
