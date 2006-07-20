@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2006-06-23 17:49+0200\n"
-"PO-Revision-Date: 2006-07-17 12:10+0200\n"
+"PO-Revision-Date: 2006-07-20 10:42+0200\n"
 "Last-Translator: Hendrik Brandt <eru@gmx.li>\n"
 "Language-Team: German <gnome-de@gnome.org>\n"
 "MIME-Version: 1.0\n"
@@ -244,6 +244,8 @@ msgid ""
 "The Dwarf very obstinate, but I have what we need. The advance guard is just "
 "beyond the Great Rift."
 msgstr ""
+"Die Zwerge sind sehr hartneckig, aber ich habe, was wir brauchen. Die "
+"entwickelte Wache ist gerade über dem großen Geschenk hinaus."
 
 #: Dark_Elves/scenarios/Danger.cfg:87
 #, fuzzy
@@ -425,7 +427,7 @@ msgstr ""
 
 #: Dark_Elves/scenarios/Hunt.cfg:168
 msgid "Silence, lest I have your tongue tore from your mouth!"
-msgstr ""
+msgstr "Ruhe, damit ich nicht die gequälte Zunge von deinem Mund habe!"
 
 #: Dark_Elves/scenarios/Hunt.cfg:173
 msgid "...sorry, my lord. \n"
@@ -765,6 +767,8 @@ msgid ""
 "Look, the midget calls us small, he apparently has a lack of reflective "
 "surfaces handy."
 msgstr ""
+"Schaut, sie mögen uns vielleicht als klein bezeichnen, offenbar weisst er "
+"kein reflejktive, gesckickte Oberfläche auf."
 
 #: Dark_Elves/scenarios/Time.cfg:89
 #, fuzzy
@@ -889,6 +893,10 @@ msgid ""
 "they use for their sadistic pleasure. Terribly seductive, they are both "
 "feared and admired for their beauty and cruelty."
 msgstr ""
+"Ein Geistlicher mit beiden magischen Fähigkeiten, und der Benutzung eines "
+"Streitkolbens, wie die Zwerge herrausfanden. Sie haben die Fähigkeit zu "
+"Kurieren. Schrecklich sadistische Freude, sind sie Beide gefürchtet und "
+"bewundert für ihre Shönheit und ihre Grausamkeit"
 
 #: Dark_Elves/units/Dark_Elf_Cleric.cfg:24
 #: Dark_Elves/units/Dark_Elf_Sorceress.cfg:23
@@ -941,6 +949,11 @@ msgid ""
 "Through the guiding of the Clerics, someday they will become a mighty "
 "Sorceress."
 msgstr ""
+"Die Frauen der Dunkelelfen treten meist, meist wenn sie nocjh jung sind, dem "
+"Orden der Geistlichen bei. Sie beginnen als Zauberin, mit limitierten "
+"physikalischen und magischen Fähigkeiten, und haben gerade angefangen, ihre "
+"quälenden Techniken zu praktizieren. Durch das leiten der Geistlichen werden "
+"sie eines Tages mystische Zauberrinnen werden."
 
 #: Dark_Elves/units/Dark_Elf_Fighter.cfg:23
 msgid ""
@@ -1031,6 +1044,10 @@ msgid ""
 "Although they can never become Lords, they still strive to do their best to "
 "defend the Matron Mother with their swords and short spears."
 msgstr ""
+"Diese Elfen haben sich mit ihrem Charakter und ihrer Haltung bewiesen. SIe "
+"haben sich den Rang einen Marschals verdient. Obgleich sie niemals Könige "
+"werdenkönnen, versuchen sie immer, das beste zu geben, um die Matronenmutter "
+"mit ihren kurzen Speeren und ihren Schwertern zu beschützen."
 
 #: Dark_Elves/units/Dark_Elf_Shadow.cfg:4
 #, fuzzy
@@ -1043,6 +1060,10 @@ msgid ""
 "least expect it. Despite their frailty, they can inflict great damage over "
 "time, slowly taking the life away from their prey ."
 msgstr ""
+"Sicher versteckt in den Schatten der Höhlen, werden sie dich treffen, wenn "
+"du es am wenigsten vermutest. Trotz ihrer Zerbrechlichkeit können mit der "
+"Zeit sie jede Menge Schaden austeilen, und ihrem Opfer langsam das Leben "
+"nehmen."
 
 #: Dark_Elves/units/Dark_Elf_Shadow.cfg:42
 #: Dark_Elves/units/Dark_Elf_Stalker.cfg:43
@@ -1060,6 +1081,12 @@ msgid ""
 "down a path toward the dark arts practiced by the Necromancers and Lichs. "
 "Their mighty cold blast can freeze any foe that dares to cross their path."
 msgstr ""
+"Zauberer sind Magier die sich tief den arkanen Künsten gewidmet haben. Sie "
+"erforschen das konsumieren von ihnen in einer Aufgabe für mehr Energie und "
+"sie runter, in einen dunkelen Pfad zu führen, zu den dunkelen Künsten die "
+"von Totenbeschwörern und den Lichs praktiziert werden. Ihre mystischen "
+"Kältewellen können jeden Feind erstarren lassen, der sich ihnen in den Weg "
+"stellt."
 
 #: Dark_Elves/units/Dark_Elf_Wizard.cfg:21
 #: Dark_Elves/units/Dark_Elf_Sorcerer.cfg:21
@@ -1080,6 +1107,11 @@ msgid ""
 "Very soon, they will become Clerics, the terribly seductive sadistic "
 "torturers."
 msgstr ""
+"Die Frauen der Dunkelelfen treten oft schon als junge Frauen dem Orden der "
+"Geistlichen bei. Sie haben den Rang einer Zauberin erlangt und meistern die "
+"Künste des Heilens, Quälens und haben wieder und wieder ihre Verbündeten "
+"geheilt. Sehr bald werden sie Geistliche werden, dei schrecklich, "
+"verlockend, sadistisch und quälend."
 
 #: Dark_Elves/units/Dark_Elf_Stalker.cfg:4
 #, fuzzy
@@ -1092,6 +1124,10 @@ msgid ""
 "daggers and crossbows. They are completely hidden in the caves, only the "
 "thud of a dead body tells you they are near."
 msgstr ""
+"Gerissene, agile Krieger, sind die Verstecker kraftvoll bei der Benutzung "
+"ihrer beiden Waffen, dem Dolch und der Armbrust. Sind sie komplet in der "
+"Höhle versteckt, kann dir nur noch das Geräusch eines auf dem Boden "
+"aufschlagendem Körper sagen, das sie da sind."
 
 #: Dark_Elves/units/Dark_Elf_Warlock.cfg:4
 #, fuzzy
@@ -1105,6 +1141,10 @@ msgid ""
 "and have the power to drain life from their opponents with a single touch, "
 "and add it to their own."
 msgstr ""
+"Die Besten ihrer Sorte, die Hexeneister haben imense Energier, die selbst "
+"der der Erzmagier zum Rivalen werden kann. Sie entdeckten die Geheimnisse "
+"der dunklen Künste und haben die Kraft Lebensenergie von ihrem Gegenspieler "
+"mit einer einzigen berührung. abzusaugen, und sie der ihrigen hinzuzufügen."
 
 #: Dark_Elves/units/Dark_Elf_Warlock.cfg:20
 msgid "touch"
@@ -1116,6 +1156,10 @@ msgid ""
 "weapons. With their balanced blades, they can shave a Dwarf. Only few become "
 "Corsairs."
 msgstr ""
+"Diese Krieger haben sich voll und ganz dem Meistern von der Benutzung von "
+"Zweihandwaffen gewidmet. Mit ihren ausbalanksierten Klingen könnten sie "
+"selbst einen Zwerg rasieren. Nur wenigen von ihren werden rechtmäßig den "
+"Rang eines Kosars erhalten."
 
 #: Dark_Elves/units/Dark_Elf_Wizard.cfg:4
 msgid "Dark Elf Wizard"
@@ -1128,6 +1172,11 @@ msgid ""
 "the slaves, and other such things. However, in time of conflict, they can do "
 "great damage, even though they lack any training in close-combat."
 msgstr ""
+"Einige Dunkelelfen ziehen den Nakampf der arkanen Kunst vor. Normalerweise "
+"werden sie weniger Pflichten des Hauses zu erledigen, solche wie das Geld "
+"verwalten, die Sklaven betreuen, oder Ähnliches. Wieauchimmer könenn sie im "
+"Konfikt mit anderen Gegnern große Mengen von Schaden austeilen, dadurch, das "
+"sie keine Übung im Fernkampf aufweisen."
 
 #~ msgid ""
 #~ "Thank you my lord, I'll clean your armor, sharpen your weapons, wash your "
