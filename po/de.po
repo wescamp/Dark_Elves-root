@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2006-06-23 17:49+0200\n"
-"PO-Revision-Date: 2006-07-20 10:42+0200\n"
+"PO-Revision-Date: 2006-07-21 12:05+0200\n"
 "Last-Translator: Hendrik Brandt <eru@gmx.li>\n"
 "Language-Team: German <gnome-de@gnome.org>\n"
 "MIME-Version: 1.0\n"
@@ -95,6 +95,7 @@ msgstr ""
 "Opfer zu Tode Quälte nur um sie naachher wieder zum Leben zu erwecken."
 
 #: Dark_Elves/scenarios/Beginning.cfg:22
+#, fuzzy
 msgid ""
 "The Dwarves put up with this for awhile, until the grand Dwarf Lord sent his "
 "young cousin to scout with a party. He came back, days later, alone. He was "
@@ -102,8 +103,15 @@ msgid ""
 "Dwarf Lord's anger was aroused, he amassed his house to strike down his "
 "enemies once and for all. "
 msgstr ""
+"Die Zwerge haben das vor kurzer Zeit errichtet, bis der große Zwergenkönig "
+"seinen jungen Cousin aussendete, der mit der Partie kundschaften sollte. "
+"Tage später kam er zurück, alleine. Er hatte Angst, denn auch er ist den "
+"mystischen Geistlichen begegnet. So wurde die Wut des Zwergenkönigs wieder "
+"erregt, und er verlies sein Haus um seine Feinde für alles das bezahlen zu "
+"lassen."
 
 #: Dark_Elves/scenarios/Beginning.cfg:26
+#, fuzzy
 msgid ""
 "Varish'na, a noble of the Tenth House, has fallen committed a crime against "
 "the Matron Mother, and has been given 11 years to regain his honor, or he "
@@ -113,6 +121,14 @@ msgid ""
 "little fortress far away from civilization, where he will at least have a "
 "slime chance of requiting himself..."
 msgstr ""
+"Varish'na ein Erhabener des zehnten Hauses, hat fallent eine Kriminale "
+"tätigkkeit gegen die Matronenmutter ausgeübt, und hat daraufhin 11 Jahre "
+"Zeit gekriegt, seine Ehre wieder herzustellen, oder zu Tode gequält zu "
+"werden, aber nicht bevor die Geistlichen ihre quälenden Techniken an ihm "
+"praktiziert hätten, bevor es ihnen zu langweilig wird. Als teil dieser "
+"Blamage und mit den Auswirkungen seines Vaters wurde Varish'na ausgesendet "
+"einen kleinen Wald zu bewachen, weit, weit weg von jeder Zivisilation, wo er "
+"ersteinmal eine schleimige Chance haben wir, sich wieder zu berhuigen."
 
 #: Dark_Elves/scenarios/Hunt.cfg:34 Dark_Elves/scenarios/Path.cfg:26
 #: Dark_Elves/scenarios/Beginning.cfg:46 Dark_Elves/scenarios/Time.cfg:20
@@ -391,8 +407,10 @@ msgid "Yes, little bearded one, oh yes."
 msgstr "Ja, kleiner Bärtiger, oh ja."
 
 #: Dark_Elves/scenarios/Hunt.cfg:132
+#, fuzzy
 msgid "Still your tongue fool lest you be struck down."
 msgstr ""
+"Still, du gequälter Narr, damit ich nicht auch noch angeschlagen werde."
 
 #: Dark_Elves/scenarios/Hunt.cfg:148
 #, fuzzy
