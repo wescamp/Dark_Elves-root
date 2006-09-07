@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2006-06-23 17:49+0200\n"
-"PO-Revision-Date: 2006-06-26 13:41+0100\n"
+"PO-Revision-Date: 2006-09-06 22:57+0100\n"
 "Last-Translator: Brivido <brivido@gmail.com>\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -51,9 +51,9 @@ msgid ""
 "a grain of truth can be found."
 msgstr ""
 "Nelle profondità della terra il male si sta diffondendo. Sotto forma di "
-"elfi, o meglio non proprio. Una razza chiamata elfi neri di molte, vecchie "
-"leggende raccontano. Così come raccontano dei nani in fuga precipitosa dalle "
-"loro case. E tutte le leggende hanno un fondo di verità."
+"elfi, o meglio non esattamente. Una razza chiamata elfi neri di cui molte, "
+"vecchie leggende raccontano. Così come raccontano dei nani in fuga "
+"precipitosa dalle loro case. E tutte le leggende hanno un fondo di verità."
 
 #: Dark_Elves/scenarios/Beginning.cfg:14
 msgid ""
@@ -84,7 +84,7 @@ msgstr ""
 "gruppi di esplorazione in profondità nelle caverne. Alla ricerca dell'oro. "
 "L'avarizia li ha guidati, ma pochi sono tornati indenni alle loro grandi "
 "sale. Quelli che lo hanno fatto balbettavano incoerentemente e nei loro "
-"balbettii parlavano sempre di strane Sacerdotesse della Notte, che "
+"balbettii parlavano sempre di strane «Sacerdotesse della Notte», che "
 "torturavano fino alla morte le loro vittime designate, solo per riportarle "
 "poi di nuovo in vita."
 
@@ -96,10 +96,10 @@ msgid ""
 "Dwarf Lord's anger was aroused, he amassed his house to strike down his "
 "enemies once and for all. "
 msgstr ""
-"I nani tollerarono queste cose per per un po', fino a che il grande signore "
-"nano non mandò il suo giovane cugino con un gruppo di esplorazione. Tornò "
-"dopo qualche giorno, solo. Era pieno di cicatrici a pure lui biascicava di "
-"misteriose Sacerdotesse. La rabbia del grande signore nano si scatenò, "
+"I nani tollerarono queste cose per un po', fino a che il grande signore nano "
+"non mandò il suo giovane cugino con un gruppo di esplorazione. Tornò dopo "
+"qualche giorno, solo. Era pieno di cicatrici e pure lui biascicava di "
+"misteriose sacerdotesse. La rabbia del grande signore nano si scatenò, "
 "radunò la sua casa per abbattere una volta per tutte i suoi nemici."
 
 #: Dark_Elves/scenarios/Beginning.cfg:26
@@ -113,12 +113,12 @@ msgid ""
 "slime chance of requiting himself..."
 msgstr ""
 "Varish'na, nobile della Decima Casa, commise un crimine contro la Madre "
-"Matrona. Gli furono dati 11 anni per riguadagnare il suo onore oppure sarà "
-"torturato a morte, ma non prima che le sacerdotesse sperimentino le loro "
-"tecniche di tortura su di lui fino alla noia. Come parte del suo castigo e "
-"con l'influenza del suo padre, Varish'na fu inviato a custodire una piccola "
-"fortezza molto lontana dalla civiltà, dove avrebbe avuto almeno un'infima "
-"possibilità di redimersi..."
+"Matrona. Gli furono dati 11 anni per riguadagnare il suo onore oppure "
+"sarebbe stato torturato a morte, ma non prima che le sacerdotesse "
+"sperimentassero le loro tecniche di tortura su di lui fino alla noia. Come "
+"parte del suo castigo e con l'influenza del suo padre, Varish'na fu inviato "
+"a custodire una piccola fortezza molto lontana dalla civiltà, dove avrebbe "
+"avuto almeno un'infima possibilità di redimersi..."
 
 #: Dark_Elves/scenarios/Hunt.cfg:34 Dark_Elves/scenarios/Path.cfg:26
 #: Dark_Elves/scenarios/Beginning.cfg:46 Dark_Elves/scenarios/Time.cfg:20
@@ -152,7 +152,7 @@ msgid ""
 "Clan Stormhammer without a fight!"
 msgstr ""
 "Cosa? Queste devono essere le forze che hanno catturato il povero Vladdy, "
-"nessun orecchie a punta prenderà il clan Scuotimartello senza combattere!"
+"nessun «orecchie a punta» prenderà il clan Scuotimartello senza combattere!"
 
 #: Dark_Elves/scenarios/Beginning.cfg:106
 msgid ""
@@ -185,7 +185,7 @@ msgstr ""
 
 #: Dark_Elves/scenarios/Beginning.cfg:136
 msgid "Are they sure of this?"
-msgstr "Ne sei sicuro?"
+msgstr "Ne sono sicure?"
 
 #: Dark_Elves/scenarios/Beginning.cfg:141
 msgid "Have they ever been wrong before sir?"
@@ -208,7 +208,7 @@ msgstr ""
 
 #: Dark_Elves/scenarios/Beginning.cfg:154
 msgid "That's the idea."
-msgstr "Questa è un'idea."
+msgstr "È questa l'idea."
 
 #: Dark_Elves/scenarios/Hunt.cfg:208 Dark_Elves/scenarios/Path.cfg:695
 #: Dark_Elves/scenarios/Beginning.cfg:170 Dark_Elves/scenarios/Time.cfg:144
@@ -248,8 +248,8 @@ msgid ""
 "The Dwarf very obstinate, but I have what we need. The advance guard is just "
 "beyond the Great Rift."
 msgstr ""
-"Il nano è molto testardo, ma abbiamo quello che ci serve. L'avanguardia è "
-"appena oltre il Grande Abisso."
+"Il nano era molto testardo, ma abbiamo saputo quello che ci serve. "
+"L'avanguardia è appena oltre il Grande Abisso."
 
 #: Dark_Elves/scenarios/Danger.cfg:87
 msgid "The bridge is just ahead, and it looks like they have them guarded"
@@ -262,7 +262,7 @@ msgstr "Bene allora, cosa stiamo aspettando? Andiamo a prenderli!"
 #: Dark_Elves/scenarios/Danger.cfg:100
 msgid "That was easy. I think they didn't expect us to survive their trap."
 msgstr ""
-"È stato facile. Credo che non si aspettavano che saremmo sopravvissuti alla "
+"È stato facile. Credo che non si aspettassero che saremmo sopravvissuti alla "
 "loro trappola."
 
 #: Dark_Elves/scenarios/Danger.cfg:104
@@ -334,7 +334,7 @@ msgstr "Uccidi tutti i nani"
 
 #: Dark_Elves/scenarios/Hunt.cfg:91
 msgid "Hold there Dhaerow! What is your business here?"
-msgstr "Piantala Dhaerow! Cosa ci fai qua?"
+msgstr "Fermo Dhaerow! Cosa ci fai qua?"
 
 #: Dark_Elves/scenarios/Hunt.cfg:95
 msgid ""
@@ -342,9 +342,9 @@ msgid ""
 "numerous in the caverns to the north. They are ransacking and burning our "
 "homes. You must render us aid!"
 msgstr ""
-"Grazie alla Madre, sapevamo che i rinforzi sarebbero arrivati. I nani sono "
-"numerosi nelle caverne a nord. Stanno saccheggiando e incendiando le nostre "
-"case. Ci dovete aiutare!"
+"Siano rese grazie alla Madre, sapevamo che i rinforzi sarebbero arrivati. I "
+"nani sono numerosi nelle caverne a nord. Stanno saccheggiando e incendiando "
+"le nostre case. Ci dovete aiutare!"
 
 #: Dark_Elves/scenarios/Hunt.cfg:99
 msgid ""
@@ -357,7 +357,8 @@ msgstr ""
 #: Dark_Elves/scenarios/Hunt.cfg:103
 msgid "Of course my lord. Others will help you, just visit the villages."
 msgstr ""
-"Naturalmente, mio signore. Gli altri ti aiuteranno, visita solo i villaggi."
+"Naturalmente, mio signore. Gli altri ti aiuteranno, devi solo visitare i "
+"villaggi."
 
 #: Dark_Elves/scenarios/Hunt.cfg:110
 msgid ""
@@ -385,11 +386,11 @@ msgstr "Sì, barbettina, oh sì."
 
 #: Dark_Elves/scenarios/Hunt.cfg:132
 msgid "Still your tongue fool lest you be struck down."
-msgstr "Tieni a freno la tua lingua sciocco se non vuoi che te la tagli."
+msgstr "Tieni a freno la tua lingua, sciocco, se non vuoi che te la tagli."
 
 #: Dark_Elves/scenarios/Hunt.cfg:148
 msgid "At last our homes are saved for these stunted fools! "
-msgstr "Finalmente le nostre case si sono salvate per questi stupidi testardi!"
+msgstr "Finalmente le nostre case sono al sicuro da questi stupidi testardi!"
 
 #: Dark_Elves/scenarios/Hunt.cfg:152
 msgid "The peace is an illusion, there are more, far more coming."
@@ -466,7 +467,7 @@ msgstr ""
 
 #: Dark_Elves/scenarios/Path.cfg:310
 msgid "That's okay. I know a safe spot where we can hide and wait."
-msgstr "Va bene. Conosco un posto dove ci possiamo nascondere per aspettare."
+msgstr "Va bene. Conosco un posto dove possiamo nasconderci e aspettare."
 
 #: Dark_Elves/scenarios/Path.cfg:314
 msgid ""
@@ -483,8 +484,8 @@ msgid ""
 "are driven mad with fear. And we have no idea where the Dwarves are. We must "
 "proceed carefully."
 msgstr ""
-"Ne saprai più di me quando si tratta di guerreggiare, ma io ho qualche tacca "
-"in più quando si tratta di cacciare. I nani devono aver spaventato le "
+"Potrai saperne più di me quando si tratta di guerreggiare, ma io ho qualche "
+"punto in più quando si tratta di cacciare. I nani devono aver spaventato le "
 "creature ancora più avanti verso noi. Non lo senti? Siamo circondati dalle "
 "bestie, persino quelle inoffensive sono pazze di paura. E non abbiamo idea "
 "di dove siano i nani. Dobbiamo procedere con cautela."
@@ -518,7 +519,7 @@ msgstr "Traya? Cosa ci fai qui?"
 #: Dark_Elves/scenarios/Path.cfg:437
 msgid "Later, we have some Dwarves to kill. Just let me remove this wall..."
 msgstr ""
-"Oiù tardi, ora abbiamo dei nani da uccidere. devo solo rimuovere questa "
+"Più tardi, ora abbiamo dei nani da uccidere. Devo solo rimuovere questa "
 "parete..."
 
 #: Dark_Elves/scenarios/Path.cfg:441
@@ -555,14 +556,14 @@ msgstr "Adesso forse vorrai rispondermi, perché sei qua?"
 
 #: Dark_Elves/scenarios/Path.cfg:525 Dark_Elves/scenarios/Path.cfg:635
 msgid "It was father's doing. He thought you could use some company."
-msgstr "È stato mio padre. Ha pensato che ti serviva un po' di compagnia."
+msgstr "È stato mio padre. Ha pensato che ti servisse un po' di compagnia."
 
 #: Dark_Elves/scenarios/Path.cfg:529 Dark_Elves/scenarios/Path.cfg:639
 msgid ""
 "But what of the Clerics? I thought you couldn't get away for another four "
 "years!"
 msgstr ""
-"E le Sacerdotesse? Credevo che non potevi andartene per altri quattro anni!"
+"E le sacerdotesse? Credevo che non potessi andartene per altri quattro anni!"
 
 #: Dark_Elves/scenarios/Path.cfg:533 Dark_Elves/scenarios/Path.cfg:643
 msgid ""
@@ -606,7 +607,7 @@ msgid ""
 "creatures like old veterans."
 msgstr ""
 "Oggi, le noste truppe hanno davvero dato prova del loro valore. Hanno "
-"affrontato quelle luride creature come vecchi veterani."
+"affrontato quelle luride creature come esperti veterani."
 
 #: Dark_Elves/scenarios/Path.cfg:627
 msgid "Varish'na! Are you all right?"
@@ -630,7 +631,7 @@ msgstr "Antha"
 
 #: Dark_Elves/scenarios/Relentless.cfg:70
 msgid "Kill all Dwarvish Leaders"
-msgstr "Uccidi il comandante dei nani"
+msgstr "Uccidi tutti i comandanti dei nani"
 
 #: Dark_Elves/scenarios/Relentless.cfg:94
 msgid ""
@@ -678,7 +679,7 @@ msgid ""
 "We must proceed carefully. The fugitives will have spread word of our "
 "coming, and we may be ambushed."
 msgstr ""
-"Bobbiamo procedere con cautela. I fuggitivi avranno sparso la notizia del "
+"Dobbiamo procedere con cautela. I fuggitivi avranno sparso la notizia del "
 "nostro arrivo e potrebbero tenderci un'imboscata."
 
 #: Dark_Elves/scenarios/Relentless.cfg:132
@@ -686,8 +687,8 @@ msgid ""
 "The tunnels ahead have not been traversed for quite some time now. That is "
 "where I would often go to do my hunting, the larger creatures reside there."
 msgstr ""
-"Da molto tempo non vengono più percorsi i tunnel più avanti. Spesso venivo "
-"qua a caccia, le creature più grandi abitano qua."
+"Da molto tempo non vengono più percorsi i tunnel che abbiamo davanti. Spesso "
+"venivo qua a caccia, le creature più grandi abitano qua."
 
 #: Dark_Elves/scenarios/Relentless.cfg:136
 msgid ""
@@ -749,7 +750,7 @@ msgid ""
 "Because I preserved your life. You're too wonderful a Dwarf to let die. Such "
 "big muscles, such big..."
 msgstr ""
-"Perché ti ho risparmiato. Sei proprio un esemplare di nano meraviglioso per "
+"Perché ti ho risparmiato. Sei proprio un meraviglioso esemplare di nano per "
 "lasciarti morire. Hai dei grossi muscoli, un grosso..."
 
 #: Dark_Elves/scenarios/Time.cfg:106
@@ -765,9 +766,9 @@ msgid ""
 "Hah! Think I'd fall for that old trick! With your soft white skin, silky "
 "black hair, smooth lips, and beautiful--No! I'll tell you nothing! *Gahh...!*"
 msgstr ""
-"Aha! Credevi che ci sarei cascato! È un trucco vecchio, la tua soffice pelle "
-"chiara, i capelli neri di seta, labbra morbide e un bel... No! Non dirò "
-"nulla! *Gahh...!*"
+"Ahah! Credevi che ci sarei cascato! È un trucco vecchio, la tua soffice "
+"pelle chiara, i capelli neri di seta, labbra morbide e un bel... No! Non "
+"dirò nulla! *Gahh...!*"
 
 #: Dark_Elves/scenarios/Time.cfg:118
 msgid "Oh well, guess I'll have to do this the hard way."
@@ -955,7 +956,7 @@ msgid ""
 "Many an Dwarf has been cut in two by it's strong jaws. It would be well to "
 "recruit several of these powerful units."
 msgstr ""
-"Le Lucertole non sono rapide come i cavalli, ma sono molto più potenti. "
+"Le lucertole non sono rapide come i cavalli, ma sono molto più potenti. "
 "Molti nani sono stati tagliati in due dalla potenza delle loro fauci. È un "
 "grande vantaggio reclutare un gran numero di queste potenti unità."
 
@@ -979,7 +980,7 @@ msgid ""
 "unknown, to go where no Dark Elf has gone before. Some day, they will become "
 "Master of the Lizard."
 msgstr ""
-"Fin dall'infanzia sono stati addestrati con la loro Lucertola, nutrendola, "
+"Fin dall'infanzia sono stati addestrati con la loro lucertola, nutrendola, "
 "curandola e dormendo con essa. Il loro compito è esplorare l'ignoto e "
 "giungere dove nessun elfo nero è mai stato prima. Un giorno diventeranno "
 "Capi-lucertola."
@@ -1062,7 +1063,7 @@ msgstr ""
 "Le donne degli elfi neri spesso aderiscono all'Ordine delle Sacerdotesse in "
 "giovanissima età. Coloro che meritano il rango di incantatrici e si sono "
 "quasi impadronite delle arti della cura, torturando e guarendo i loro "
-"prigionieri continuamente. Molto presto diventeranno Sacerdotesse, sadiche "
+"prigionieri continuamente. Molto presto diventeranno sacerdotesse, sadiche "
 "torturatrici terribilmente sadiche."
 
 #: Dark_Elves/units/Dark_Elf_Stalker.cfg:4
@@ -1125,3 +1126,87 @@ msgstr ""
 "la manutenzione, la sorveglianza degli schiavi e altre cose di questo tipo. "
 "Tuttavia, in tempo di guerra, possono fare gravi danni, anche se non hanno "
 "alcun addestramento al combattimento ravvicinato."
+
+#~ msgid ""
+#~ "The Queen of the Dark Elves heard tell of the Dwarves anger, and she "
+#~ "appointed a new general to the front lines to command her troops. The "
+#~ "glorious 10th Legion of the Night.You have been given 11 years to regain "
+#~ "your honor, or you will be tortured to death, but not before the Clerics "
+#~ "have practised their torturing techniques on you until they get bored. If "
+#~ "the Dwarves don't kill you, your men will. Order is difficult to keep, "
+#~ "and you are continually stopping fights, punishing your troops, and "
+#~ "wishing something horrible would happen. Your watch as the guards alert "
+#~ "you of a Dwarvish scout party heading towards the keep. You ready your "
+#~ "men, hoping that you die in this battle..."
+#~ msgstr ""
+#~ "I racconti dell'ira dei nani giunsero agli orecchi della regina degli "
+#~ "elfi neri che mandò un nuovo generale in prima linea per comandare le "
+#~ "truppe. La gloriosa decima legione della Notte. Ti sono stati concessi 11 "
+#~ "anni per recuperare il tuo onore altrimenti sarai torturato fino alla "
+#~ "morte, ma non prima che le sacerdotesse si esercitino nelle loro tecniche "
+#~ "di tortura fino alla noia. Se non ti uccideranno i nani, lo faranno i "
+#~ "tuoi uomini. È difficile mantenere l'ordine e devi continuamente "
+#~ "interrompere litigi, punire le tue truppe e augurarti che accada qualcosa "
+#~ "di orribile. La vigilanza e quella delle tue guardie ti da l'allarme per "
+#~ "una pattuglia di ricognizione di nani diretta verso la fortezza. Prepari "
+#~ "i tuoi uomini sperando di morire in questa battaglia..."
+
+#~ msgid ""
+#~ "Thank you my lord, I'll clean your armor, sharpen your weapons, wash your "
+#~ "clothes..."
+#~ msgstr ""
+#~ "Grazie, mio signore. Vi pulirò l'armatura, affilerò le vostre armi, "
+#~ "laverò i vostri vestiti..."
+
+#~ msgid ""
+#~ "It was father's doing. He knew you would need all the help you can get, "
+#~ "so he convinced them to send me with the reinforcements."
+#~ msgstr ""
+#~ "È stato tuo padre a farlo. Sapeva che avresti avuto bisogno di tutto "
+#~ "l'aiuto posibile, così li ha convinti a mandare me con i rinforzi."
+
+#~ msgid "But what of the Clerics? I thought..."
+#~ msgstr "E le sacerdotesse? Io pensavo che..."
+
+#~ msgid "Iselas! But I thought he was..."
+#~ msgstr "Iselas! Ma io pensavo che fosse..."
+
+#~ msgid "Another Dwarf"
+#~ msgstr "Altro nano"
+
+#~ msgid ""
+#~ "It doesn't mater, they are Dwarves in Dhaeraow land, and must be killed!"
+#~ msgstr ""
+#~ "Non importa, se ci sono dei nani nella terra dei Dhaerow, dobbiamo "
+#~ "ucciderli!"
+
+#~ msgid "Give it your best shot, foul Elves!"
+#~ msgstr "Fatemi vedere i vostri colpi migliori, stupidi elfi!"
+
+#~ msgid "Eat my steel!"
+#~ msgstr "Assaggia il mio acciaio!"
+
+#~ msgid "Is *cough* is that...th..the best you *cough* c.c.can do?"
+#~ msgstr ""
+#~ "Questo *cough* è il... me... meglio che tu *cough* s... s... sai fare?"
+
+#~ msgid "Urg!!!"
+#~ msgstr "Urg!!!"
+
+#~ msgid "leadership"
+#~ msgstr "comando"
+
+#~ msgid "magical"
+#~ msgstr "magico"
+
+#~ msgid "poison"
+#~ msgstr "veleno"
+
+#~ msgid "charge"
+#~ msgstr "carica"
+
+#~ msgid "cavestalk"
+#~ msgstr "agguato nelle caverne"
+
+#~ msgid "drain"
+#~ msgstr "assorbi"
