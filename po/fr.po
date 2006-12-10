@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2006-06-23 17:49+0200\n"
-"PO-Revision-Date: 2006-12-07 06:54+0100\n"
+"PO-Revision-Date: 2006-12-09 10:31+0100\n"
 "Last-Translator: Guillaume MASSART <massart.guillaume@wanadoo.fr>\n"
 "Language-Team: Language fr <wesnoth@ml.free.fr>\n"
 "MIME-Version: 1.0\n"
@@ -90,7 +90,6 @@ msgstr ""
 "mort leurs victimes pour juste ensuite les ramener à la vie."
 
 #: Dark_Elves/scenarios/Beginning.cfg:22
-#, fuzzy
 msgid ""
 "The Dwarves put up with this for awhile, until the grand Dwarf Lord sent his "
 "young cousin to scout with a party. He came back, days later, alone. He was "
@@ -102,7 +101,7 @@ msgstr ""
 "nains envoie un groupe et son jeune cousin en reconnaissance. Quelques jours "
 "plus tard, ce dernier revint seul, effrayé par son voyage chez les "
 "mystérieux clercs. Ceci attisa la colère du Grand Seigneur des nains qui "
-"réunit une troupe pour terrasser ses ennemis une fois pour toutes."
+"réunit les siens pour terrasser ses ennemis une fois pour toutes."
 
 #: Dark_Elves/scenarios/Beginning.cfg:26
 msgid ""
