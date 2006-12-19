@@ -15,8 +15,7 @@ msgstr ""
 msgid "A New Threat"
 msgstr "Nová hrozba"
 
-#: Dark_Elves/units/Dark_Elf_Fighter.cfg:4
-#: Dark_Elves.cfg:17
+#: Dark_Elves/units/Dark_Elf_Fighter.cfg:4 Dark_Elves.cfg:17
 msgid "Dark Elf Fighter"
 msgstr "Temný elf bojovník"
 
@@ -24,8 +23,7 @@ msgstr "Temný elf bojovník"
 msgid "(easiest)"
 msgstr "(nejlehčí)"
 
-#: Dark_Elves/units/Dark_Elf_Warrior.cfg:4
-#: Dark_Elves.cfg:18
+#: Dark_Elves/units/Dark_Elf_Warrior.cfg:4 Dark_Elves.cfg:18
 msgid "Dark Elf Warrior"
 msgstr "Temný elf válečník"
 
@@ -33,8 +31,7 @@ msgstr "Temný elf válečník"
 msgid "(hardest)"
 msgstr "(nejtěžší)"
 
-#: Dark_Elves/units/Dark_Elf_Corsair.cfg:4
-#: Dark_Elves.cfg:19
+#: Dark_Elves/units/Dark_Elf_Corsair.cfg:4 Dark_Elves.cfg:19
 msgid "Dark Elf Corsair"
 msgstr "Temný elf korzár"
 
@@ -48,31 +45,56 @@ msgid "It's only the Beginning"
 msgstr "Pouze začátek"
 
 #: Dark_Elves/scenarios/Beginning.cfg:10
-msgid "Deep underground evil is spreading. In the form of Elves, yet not so. A race that is called the Dark Elves by many, old wives tales most say. Yet how can old wives tales send Dwarves scurrying from their homes. And to every legend a grain of truth can be found."
+msgid ""
+"Deep underground evil is spreading. In the form of Elves, yet not so. A race "
+"that is called the Dark Elves by many, old wives tales most say. Yet how can "
+"old wives tales send Dwarves scurrying from their homes. And to every legend "
+"a grain of truth can be found."
 msgstr ""
 
 #: Dark_Elves/scenarios/Beginning.cfg:14
-msgid "The Dark Elves have lived in the silent blackness for years, adapting to a world into which they were cast. They added to their knowledge of the arcane arts, the dark magic. And through this they have wrought a thriving underground society. They had armies, cities, and a ruling queen. They divided into seperate houses, and thus were their lords chosen."
+msgid ""
+"The Dark Elves have lived in the silent blackness for years, adapting to a "
+"world into which they were cast. They added to their knowledge of the arcane "
+"arts, the dark magic. And through this they have wrought a thriving "
+"underground society. They had armies, cities, and a ruling queen. They "
+"divided into seperate houses, and thus were their lords chosen."
 msgstr ""
 
 #: Dark_Elves/scenarios/Beginning.cfg:18
-msgid "For years they have lived in silence, content to be ignored by the world of light above them, until the greed of the Dwarves drew them to send scouting parties deep into the caves. In search of gold. Greed drove them, but few returned to their great halls unscathed. Those that did return spout incoherent babble, and amongst their words were always talk of strange Clerics of the Night, torturing their chosen victims to death, only to restore them back to life."
+msgid ""
+"For years they have lived in silence, content to be ignored by the world of "
+"light above them, until the greed of the Dwarves drew them to send scouting "
+"parties deep into the caves. In search of gold. Greed drove them, but few "
+"returned to their great halls unscathed. Those that did return spout "
+"incoherent babble, and amongst their words were always talk of strange "
+"Clerics of the Night, torturing their chosen victims to death, only to "
+"restore them back to life."
 msgstr ""
 
 #: Dark_Elves/scenarios/Beginning.cfg:22
-msgid "The Dwarves put up with this for awhile, until the grand Dwarf Lord sent his young cousin to scout with a party. He came back, days later, alone. He was scarred and he too went on about the mysterious Clerics. So thus the Grand Dwarf Lord's anger was aroused, he amassed his house to strike down his enemies once and for all. "
+msgid ""
+"The Dwarves put up with this for awhile, until the grand Dwarf Lord sent his "
+"young cousin to scout with a party. He came back, days later, alone. He was "
+"scarred and he too went on about the mysterious Clerics. So thus the Grand "
+"Dwarf Lord's anger was aroused, he amassed his house to strike down his "
+"enemies once and for all. "
 msgstr ""
 
 #: Dark_Elves/scenarios/Beginning.cfg:26
-msgid "Varish'na, a noble of the Tenth House, has fallen committed a crime against the Matron Mother, and has been given 11 years to regain his honor, or he will be tortured to death, but not before the Clerics have practised their torturing techniques on him until they get bored. As part of his disgrace, and with the influence of his father, Varish'na has been sent to guard a little fortress far away from civilization, where he will at least have a slime chance of requiting himself..."
+msgid ""
+"Varish'na, a noble of the Tenth House, has fallen committed a crime against "
+"the Matron Mother, and has been given 11 years to regain his honor, or he "
+"will be tortured to death, but not before the Clerics have practised their "
+"torturing techniques on him until they get bored. As part of his disgrace, "
+"and with the influence of his father, Varish'na has been sent to guard a "
+"little fortress far away from civilization, where he will at least have a "
+"slime chance of requiting himself..."
 msgstr ""
 
-#: Dark_Elves/scenarios/Hunt.cfg:34
-#: Dark_Elves/scenarios/Path.cfg:26
-#: Dark_Elves/scenarios/Beginning.cfg:46
-#: Dark_Elves/scenarios/Time.cfg:20
-#: Dark_Elves/scenarios/Danger.cfg:23
-#: Dark_Elves/scenarios/Relentless.cfg:24
+#: Dark_Elves/scenarios/Hunt.cfg:34 Dark_Elves/scenarios/Path.cfg:26
+#: Dark_Elves/scenarios/Beginning.cfg:46 Dark_Elves/scenarios/Time.cfg:20
+#: Dark_Elves/scenarios/Danger.cfg:23 Dark_Elves/scenarios/Relentless.cfg:24
 msgid "Varish'na"
 msgstr "Varish'na"
 
@@ -80,48 +102,51 @@ msgstr "Varish'na"
 msgid "Trith"
 msgstr "Trith"
 
-#: Dark_Elves/scenarios/Path.cfg:55
-#: Dark_Elves/scenarios/Beginning.cfg:74
+#: Dark_Elves/scenarios/Path.cfg:55 Dark_Elves/scenarios/Beginning.cfg:74
 msgid "Kill the Dwarves"
 msgstr "Pobij trpaslíky"
 
-#: Dark_Elves/scenarios/Hunt.cfg:65
-#: Dark_Elves/scenarios/Path.cfg:63
-#: Dark_Elves/scenarios/Beginning.cfg:78
-#: Dark_Elves/scenarios/Time.cfg:42
-#: Dark_Elves/scenarios/Danger.cfg:56
-#: Dark_Elves/scenarios/Relentless.cfg:74
+#: Dark_Elves/scenarios/Hunt.cfg:65 Dark_Elves/scenarios/Path.cfg:63
+#: Dark_Elves/scenarios/Beginning.cfg:78 Dark_Elves/scenarios/Time.cfg:42
+#: Dark_Elves/scenarios/Danger.cfg:56 Dark_Elves/scenarios/Relentless.cfg:74
 msgid "Death of Varish'na"
 msgstr "Varish'na zemře"
 
-#: Dark_Elves/scenarios/Hunt.cfg:73
-#: Dark_Elves/scenarios/Path.cfg:75
-#: Dark_Elves/scenarios/Beginning.cfg:82
-#: Dark_Elves/scenarios/Time.cfg:54
-#: Dark_Elves/scenarios/Danger.cfg:68
-#: Dark_Elves/scenarios/Relentless.cfg:82
+#: Dark_Elves/scenarios/Hunt.cfg:73 Dark_Elves/scenarios/Path.cfg:75
+#: Dark_Elves/scenarios/Beginning.cfg:82 Dark_Elves/scenarios/Time.cfg:54
+#: Dark_Elves/scenarios/Danger.cfg:68 Dark_Elves/scenarios/Relentless.cfg:82
 #, fuzzy
 msgid "Turns run out"
 msgstr "Vyprší čas"
 
 #: Dark_Elves/scenarios/Beginning.cfg:96
-msgid "What? These must be the forces who took poor Vladdy, no pointy ear is takin' Clan Stormhammer without a fight!"
+msgid ""
+"What? These must be the forces who took poor Vladdy, no pointy ear is takin' "
+"Clan Stormhammer without a fight!"
 msgstr ""
 
 #: Dark_Elves/scenarios/Beginning.cfg:106
-msgid "Accursed Elf dogs, ye shall perish before this month is up. My brothers shall crush ye like an eggshell. And Dark Elf blood shall flow like water."
+msgid ""
+"Accursed Elf dogs, ye shall perish before this month is up. My brothers "
+"shall crush ye like an eggshell. And Dark Elf blood shall flow like water."
 msgstr ""
 
 #: Dark_Elves/scenarios/Beginning.cfg:123
-msgid "My lord, we have found a Dwarf, and the Clerics have resurrected him. From him we have learned a terrible truth."
-msgstr "Můj pane, našli jsme trpaslíka, a klerikové jej oživili. Dověděli jsme se od něj strašlivou novinu."
+msgid ""
+"My lord, we have found a Dwarf, and the Clerics have resurrected him. From "
+"him we have learned a terrible truth."
+msgstr ""
+"Můj pane, našli jsme trpaslíka, a klerikové jej oživili. Dověděli jsme se od "
+"něj strašlivou novinu."
 
 #: Dark_Elves/scenarios/Beginning.cfg:127
 msgid "What is it?"
 msgstr "Jakou?"
 
 #: Dark_Elves/scenarios/Beginning.cfg:132
-msgid "The Dwarvish clans of Stormhammer, Stoutblade, the Cleavers, and the 'fabled' Red Mountain clan have all mobilized against us."
+msgid ""
+"The Dwarvish clans of Stormhammer, Stoutblade, the Cleavers, and the "
+"'fabled' Red Mountain clan have all mobilized against us."
 msgstr ""
 
 #: Dark_Elves/scenarios/Beginning.cfg:136
@@ -133,23 +158,26 @@ msgid "Have they ever been wrong before sir?"
 msgstr "Pane, spletli se už snad někdy?"
 
 #: Dark_Elves/scenarios/Beginning.cfg:145
-msgid "Hmm...Good point. Send our fastest soldier to alert the Matron Mother. We must attempt to arrest their advancement. Make ready to leave the keep."
-msgstr "Hmm... pravda. Pošlete našeho nejrychlejšího vojáka varovat Matku Matrónu. Musíme se pokusit zastavit jejich postup. Připravte se opustit tvrz."
+msgid ""
+"Hmm...Good point. Send our fastest soldier to alert the Matron Mother. We "
+"must attempt to arrest their advancement. Make ready to leave the keep."
+msgstr ""
+"Hmm... pravda. Pošlete našeho nejrychlejšího vojáka varovat Matku Matrónu. "
+"Musíme se pokusit zastavit jejich postup. Připravte se opustit tvrz."
 
 #: Dark_Elves/scenarios/Beginning.cfg:150
 msgid "But my lord... They far outnumber us to charge would be suicide... "
-msgstr "Ale, můj pane,... mnohonásobně nás převyšují počtem, útok by byla hotová sebevražda..."
+msgstr ""
+"Ale, můj pane,... mnohonásobně nás převyšují počtem, útok by byla hotová "
+"sebevražda..."
 
 #: Dark_Elves/scenarios/Beginning.cfg:154
 msgid "That's the idea."
 msgstr "Přesně tak."
 
-#: Dark_Elves/scenarios/Hunt.cfg:208
-#: Dark_Elves/scenarios/Path.cfg:695
-#: Dark_Elves/scenarios/Beginning.cfg:170
-#: Dark_Elves/scenarios/Time.cfg:144
-#: Dark_Elves/scenarios/Danger.cfg:167
-#: Dark_Elves/scenarios/Relentless.cfg:148
+#: Dark_Elves/scenarios/Hunt.cfg:208 Dark_Elves/scenarios/Path.cfg:695
+#: Dark_Elves/scenarios/Beginning.cfg:170 Dark_Elves/scenarios/Time.cfg:144
+#: Dark_Elves/scenarios/Danger.cfg:167 Dark_Elves/scenarios/Relentless.cfg:148
 msgid "No! I have failed!"
 msgstr "Ne! Selhal jsem!"
 
@@ -169,24 +197,25 @@ msgstr "Moral"
 msgid "Kill the Dwarf Leader"
 msgstr "Zabij vůdce trpaslíků"
 
-#: Dark_Elves/scenarios/Hunt.cfg:69
-#: Dark_Elves/scenarios/Path.cfg:67
-#: Dark_Elves/scenarios/Time.cfg:46
-#: Dark_Elves/scenarios/Danger.cfg:60
+#: Dark_Elves/scenarios/Hunt.cfg:69 Dark_Elves/scenarios/Path.cfg:67
+#: Dark_Elves/scenarios/Time.cfg:46 Dark_Elves/scenarios/Danger.cfg:60
 #: Dark_Elves/scenarios/Relentless.cfg:78
 msgid "Death of Voldel"
 msgstr "Voldel zemře"
 
-#: Dark_Elves/scenarios/Path.cfg:71
-#: Dark_Elves/scenarios/Time.cfg:50
+#: Dark_Elves/scenarios/Path.cfg:71 Dark_Elves/scenarios/Time.cfg:50
 #: Dark_Elves/scenarios/Danger.cfg:64
 msgid "Death of Traya"
 msgstr "Traya zemře"
 
 #: Dark_Elves/scenarios/Danger.cfg:83
 #, fuzzy
-msgid "The Dwarf very obstinate, but I have what we need. The advance guard is just beyond the Great Rift."
-msgstr "Trpaslíci byli velmi zarputilí, ale mám, co potřebujeme. Přední hlídka je hned za Velkou trhlinou."
+msgid ""
+"The Dwarf very obstinate, but I have what we need. The advance guard is just "
+"beyond the Great Rift."
+msgstr ""
+"Trpaslíci byli velmi zarputilí, ale mám, co potřebujeme. Přední hlídka je "
+"hned za Velkou trhlinou."
 
 #: Dark_Elves/scenarios/Danger.cfg:87
 msgid "The bridge is just ahead, and it looks like they have them guarded"
@@ -199,18 +228,28 @@ msgstr "Dobrá, nač tedy čekáme? Hrrr na ně!"
 
 #: Dark_Elves/scenarios/Danger.cfg:100
 msgid "That was easy. I think they didn't expect us to survive their trap."
-msgstr "To bylo jednoduché. Podle mně si nemysleli, že bychom mohli přežít jejich léčku."
+msgstr ""
+"To bylo jednoduché. Podle mně si nemysleli, že bychom mohli přežít jejich "
+"léčku."
 
 #: Dark_Elves/scenarios/Danger.cfg:104
-msgid "Now we must choose which way to go. The cave ahead splits up. To the right is a new tunnel, and the one the Dwarves most likely came down. If I were you, I'd choose that one."
-msgstr "Teď se musíme rozhodnout, kudy dál. Před námi se jeskyně rozděluje. Napravo je nový tunel, kterým s největší pravděpodobností přišli trpaslíci. Na vašem místě bych si jej vybral."
+msgid ""
+"Now we must choose which way to go. The cave ahead splits up. To the right "
+"is a new tunnel, and the one the Dwarves most likely came down. If I were "
+"you, I'd choose that one."
+msgstr ""
+"Teď se musíme rozhodnout, kudy dál. Před námi se jeskyně rozděluje. Napravo "
+"je nový tunel, kterým s největší pravděpodobností přišli trpaslíci. Na vašem "
+"místě bych si jej vybral."
 
 #: Dark_Elves/scenarios/Danger.cfg:108
 msgid "Why?"
 msgstr "Proč?"
 
 #: Dark_Elves/scenarios/Danger.cfg:112
-msgid "No one has gone down the other one for a long time. It is said that a Dragon lives down there."
+msgid ""
+"No one has gone down the other one for a long time. It is said that a Dragon "
+"lives down there."
 msgstr "Tím druhým už nikdo dlouho nešel. Říká se, že tam žije drak."
 
 #: Dark_Elves/scenarios/Danger.cfg:116
@@ -230,14 +269,17 @@ msgstr "Velíš ty, Varišno. Jdeme tam, kam velíš."
 msgid "If the Dwarves are to the left, then lets go kill some Dwarves!"
 msgstr "Jestli jsou trpaslíci nalevo, tak hurá na trpaslíky!"
 
-#: Dark_Elves/scenarios/Danger.cfg:130
-#: Dark_Elves/scenarios/Danger.cfg:145
+#: Dark_Elves/scenarios/Danger.cfg:130 Dark_Elves/scenarios/Danger.cfg:145
 msgid "It's your chosen path. Come, let us continue"
 msgstr "Takže sis vybral. Pojďme!"
 
 #: Dark_Elves/scenarios/Danger.cfg:141
-msgid "We need to get to the Dwarves as quickly as possible. Dragon or no Dragon, we shall go right."
-msgstr "Musíme se dostat k trpaslíkům co nejrychleji. Půjdeme doprava, ať už tam drak je či není."
+msgid ""
+"We need to get to the Dwarves as quickly as possible. Dragon or no Dragon, "
+"we shall go right."
+msgstr ""
+"Musíme se dostat k trpaslíkům co nejrychleji. Půjdeme doprava, ať už tam "
+"drak je či není."
 
 #: Dark_Elves/scenarios/Hunt.cfg:5
 #, fuzzy
@@ -261,12 +303,17 @@ msgid "Hold there Dhaerow! What is your business here?"
 msgstr ""
 
 #: Dark_Elves/scenarios/Hunt.cfg:95
-msgid "Thank the Mother, we knew reinforcements would arrive. The Dwarves are numerous in the caverns to the north. They are ransacking and burning our homes. You must render us aid!"
+msgid ""
+"Thank the Mother, we knew reinforcements would arrive. The Dwarves are "
+"numerous in the caverns to the north. They are ransacking and burning our "
+"homes. You must render us aid!"
 msgstr ""
 
 #: Dark_Elves/scenarios/Hunt.cfg:99
 #, fuzzy
-msgid "Our objective lies to the north as well, very well. Rally any Dhaerow capable of carrying weapons"
+msgid ""
+"Our objective lies to the north as well, very well. Rally any Dhaerow "
+"capable of carrying weapons"
 msgstr "Výborně, náš cíl leží také na severu. "
 
 #: Dark_Elves/scenarios/Hunt.cfg:103
@@ -274,12 +321,20 @@ msgid "Of course my lord. Others will help you, just visit the villages."
 msgstr "Ovšem, můj pane. Ostatní vám pomohou, jen navštivte vesnice."
 
 #: Dark_Elves/scenarios/Hunt.cfg:110
-msgid "More of these darned cave Elves. Now assault in the name of Vladdy, and Clan Stormhammer!"
-msgstr "Další proklatí jeskynní elfové. Ve jménu Vladdyho a klanu Kladiva bouře, útok!"
+msgid ""
+"More of these darned cave Elves. Now assault in the name of Vladdy, and Clan "
+"Stormhammer!"
+msgstr ""
+"Další proklatí jeskynní elfové. Ve jménu Vladdyho a klanu Kladiva bouře, "
+"útok!"
 
 #: Dark_Elves/scenarios/Hunt.cfg:120
-msgid "Good... We have the dog ready for the Clerics. They shall have more sport with him then they did with Vladdy."
-msgstr "Výborně... máme toho psa připraveného pro kleriky. Měli by s ním mít víc zábavy než měli s Vladdym."
+msgid ""
+"Good... We have the dog ready for the Clerics. They shall have more sport "
+"with him then they did with Vladdy."
+msgstr ""
+"Výborně... máme toho psa připraveného pro kleriky. Měli by s ním mít víc "
+"zábavy než měli s Vladdym."
 
 #: Dark_Elves/scenarios/Hunt.cfg:124
 msgid "*gasp* Nooooooooo!"
@@ -303,16 +358,26 @@ msgstr "Tento mír je pouhou iluzí, přichází jich mnohem více."
 
 #: Dark_Elves/scenarios/Hunt.cfg:156
 #, fuzzy
-msgid "I have nothing left, my family was slain by the Dwarves, and vengeance sounds good to me. I shall join you on your quest."
-msgstr "Nezbývá mi nic, má rodina byla pobita trpaslíky a pomsta mi připadá jako vhodná volba. Přidám se k vám."
+msgid ""
+"I have nothing left, my family was slain by the Dwarves, and vengeance "
+"sounds good to me. I shall join you on your quest."
+msgstr ""
+"Nezbývá mi nic, má rodina byla pobita trpaslíky a pomsta mi připadá jako "
+"vhodná volba. Přidám se k vám."
 
 #: Dark_Elves/scenarios/Hunt.cfg:160
 msgid "Come if you will, but don't waste any more of my time."
 msgstr "Jestli chceš, pojď, ale přestaň mrhat mým časem."
 
 #: Dark_Elves/scenarios/Hunt.cfg:164
-msgid "The Dwarves shall know my vengance! With my mighty arrows and powerful dagger, I shall be a terror to them. Despite their staunch and stature, I shall kill the little hairy monsters without-"
-msgstr "Trpaslíci poznají mou mstu! S mými skvělými šípy a mocnou dýkou se jim stanu postrachem. Budu pobíjet ty mrňavé chlupaté monstra navzdory jejich rozměrům a tvrdosti -"
+msgid ""
+"The Dwarves shall know my vengance! With my mighty arrows and powerful "
+"dagger, I shall be a terror to them. Despite their staunch and stature, I "
+"shall kill the little hairy monsters without-"
+msgstr ""
+"Trpaslíci poznají mou mstu! S mými skvělými šípy a mocnou dýkou se jim stanu "
+"postrachem. Budu pobíjet ty mrňavé chlupaté monstra navzdory jejich rozměrům "
+"a tvrdosti -"
 
 #: Dark_Elves/scenarios/Hunt.cfg:168
 msgid "Silence, lest I have your tongue tore from your mouth!"
@@ -350,11 +415,15 @@ msgid "Okay Vondel, which way?"
 msgstr "Dobře, Vondele, teď kudy?"
 
 #: Dark_Elves/scenarios/Path.cfg:302
-msgid "It depends on where you want to go. Do you even know where the Dwarvish army is?"
+msgid ""
+"It depends on where you want to go. Do you even know where the Dwarvish army "
+"is?"
 msgstr ""
 
 #: Dark_Elves/scenarios/Path.cfg:306
-msgid "No, actually not. My men won't take anyone alive, and we have no Clerics. I sent for reinforcements, but they won't arrive till later."
+msgid ""
+"No, actually not. My men won't take anyone alive, and we have no Clerics. I "
+"sent for reinforcements, but they won't arrive till later."
 msgstr ""
 
 #: Dark_Elves/scenarios/Path.cfg:310
@@ -362,11 +431,17 @@ msgid "That's okay. I know a safe spot where we can hide and wait."
 msgstr ""
 
 #: Dark_Elves/scenarios/Path.cfg:314
-msgid "WHAT!?! Dhaeraow hide? We are soldiers of the Tenth House, we, NEVER, hide!"
+msgid ""
+"WHAT!?! Dhaeraow hide? We are soldiers of the Tenth House, we, NEVER, hide!"
 msgstr ""
 
 #: Dark_Elves/scenarios/Path.cfg:318
-msgid "You may know more about warring, but I have a few notches when it comes to hunting. The Dwarves would have scared the creatures further ahead toward us. Can't you feel it? We are surrounded by beasts, even the harmless ones are driven mad with fear. And we have no idea where the Dwarves are. We must proceed carefully."
+msgid ""
+"You may know more about warring, but I have a few notches when it comes to "
+"hunting. The Dwarves would have scared the creatures further ahead toward "
+"us. Can't you feel it? We are surrounded by beasts, even the harmless ones "
+"are driven mad with fear. And we have no idea where the Dwarves are. We must "
+"proceed carefully."
 msgstr ""
 
 #: Dark_Elves/scenarios/Path.cfg:322
@@ -377,8 +452,7 @@ msgstr ""
 msgid "It's north-east of here. Come on, this way"
 msgstr "Je severovýchodně odtud. Pojďte, tudy."
 
-#: Dark_Elves/scenarios/Path.cfg:379
-#: Dark_Elves/scenarios/Path.cfg:575
+#: Dark_Elves/scenarios/Path.cfg:379 Dark_Elves/scenarios/Path.cfg:575
 msgid "Traya"
 msgstr "Traya"
 
@@ -415,7 +489,9 @@ msgid "...uhhh..."
 msgstr "...uhhh..."
 
 #: Dark_Elves/scenarios/Path.cfg:480
-msgid "You have recieved 100 gold and can now recruit Lizard-Riders and Enchantresses. Now go kick some hairy butt!"
+msgid ""
+"You have recieved 100 gold and can now recruit Lizard-Riders and "
+"Enchantresses. Now go kick some hairy butt!"
 msgstr ""
 
 #: Dark_Elves/scenarios/Path.cfg:517
@@ -426,50 +502,56 @@ msgstr ""
 msgid "Now maybe you can answer my question, why are you here?"
 msgstr ""
 
-#: Dark_Elves/scenarios/Path.cfg:525
-#: Dark_Elves/scenarios/Path.cfg:635
+#: Dark_Elves/scenarios/Path.cfg:525 Dark_Elves/scenarios/Path.cfg:635
 msgid "It was father's doing. He thought you could use some company."
 msgstr ""
 
-#: Dark_Elves/scenarios/Path.cfg:529
-#: Dark_Elves/scenarios/Path.cfg:639
-msgid "But what of the Clerics? I thought you couldn't get away for another four years!"
+#: Dark_Elves/scenarios/Path.cfg:529 Dark_Elves/scenarios/Path.cfg:639
+msgid ""
+"But what of the Clerics? I thought you couldn't get away for another four "
+"years!"
 msgstr ""
 
-#: Dark_Elves/scenarios/Path.cfg:533
-#: Dark_Elves/scenarios/Path.cfg:643
+#: Dark_Elves/scenarios/Path.cfg:533 Dark_Elves/scenarios/Path.cfg:643
 #, fuzzy
-msgid "It seems we both have a knack for getting into trouble. Iselas and I got in a bit of trouble."
-msgstr "Zdá se, že máme oba nadání přitahovat problémy. Iselas a já jsme měli jeden takový problém."
+msgid ""
+"It seems we both have a knack for getting into trouble. Iselas and I got in "
+"a bit of trouble."
+msgstr ""
+"Zdá se, že máme oba nadání přitahovat problémy. Iselas a já jsme měli jeden "
+"takový problém."
 
-#: Dark_Elves/scenarios/Path.cfg:537
-#: Dark_Elves/scenarios/Path.cfg:647
+#: Dark_Elves/scenarios/Path.cfg:537 Dark_Elves/scenarios/Path.cfg:647
 msgid "Iselas! What has he done now?"
 msgstr "Iselas! Co provedl tentokrát?"
 
-#: Dark_Elves/scenarios/Path.cfg:541
-#: Dark_Elves/scenarios/Path.cfg:651
+#: Dark_Elves/scenarios/Path.cfg:541 Dark_Elves/scenarios/Path.cfg:651
 msgid "Hush! This is not for outsiders to hear."
 msgstr "Pst! Tohle nesmí nezasvěcení slyšet."
 
-#: Dark_Elves/scenarios/Path.cfg:545
-#: Dark_Elves/scenarios/Path.cfg:655
-msgid "Huh? Oh, don't mind me beautiful, I don't hear anything except the pounding of my heart."
+#: Dark_Elves/scenarios/Path.cfg:545 Dark_Elves/scenarios/Path.cfg:655
+msgid ""
+"Huh? Oh, don't mind me beautiful, I don't hear anything except the pounding "
+"of my heart."
 msgstr ""
 
-#: Dark_Elves/scenarios/Path.cfg:549
-#: Dark_Elves/scenarios/Path.cfg:659
+#: Dark_Elves/scenarios/Path.cfg:549 Dark_Elves/scenarios/Path.cfg:659
 msgid "Voldel..."
 msgstr "Voldele..."
 
-#: Dark_Elves/scenarios/Path.cfg:553
-#: Dark_Elves/scenarios/Path.cfg:663
-msgid "Maybe we'll talk about this later Varish'na. We have more pressing matters to attend to. Come, let us continue."
+#: Dark_Elves/scenarios/Path.cfg:553 Dark_Elves/scenarios/Path.cfg:663
+msgid ""
+"Maybe we'll talk about this later Varish'na. We have more pressing matters "
+"to attend to. Come, let us continue."
 msgstr ""
 
 #: Dark_Elves/scenarios/Path.cfg:623
-msgid "Our troops have indeed proven themselves today. They took care of those foul creatures like old veterans."
-msgstr "Naše jednotky se dnes opravdu vyznamenaly. Postaraly se o ty nechutné tvory jako zkušení veteráni."
+msgid ""
+"Our troops have indeed proven themselves today. They took care of those foul "
+"creatures like old veterans."
+msgstr ""
+"Naše jednotky se dnes opravdu vyznamenaly. Postaraly se o ty nechutné tvory "
+"jako zkušení veteráni."
 
 #: Dark_Elves/scenarios/Path.cfg:627
 msgid "Varish'na! Are you all right?"
@@ -496,12 +578,22 @@ msgid "Kill all Dwarvish Leaders"
 msgstr "Zabij všechny vůdce trpaslíků"
 
 #: Dark_Elves/scenarios/Relentless.cfg:94
-msgid "This is worse then I thought. We are only a weeks journey from home, and look at all these Dwarves!"
-msgstr "Tohle je horší, než jsem si myslel. Jsme jen několik týdnů cesty od domova, a podívejte, kolik je tu trpaslíků!"
+msgid ""
+"This is worse then I thought. We are only a weeks journey from home, and "
+"look at all these Dwarves!"
+msgstr ""
+"Tohle je horší, než jsem si myslel. Jsme jen několik týdnů cesty od domova, "
+"a podívejte, kolik je tu trpaslíků!"
 
 #: Dark_Elves/scenarios/Relentless.cfg:98
-msgid "I agree, there are a lot of them. Luckily for you, I know every inch of this area. Just north of here is a small stream. A castle was built there during the First Years. It is old, but it still serves its purpose."
-msgstr "Souhlasím, je jich tu mnoho. Naštěstí pro vás, znám tu každý kámen. Hned na sever odtud je amlý potok. V Prvotních letech tam byl vystavěn hrad. Je starý, ale svému účelu stále poslouží."
+msgid ""
+"I agree, there are a lot of them. Luckily for you, I know every inch of this "
+"area. Just north of here is a small stream. A castle was built there during "
+"the First Years. It is old, but it still serves its purpose."
+msgstr ""
+"Souhlasím, je jich tu mnoho. Naštěstí pro vás, znám tu každý kámen. Hned na "
+"sever odtud je amlý potok. V Prvotních letech tam byl vystavěn hrad. Je "
+"starý, ale svému účelu stále poslouží."
 
 #: Dark_Elves/scenarios/Relentless.cfg:102
 msgid "Then we must hurry, before the Dwarves overcome us!"
@@ -520,19 +612,27 @@ msgid "There must be more of them, we have yet to hit the advance guard."
 msgstr "Musí jich tu být víc, ještě jsme se ani nestřetli s přední hlídkou."
 
 #: Dark_Elves/scenarios/Relentless.cfg:124
-msgid "Let them come. We will rip them to shreds. Hunting the enemy is my specialty!"
-msgstr "Tak ať přijdou. Rozsekáme je na kousky. Lov na nepřítele je má specialita!"
+msgid ""
+"Let them come. We will rip them to shreds. Hunting the enemy is my specialty!"
+msgstr ""
+"Tak ať přijdou. Rozsekáme je na kousky. Lov na nepřítele je má specialita!"
 
 #: Dark_Elves/scenarios/Relentless.cfg:128
-msgid "We must proceed carefully. The fugitives will have spread word of our coming, and we may be ambushed."
+msgid ""
+"We must proceed carefully. The fugitives will have spread word of our "
+"coming, and we may be ambushed."
 msgstr ""
 
 #: Dark_Elves/scenarios/Relentless.cfg:132
-msgid "The tunnels ahead have not been traversed for quite some time now. That is where I would often go to do my hunting, the larger creatures reside there."
+msgid ""
+"The tunnels ahead have not been traversed for quite some time now. That is "
+"where I would often go to do my hunting, the larger creatures reside there."
 msgstr ""
 
 #: Dark_Elves/scenarios/Relentless.cfg:136
-msgid "Great, Dwarves and monsters. Well, we don't seem to have much choice. Let us keep going."
+msgid ""
+"Great, Dwarves and monsters. Well, we don't seem to have much choice. Let us "
+"keep going."
 msgstr ""
 
 #: Dark_Elves/scenarios/Time.cfg:5
@@ -568,7 +668,9 @@ msgid "Big words for such a small elf"
 msgstr "Velká slova na tak malého elfa."
 
 #: Dark_Elves/scenarios/Time.cfg:85
-msgid "Look, the midget calls us small, he apparently has a lack of reflective surfaces handy."
+msgid ""
+"Look, the midget calls us small, he apparently has a lack of reflective "
+"surfaces handy."
 msgstr ""
 
 #: Dark_Elves/scenarios/Time.cfg:89
@@ -580,7 +682,9 @@ msgid "What? Why am I still alive?"
 msgstr ""
 
 #: Dark_Elves/scenarios/Time.cfg:102
-msgid "Because I preserved your life. You're too wonderful a Dwarf to let die. Such big muscles, such big..."
+msgid ""
+"Because I preserved your life. You're too wonderful a Dwarf to let die. Such "
+"big muscles, such big..."
 msgstr ""
 
 #: Dark_Elves/scenarios/Time.cfg:106
@@ -592,7 +696,9 @@ msgid "If you tell me your secrets I'll tell you mine."
 msgstr "Když mi povíš svá tajemství, já ti povím svá."
 
 #: Dark_Elves/scenarios/Time.cfg:114
-msgid "Hah! Think I'd fall for that old trick! With your soft white skin, silky black hair, smooth lips, and beautiful--No! I'll tell you nothing! *Gahh...!*"
+msgid ""
+"Hah! Think I'd fall for that old trick! With your soft white skin, silky "
+"black hair, smooth lips, and beautiful--No! I'll tell you nothing! *Gahh...!*"
 msgstr ""
 
 #: Dark_Elves/scenarios/Time.cfg:118
@@ -610,14 +716,20 @@ msgstr "Voldele, ty jsi opravdu nechutný."
 
 #: Dark_Elves/scenarios/Time.cfg:136
 msgid "Curse you, you durned Dark Elf... May you rot in Hythenglim for this..."
-msgstr "K čertu s tebou, ty zatracený temný elfe... doufám, že za tohle budeš hnít v Hythenglimu..."
+msgstr ""
+"K čertu s tebou, ty zatracený temný elfe... doufám, že za tohle budeš hnít v "
+"Hythenglimu..."
 
 #: Dark_Elves/units/Dark_Elf_Captain.cfg:4
 msgid "Dark Elf Captain"
 msgstr ""
 
 #: Dark_Elves/units/Dark_Elf_Captain.cfg:19
-msgid "These Elves have been an example to their fellow soldiers, and have gained the rank of Captain. Although they can never become Lords, they still strive to do their best to defend the Matron Mother with their swords and short spears."
+msgid ""
+"These Elves have been an example to their fellow soldiers, and have gained "
+"the rank of Captain. Although they can never become Lords, they still strive "
+"to do their best to defend the Matron Mother with their swords and short "
+"spears."
 msgstr ""
 
 #: Dark_Elves/units/Dark_Elf_Corsair.cfg:20
@@ -663,7 +775,11 @@ msgid "female^Dark Elf Cleric"
 msgstr ""
 
 #: Dark_Elves/units/Dark_Elf_Cleric.cfg:21
-msgid "A Cleric is adapt at both their magical abilities and the use of their maces, as the Dwarves have found out. They have the cure ability, a tool they use for their sadistic pleasure. Terribly seductive, they are both feared and admired for their beauty and cruelty."
+msgid ""
+"A Cleric is adapt at both their magical abilities and the use of their "
+"maces, as the Dwarves have found out. They have the cure ability, a tool "
+"they use for their sadistic pleasure. Terribly seductive, they are both "
+"feared and admired for their beauty and cruelty."
 msgstr ""
 
 #: Dark_Elves/units/Dark_Elf_Cleric.cfg:24
@@ -694,7 +810,10 @@ msgid "fire"
 msgstr "oheň"
 
 #: Dark_Elves/units/Dark_Elf_Corsair.cfg:17
-msgid "No single being can stand before a Dark Elf Corsair. If you every see one, run. With they're razor sharp swords, they can splice and dice a dwarves beard."
+msgid ""
+"No single being can stand before a Dark Elf Corsair. If you every see one, "
+"run. With they're razor sharp swords, they can splice and dice a dwarves "
+"beard."
 msgstr ""
 
 #: Dark_Elves/units/Dark_Elf_Enchantress.cfg:4
@@ -702,11 +821,19 @@ msgid "female^Dark Elf Enchantress"
 msgstr ""
 
 #: Dark_Elves/units/Dark_Elf_Enchantress.cfg:17
-msgid "The women of the Dark Elves often join the Order of the Clerics at a very young age. They start of as an Enchantress, with limited physical and magical abilities, and have just began practicing their torture techniques. Through the guiding of the Clerics, someday they will become a mighty Sorceress."
+msgid ""
+"The women of the Dark Elves often join the Order of the Clerics at a very "
+"young age. They start of as an Enchantress, with limited physical and "
+"magical abilities, and have just began practicing their torture techniques. "
+"Through the guiding of the Clerics, someday they will become a mighty "
+"Sorceress."
 msgstr ""
 
 #: Dark_Elves/units/Dark_Elf_Fighter.cfg:23
-msgid "The initiates in their House army, many Fighters die because of lack of training. Dark Elves believe that only the best should have the honor of fighting for the Matron Mother."
+msgid ""
+"The initiates in their House army, many Fighters die because of lack of "
+"training. Dark Elves believe that only the best should have the honor of "
+"fighting for the Matron Mother."
 msgstr ""
 
 #: Dark_Elves/units/Dark_Elf_Hunter.cfg:4
@@ -714,7 +841,9 @@ msgid "Dark Elf Hunter"
 msgstr ""
 
 #: Dark_Elves/units/Dark_Elf_Hunter.cfg:26
-msgid "Lurking in the ever dark depths of the caves, the Hunters move around with out a sound, except for the twang of their crossbows."
+msgid ""
+"Lurking in the ever dark depths of the caves, the Hunters move around with "
+"out a sound, except for the twang of their crossbows."
 msgstr ""
 
 #: Dark_Elves/units/Dark_Elf_Shadow.cfg:22
@@ -732,7 +861,10 @@ msgid "Dark Elf Lizard-Master"
 msgstr ""
 
 #: Dark_Elves/units/Dark_Elf_Lizard_Master.cfg:17
-msgid "Though the Lizards are not as fast as horses, they are much more powerful. Many an Dwarf has been cut in two by it's strong jaws. It would be well to recruit several of these powerful units."
+msgid ""
+"Though the Lizards are not as fast as horses, they are much more powerful. "
+"Many an Dwarf has been cut in two by it's strong jaws. It would be well to "
+"recruit several of these powerful units."
 msgstr ""
 
 #: Dark_Elves/units/Dark_Elf_Lizard_Rider.cfg:50
@@ -749,7 +881,11 @@ msgid "Dark Elf Lizard-Rider"
 msgstr ""
 
 #: Dark_Elves/units/Dark_Elf_Lizard_Rider.cfg:30
-msgid "From childhood, they have been training with their beast, feeding it, healing it, and sleeping with it. It is their duty to scout ahead into the unknown, to go where no Dark Elf has gone before. Some day, they will become Master of the Lizard."
+msgid ""
+"From childhood, they have been training with their beast, feeding it, "
+"healing it, and sleeping with it. It is their duty to scout ahead into the "
+"unknown, to go where no Dark Elf has gone before. Some day, they will become "
+"Master of the Lizard."
 msgstr ""
 
 #: Dark_Elves/units/Dark_Elf_Lizard_Rider.cfg:68
@@ -761,7 +897,11 @@ msgid "Dark Elf Marshal"
 msgstr ""
 
 #: Dark_Elves/units/Dark_Elf_Marshal.cfg:20
-msgid "These Elves have proven themselves on and off the battle field with their character and demeanor. They have earned for themselves the rank of Marshal. Although they can never become Lords, they still strive to do their best to defend the Matron Mother with their swords and short spears."
+msgid ""
+"These Elves have proven themselves on and off the battle field with their "
+"character and demeanor. They have earned for themselves the rank of Marshal. "
+"Although they can never become Lords, they still strive to do their best to "
+"defend the Matron Mother with their swords and short spears."
 msgstr ""
 
 #: Dark_Elves/units/Dark_Elf_Shadow.cfg:4
@@ -769,7 +909,10 @@ msgid "Dark Elf Shadow"
 msgstr ""
 
 #: Dark_Elves/units/Dark_Elf_Shadow.cfg:19
-msgid "Staying hidden safe in the shadows of the caves, they will hit you when you least expect it. Despite their frailty, they can inflict great damage over time, slowly taking the life away from their prey ."
+msgid ""
+"Staying hidden safe in the shadows of the caves, they will hit you when you "
+"least expect it. Despite their frailty, they can inflict great damage over "
+"time, slowly taking the life away from their prey ."
 msgstr ""
 
 #: Dark_Elves/units/Dark_Elf_Shadow.cfg:42
@@ -782,7 +925,11 @@ msgid "Dark Elf Sorcerer"
 msgstr ""
 
 #: Dark_Elves/units/Dark_Elf_Sorcerer.cfg:17
-msgid "Sorcerers are Wizards that have gone deeper into the studying of the arcane arts. Their research consumes them in a quest for more power, leading them down a path toward the dark arts practiced by the Necromancers and Lichs. Their mighty cold blast can freeze any foe that dares to cross their path."
+msgid ""
+"Sorcerers are Wizards that have gone deeper into the studying of the arcane "
+"arts. Their research consumes them in a quest for more power, leading them "
+"down a path toward the dark arts practiced by the Necromancers and Lichs. "
+"Their mighty cold blast can freeze any foe that dares to cross their path."
 msgstr ""
 
 #: Dark_Elves/units/Dark_Elf_Wizard.cfg:21
@@ -797,7 +944,12 @@ msgid "female^Dark Elf Sorceress"
 msgstr ""
 
 #: Dark_Elves/units/Dark_Elf_Sorceress.cfg:20
-msgid "The women of the Dark Elves often join the Order of the Clerics at a very young age. These have gained the rank of Sorceress, and have nearly mastered the art of healing, torturing, and healing their captives again and again. Very soon, they will become Clerics, the terribly seductive sadistic torturers."
+msgid ""
+"The women of the Dark Elves often join the Order of the Clerics at a very "
+"young age. These have gained the rank of Sorceress, and have nearly mastered "
+"the art of healing, torturing, and healing their captives again and again. "
+"Very soon, they will become Clerics, the terribly seductive sadistic "
+"torturers."
 msgstr ""
 
 #: Dark_Elves/units/Dark_Elf_Stalker.cfg:4
@@ -805,7 +957,10 @@ msgid "Dark Elf Stalker"
 msgstr ""
 
 #: Dark_Elves/units/Dark_Elf_Stalker.cfg:20
-msgid "Cunning, agile warriors, the Stalkers are powerful in both the use of their daggers and crossbows. They are completely hidden in the caves, only the thud of a dead body tells you they are near."
+msgid ""
+"Cunning, agile warriors, the Stalkers are powerful in both the use of their "
+"daggers and crossbows. They are completely hidden in the caves, only the "
+"thud of a dead body tells you they are near."
 msgstr ""
 
 #: Dark_Elves/units/Dark_Elf_Warlock.cfg:4
@@ -813,7 +968,11 @@ msgid "Dark Elf Warlock"
 msgstr ""
 
 #: Dark_Elves/units/Dark_Elf_Warlock.cfg:17
-msgid "The best of their kind, these Warlocks have immense power, rivaling even that of the Arch Mage. They have discovered the secrets of the dark arts, and have the power to drain life from their opponents with a single touch, and add it to their own."
+msgid ""
+"The best of their kind, these Warlocks have immense power, rivaling even "
+"that of the Arch Mage. They have discovered the secrets of the dark arts, "
+"and have the power to drain life from their opponents with a single touch, "
+"and add it to their own."
 msgstr ""
 
 #: Dark_Elves/units/Dark_Elf_Warlock.cfg:20
@@ -821,7 +980,10 @@ msgid "touch"
 msgstr "dotek"
 
 #: Dark_Elves/units/Dark_Elf_Warrior.cfg:16
-msgid "These Warriors have devoted themselves totally to mastering the use of dual weapons. With their balanced blades, they can shave a Dwarf. Only few become Corsairs."
+msgid ""
+"These Warriors have devoted themselves totally to mastering the use of dual "
+"weapons. With their balanced blades, they can shave a Dwarf. Only few become "
+"Corsairs."
 msgstr ""
 
 #: Dark_Elves/units/Dark_Elf_Wizard.cfg:4
@@ -829,7 +991,9 @@ msgid "Dark Elf Wizard"
 msgstr ""
 
 #: Dark_Elves/units/Dark_Elf_Wizard.cfg:17
-msgid "Some Dark Elves prefer studying the arcane arts over close-combat. Usually they are left to the lesser duties of the House, such as upkeep, watching the slaves, and other such things. However, in time of conflict, they can do great damage, even though they lack any training in close-combat."
+msgid ""
+"Some Dark Elves prefer studying the arcane arts over close-combat. Usually "
+"they are left to the lesser duties of the House, such as upkeep, watching "
+"the slaves, and other such things. However, in time of conflict, they can do "
+"great damage, even though they lack any training in close-combat."
 msgstr ""
-
-
