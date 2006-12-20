@@ -1,15 +1,18 @@
+# translation of DarkElves-cs.po.bz2_[IbC2gb].po to Czech
+# Oto 'tapik' Buchta <tapik@buchtovi.cz>, 2006.
 msgid ""
 msgstr ""
-"Project-Id-Version: wescamp-i 18n\n"
+"Project-Id-Version: Battle of Wesnoth\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2006-06-23 17:49+0200\n"
-"PO-Revision-Date: 2006-10-21 10:22+0100\n"
-"Last-Translator: Vladimír Slávik <slavik.vladimir@seznam.cz>\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2006-12-19 09:13+0100\n"
+"Last-Translator: Oto 'tapik' Buchta <tapik@buchtovi.cz>\n"
+"Language-Team: Czech <wesnoth-cs-l@nospam.buchtovi.cz>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: KBabel 1.11.2\n"
 
 #: Dark_Elves.cfg:9
 msgid "A New Threat"
@@ -96,7 +99,7 @@ msgstr ""
 #: Dark_Elves/scenarios/Beginning.cfg:46 Dark_Elves/scenarios/Time.cfg:20
 #: Dark_Elves/scenarios/Danger.cfg:23 Dark_Elves/scenarios/Relentless.cfg:24
 msgid "Varish'na"
-msgstr "Varish'na"
+msgstr "Varišna"
 
 #: Dark_Elves/scenarios/Beginning.cfg:61
 msgid "Trith"
@@ -110,7 +113,7 @@ msgstr "Pobij trpaslíky"
 #: Dark_Elves/scenarios/Beginning.cfg:78 Dark_Elves/scenarios/Time.cfg:42
 #: Dark_Elves/scenarios/Danger.cfg:56 Dark_Elves/scenarios/Relentless.cfg:74
 msgid "Death of Varish'na"
-msgstr "Varish'na zemře"
+msgstr "Varišna zemře"
 
 #: Dark_Elves/scenarios/Hunt.cfg:73 Dark_Elves/scenarios/Path.cfg:75
 #: Dark_Elves/scenarios/Beginning.cfg:82 Dark_Elves/scenarios/Time.cfg:54
@@ -303,11 +306,14 @@ msgid "Hold there Dhaerow! What is your business here?"
 msgstr ""
 
 #: Dark_Elves/scenarios/Hunt.cfg:95
+#, fuzzy
 msgid ""
 "Thank the Mother, we knew reinforcements would arrive. The Dwarves are "
 "numerous in the caverns to the north. They are ransacking and burning our "
 "homes. You must render us aid!"
 msgstr ""
+"Díky Matce, věděli jsme že posily nakonec dorazí. Nejvíc je trpaslíků v "
+"dutinách na severu. Plení a pálí naše domovy. Musíte nám pomoci!"
 
 #: Dark_Elves/scenarios/Hunt.cfg:99
 #, fuzzy
@@ -345,8 +351,9 @@ msgid "Yes, little bearded one, oh yes."
 msgstr "Ano, ty fousatý mrňousku, ach ano."
 
 #: Dark_Elves/scenarios/Hunt.cfg:132
+#, fuzzy
 msgid "Still your tongue fool lest you be struck down."
-msgstr ""
+msgstr "Zastrč svůj jazyk, hlupáku, nebo tě na místě zabiji."
 
 #: Dark_Elves/scenarios/Hunt.cfg:148
 msgid "At last our homes are saved for these stunted fools! "
@@ -394,10 +401,10 @@ msgid "Come, onward!"
 msgstr "Kupředu!"
 
 #: Dark_Elves/scenarios/Path.cfg:6
+#, fuzzy
 msgid "Chosen Path"
-msgstr ""
+msgstr "Zvolená stezka"
 
-# HA! ROFL!
 #: Dark_Elves/scenarios/Path.cfg:40
 msgid "Rofel"
 msgstr "Rofel"
@@ -415,25 +422,33 @@ msgid "Okay Vondel, which way?"
 msgstr "Dobře, Vondele, teď kudy?"
 
 #: Dark_Elves/scenarios/Path.cfg:302
+#, fuzzy
 msgid ""
 "It depends on where you want to go. Do you even know where the Dwarvish army "
 "is?"
-msgstr ""
+msgstr "To záleží na tom, kam chcete jít. Víte aspoň kde je trpasličí armáda?"
 
 #: Dark_Elves/scenarios/Path.cfg:306
+#, fuzzy
 msgid ""
 "No, actually not. My men won't take anyone alive, and we have no Clerics. I "
 "sent for reinforcements, but they won't arrive till later."
 msgstr ""
+"Ne, vlastně ne. Mí muži nenechají nikoho naživu a nemáme s sebou žádné "
+"kleriky. Poslal jsem pro posily, ale dorazí až později."
 
 #: Dark_Elves/scenarios/Path.cfg:310
+#, fuzzy
 msgid "That's okay. I know a safe spot where we can hide and wait."
-msgstr ""
+msgstr "To je v pořádku. Znám bezpečné místo, kde se můžeme schovat a počkat."
 
 #: Dark_Elves/scenarios/Path.cfg:314
+#, fuzzy
 msgid ""
 "WHAT!?! Dhaeraow hide? We are soldiers of the Tenth House, we, NEVER, hide!"
 msgstr ""
+"COŽE!?! Dhaerow a schovávat se? Jsme vojáci Desátého domu, my se NIKDY "
+"neschováváme!"
 
 #: Dark_Elves/scenarios/Path.cfg:318
 msgid ""
@@ -462,15 +477,17 @@ msgstr ""
 
 #: Dark_Elves/scenarios/Path.cfg:429
 msgid "Varish'na, where are you?"
-msgstr "Varish'no, kde jsi?"
+msgstr "Varišno, kde jsi?"
 
 #: Dark_Elves/scenarios/Path.cfg:433
 msgid "Traya? What are you doing here?"
 msgstr "Trayo? Co ty tady děláš?"
 
 #: Dark_Elves/scenarios/Path.cfg:437
+#, fuzzy
 msgid "Later, we have some Dwarves to kill. Just let me remove this wall..."
 msgstr ""
+"Později, máme tu stále nějaké trpaslíky k pobití. Teď odstraním tuto zeď..."
 
 #: Dark_Elves/scenarios/Path.cfg:441
 msgid "*ZAP*"
@@ -478,11 +495,11 @@ msgstr ""
 
 #: Dark_Elves/scenarios/Path.cfg:460
 msgid "She is soo hot..."
-msgstr ""
+msgstr "To je teda kus..."
 
 #: Dark_Elves/scenarios/Path.cfg:464
 msgid "She is also my sister."
-msgstr ""
+msgstr "Taky je to moje sestra."
 
 #: Dark_Elves/scenarios/Path.cfg:468
 msgid "...uhhh..."
@@ -507,10 +524,12 @@ msgid "It was father's doing. He thought you could use some company."
 msgstr ""
 
 #: Dark_Elves/scenarios/Path.cfg:529 Dark_Elves/scenarios/Path.cfg:639
+#, fuzzy
 msgid ""
 "But what of the Clerics? I thought you couldn't get away for another four "
 "years!"
 msgstr ""
+"Ale co Klerici? Myslel jsem, že se nedostaneš ven ještě po další čtyři roky!"
 
 #: Dark_Elves/scenarios/Path.cfg:533 Dark_Elves/scenarios/Path.cfg:643
 #, fuzzy
@@ -555,7 +574,7 @@ msgstr ""
 
 #: Dark_Elves/scenarios/Path.cfg:627
 msgid "Varish'na! Are you all right?"
-msgstr "Varish'no! Jsi v pořádku?"
+msgstr "Varišno! Jsi v pořádku?"
 
 #: Dark_Elves/scenarios/Path.cfg:631
 msgid "Trya?! What are you doing here?"
@@ -622,6 +641,8 @@ msgid ""
 "We must proceed carefully. The fugitives will have spread word of our "
 "coming, and we may be ambushed."
 msgstr ""
+"Musíme postupovat opatrně. Uprchlíci už jistě roznesli zprávu o našem "
+"příchodu a mohli bychom padnout do léčky."
 
 #: Dark_Elves/scenarios/Relentless.cfg:132
 msgid ""
@@ -653,7 +674,7 @@ msgstr "Poraž nepřátelské vůdce"
 
 #: Dark_Elves/scenarios/Time.cfg:69
 msgid "And here are the dwarves, Lord Varish'na."
-msgstr ""
+msgstr "A zde jsou trpaslíci, lorde Varišno."
 
 #: Dark_Elves/scenarios/Time.cfg:73
 msgid "There are a great many of them, are you certain this is a good idea?"
@@ -675,21 +696,26 @@ msgstr ""
 
 #: Dark_Elves/scenarios/Time.cfg:89
 msgid "Taste my steel and die, dark one!"
-msgstr ""
+msgstr "Okus mou ocel a zdechni, temný tvore!"
 
 #: Dark_Elves/scenarios/Time.cfg:98
+#, fuzzy
 msgid "What? Why am I still alive?"
-msgstr ""
+msgstr "Co? Jakto že jsem ještě naživu?"
 
 #: Dark_Elves/scenarios/Time.cfg:102
+#, fuzzy
 msgid ""
 "Because I preserved your life. You're too wonderful a Dwarf to let die. Such "
 "big muscles, such big..."
 msgstr ""
+"Protože jsem ti zachránila život. Jsi příliš krásný trpaslík, než abych tě "
+"nechala zemřít. Tak velké svaly, tak velk..."
 
 #: Dark_Elves/scenarios/Time.cfg:106
+#, fuzzy
 msgid "Forget it. I know what you want! I'll kill myself first!"
-msgstr ""
+msgstr "Na to zapomeň. Vím, co chceš! Raději se dřív zabiju sám!"
 
 #: Dark_Elves/scenarios/Time.cfg:110
 msgid "If you tell me your secrets I'll tell you mine."
@@ -707,8 +733,10 @@ msgid "Oh well, guess I'll have to do this the hard way."
 msgstr "No nic, vypadá to, že to bude muset jít tvrději."
 
 #: Dark_Elves/scenarios/Time.cfg:122
+#, fuzzy
 msgid "Do you ever wish she wasn't your sister so you could, you know..."
 msgstr ""
+"Přál sis někdy, aby nebyla tvou ststrou, takže bys mohl, no, však víš..."
 
 #: Dark_Elves/scenarios/Time.cfg:126
 msgid "You are disgusting Vondel."
