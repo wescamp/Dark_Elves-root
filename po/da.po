@@ -1,11 +1,16 @@
+# #-#-#-#-#  wesnoth-Dark-Elves (Battle for Wesnoth VERSION)  #-#-#-#-#
+# Danish translations for Campaign Dark-Elves.
+# This file is distributed under the same license as the Battle for Wesnoth package.
+# Joe Hansen <joedalton2@yahoo.dk>, 2007.
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2006-06-23 17:49+0200\n"
-"PO-Revision-Date: 2005-09-29 22:08+0200\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2007-02-09 13:27+0200\n"
+"Last-Translator: Joe Hansen\n"
+"Language-Team: Danish <dansk@dansk-gruppen.dk>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -13,11 +18,11 @@ msgstr ""
 
 #: Dark_Elves.cfg:9
 msgid "A New Threat"
-msgstr ""
+msgstr "En ny trussel"
 
 #: Dark_Elves/units/Dark_Elf_Fighter.cfg:4 Dark_Elves.cfg:17
 msgid "Dark Elf Fighter"
-msgstr ""
+msgstr "Mørkeelver kæmper"
 
 #: Dark_Elves.cfg:17
 msgid "(easiest)"
@@ -25,23 +30,24 @@ msgstr "(nemmest)"
 
 #: Dark_Elves/units/Dark_Elf_Warrior.cfg:4 Dark_Elves.cfg:18
 msgid "Dark Elf Warrior"
-msgstr ""
+msgstr "Mørkeelver kriger"
 
 #: Dark_Elves.cfg:19
 msgid "(hardest)"
 msgstr "(sværest)"
 
+# Corsair er et hurtigt piratskib eller en pirat specielt ved Barbary Coast.
 #: Dark_Elves/units/Dark_Elf_Corsair.cfg:4 Dark_Elves.cfg:19
 msgid "Dark Elf Corsair"
-msgstr ""
+msgstr "Mørkeelver pirat"
 
 #: Dark_Elves.cfg:21
 msgid "Defend the Caves against the Dwarvish Invasion."
-msgstr ""
+msgstr "Forsvar hulerne imod dværgenes invasion."
 
 #: Dark_Elves/scenarios/Beginning.cfg:5
 msgid "It's only the Beginning"
-msgstr ""
+msgstr "Det er kun begyndelsen"
 
 #: Dark_Elves/scenarios/Beginning.cfg:10
 msgid ""
@@ -50,6 +56,11 @@ msgid ""
 "old wives tales send Dwarves scurrying from their homes. And to every legend "
 "a grain of truth can be found."
 msgstr ""
+"Dybt under jorden spreder ondskaben sig. I form af elverne, og dog ikke. En "
+"race som af mange kaldes de sorte eller mørke elver. De fleste henfører dem "
+"til sagn fortalt af gamle koner. Men hvordan kan gamle sagn få dværge til at "
+"flygte i al hast fra deres hjem; og til ethvert sagn kan der findes et "
+"strejf af sandhed."
 
 #: Dark_Elves/scenarios/Beginning.cfg:14
 msgid ""
@@ -59,6 +70,11 @@ msgid ""
 "underground society. They had armies, cities, and a ruling queen. They "
 "divided into seperate houses, and thus were their lords chosen."
 msgstr ""
+"De mørke elver har levet i årtier i deres stille mørke, tilpasset en verden "
+"hvor de blev født. De udvidede deres viden om mørk magi, og igennem denne "
+"magi har de skabt et levende underjordisk samfund. De har hære, byer og en "
+"regerende dronning. De er opdelt i forskellige huse, og igennem disse huse "
+"bliver deres ledere valgt."
 
 #: Dark_Elves/scenarios/Beginning.cfg:18
 msgid ""
@@ -70,6 +86,13 @@ msgid ""
 "Clerics of the Night, torturing their chosen victims to death, only to "
 "restore them back to life."
 msgstr ""
+"I årevis har de levet i stilhed, tilfreds med at blive ignoreret af verdens "
+"lys over dem, lige indtil dværgenes grådighed fik dværgene til at sende "
+"spejdere dybt ind i hulerne. På jagt efter guld. Grådighed drev dem frem, "
+"men kun få returnerede til dværgenes store haller. De som returnerede "
+"fortalte vanvittige historier og blandt deres historier indgik der altid en "
+"om, at nattens troldmænd torturede deres ofre til døde for kun at genoplive "
+"staklingene igen."
 
 #: Dark_Elves/scenarios/Beginning.cfg:22
 msgid ""
@@ -79,6 +102,11 @@ msgid ""
 "Dwarf Lord's anger was aroused, he amassed his house to strike down his "
 "enemies once and for all. "
 msgstr ""
+"Dværgene affandt sig med dette for en tid, indtil dværgelensherren sendte "
+"sinunge fætter afsted med et lille selskab. Han kom tilbage, dage senere, "
+"alene. Han var arret over hele kroppen og bablede løs om den fortryllende "
+"troldkvinde. Dværgelensherren blev rasende og satte sit hus ind på at få "
+"bugt med denne fjende en gang for alle."
 
 #: Dark_Elves/scenarios/Beginning.cfg:26
 msgid ""
@@ -90,133 +118,155 @@ msgid ""
 "little fortress far away from civilization, where he will at least have a "
 "slime chance of requiting himself..."
 msgstr ""
+"Varish'na, en adelig fra Tenth-huset, er blevet dømt for en forbrydelse mod "
+"mor Matron, og har fået 11 år til igen at få sin ære tilbage. Hvis ikke vil "
+"han blive tortureret til døde; efter at troldmændene er blevet træt af deres "
+"torturteknikker. Som en del af hans tabte ære og med indflydelse fra hans "
+"far, er Varish'na blevet sendt væk for at bevogte en lille borg langt væk "
+"fra civilisationen, hvor han i det mindste vil have en minimal chance for at "
+"genvinde sin ære..."
 
 #: Dark_Elves/scenarios/Hunt.cfg:34 Dark_Elves/scenarios/Path.cfg:26
 #: Dark_Elves/scenarios/Beginning.cfg:46 Dark_Elves/scenarios/Time.cfg:20
 #: Dark_Elves/scenarios/Danger.cfg:23 Dark_Elves/scenarios/Relentless.cfg:24
 msgid "Varish'na"
-msgstr ""
+msgstr "Varish'na"
 
 #: Dark_Elves/scenarios/Beginning.cfg:61
 msgid "Trith"
-msgstr ""
+msgstr "Trith"
 
 #: Dark_Elves/scenarios/Path.cfg:55 Dark_Elves/scenarios/Beginning.cfg:74
 msgid "Kill the Dwarves"
-msgstr ""
+msgstr "Dræb dværgene"
 
 #: Dark_Elves/scenarios/Hunt.cfg:65 Dark_Elves/scenarios/Path.cfg:63
 #: Dark_Elves/scenarios/Beginning.cfg:78 Dark_Elves/scenarios/Time.cfg:42
 #: Dark_Elves/scenarios/Danger.cfg:56 Dark_Elves/scenarios/Relentless.cfg:74
 msgid "Death of Varish'na"
-msgstr ""
+msgstr "Varish'nas død"
 
 #: Dark_Elves/scenarios/Hunt.cfg:73 Dark_Elves/scenarios/Path.cfg:75
 #: Dark_Elves/scenarios/Beginning.cfg:82 Dark_Elves/scenarios/Time.cfg:54
 #: Dark_Elves/scenarios/Danger.cfg:68 Dark_Elves/scenarios/Relentless.cfg:82
 msgid "Turns run out"
-msgstr "Ture løber ud"
+msgstr "Runder løber ud"
 
 #: Dark_Elves/scenarios/Beginning.cfg:96
 msgid ""
 "What? These must be the forces who took poor Vladdy, no pointy ear is takin' "
 "Clan Stormhammer without a fight!"
 msgstr ""
+"Hvad? Dette må være styrkerne som myrdede stakkels Vladdy, ingen spidsøre "
+"overmander Clan Stormhammer uden kamp!"
 
 #: Dark_Elves/scenarios/Beginning.cfg:106
 msgid ""
 "Accursed Elf dogs, ye shall perish before this month is up. My brothers "
 "shall crush ye like an eggshell. And Dark Elf blood shall flow like water."
 msgstr ""
+"Forbandede elverhund, du skal dø før denne måned slutter. Min brødre knuser "
+"dig som en æggeskal. Og jeres blod skal flyde som en flod."
 
+# med vilje at lensherre ikke er brugt her for lord
 #: Dark_Elves/scenarios/Beginning.cfg:123
 msgid ""
 "My lord, we have found a Dwarf, and the Clerics have resurrected him. From "
 "him we have learned a terrible truth."
 msgstr ""
+"Min herre, vi har fundet en dværg, og troldmændene har fået ham tilbage til "
+"livet. Fra ham har vi lært en frygtelig sandhed."
 
 #: Dark_Elves/scenarios/Beginning.cfg:127
 msgid "What is it?"
-msgstr ""
+msgstr "Hvad er det?"
 
 #: Dark_Elves/scenarios/Beginning.cfg:132
 msgid ""
 "The Dwarvish clans of Stormhammer, Stoutblade, the Cleavers, and the "
 "'fabled' Red Mountain clan have all mobilized against us."
 msgstr ""
+"Dværgeklanerne Stormhammer, Stoutblade, Cleaverne, og den 'sagnomspundne' "
+"Red Mountain clan har alle mobiliserede imod os."
 
 #: Dark_Elves/scenarios/Beginning.cfg:136
 msgid "Are they sure of this?"
-msgstr ""
+msgstr "Er de sikre på dette?"
 
 #: Dark_Elves/scenarios/Beginning.cfg:141
 msgid "Have they ever been wrong before sir?"
-msgstr ""
+msgstr "Har de nogensinde tidligere taget fejl herre?"
 
 #: Dark_Elves/scenarios/Beginning.cfg:145
 msgid ""
 "Hmm...Good point. Send our fastest soldier to alert the Matron Mother. We "
 "must attempt to arrest their advancement. Make ready to leave the keep."
 msgstr ""
+"Hmm...God pointe. Send vores hurtigste soldat til mor Matron. Vi må forsøge "
+"at afbryde deres angreb. Gør klar til at forlade borgen."
 
 #: Dark_Elves/scenarios/Beginning.cfg:150
 msgid "But my lord... They far outnumber us to charge would be suicide... "
 msgstr ""
+"Men min herre... De er langt flere end os, at angribe vil være selvmord... "
 
 #: Dark_Elves/scenarios/Beginning.cfg:154
 msgid "That's the idea."
-msgstr ""
+msgstr "Det er ideen."
 
 #: Dark_Elves/scenarios/Hunt.cfg:208 Dark_Elves/scenarios/Path.cfg:695
 #: Dark_Elves/scenarios/Beginning.cfg:170 Dark_Elves/scenarios/Time.cfg:144
 #: Dark_Elves/scenarios/Danger.cfg:167 Dark_Elves/scenarios/Relentless.cfg:148
 msgid "No! I have failed!"
-msgstr ""
+msgstr "Nej! Jeg har fejlet!"
 
 #: Dark_Elves/scenarios/Danger.cfg:5
 msgid "Danger Lurks"
-msgstr ""
+msgstr "Fare lurer"
 
 #: Dark_Elves/scenarios/Danger.cfg:33
 msgid "Dwarf"
-msgstr ""
+msgstr "Dværg"
 
 #: Dark_Elves/scenarios/Danger.cfg:38
 msgid "Moral"
-msgstr ""
+msgstr "Moral"
 
 #: Dark_Elves/scenarios/Danger.cfg:52
 msgid "Kill the Dwarf Leader"
-msgstr ""
+msgstr "Dræb dværgenes leder"
 
 #: Dark_Elves/scenarios/Hunt.cfg:69 Dark_Elves/scenarios/Path.cfg:67
 #: Dark_Elves/scenarios/Time.cfg:46 Dark_Elves/scenarios/Danger.cfg:60
 #: Dark_Elves/scenarios/Relentless.cfg:78
 msgid "Death of Voldel"
-msgstr ""
+msgstr "Voldels død"
 
 #: Dark_Elves/scenarios/Path.cfg:71 Dark_Elves/scenarios/Time.cfg:50
 #: Dark_Elves/scenarios/Danger.cfg:64
 msgid "Death of Traya"
-msgstr ""
+msgstr "Trayas død"
 
 #: Dark_Elves/scenarios/Danger.cfg:83
 msgid ""
 "The Dwarf very obstinate, but I have what we need. The advance guard is just "
 "beyond the Great Rift."
 msgstr ""
+"Dværg meget stædig, men jeg har hvad vi skal bruge. Fortroppen er lige bag "
+"Den Store Bakke."
 
 #: Dark_Elves/scenarios/Danger.cfg:87
 msgid "The bridge is just ahead, and it looks like they have them guarded"
-msgstr ""
+msgstr "Broen er lige fremme, og det ser ud til, at den er beskyttet"
 
 #: Dark_Elves/scenarios/Danger.cfg:91
 msgid "Well then, what are we waiting for? Let's go get'em!"
-msgstr ""
+msgstr "Jamen, hvad venter vi på? På dem!"
 
 #: Dark_Elves/scenarios/Danger.cfg:100
 msgid "That was easy. I think they didn't expect us to survive their trap."
 msgstr ""
+"Det var nemt. Jeg tror ikke de forventede, at vi ville overleve deres fælde."
 
 #: Dark_Elves/scenarios/Danger.cfg:104
 msgid ""
@@ -224,62 +274,69 @@ msgid ""
 "is a new tunnel, and the one the Dwarves most likely came down. If I were "
 "you, I'd choose that one."
 msgstr ""
+"Nu må vi vælge hvilken vej vi skal gå. Hulen foran deler sig op. Til højre "
+"er en ny tunnel, og den dværgene højst sandsynlig kom ned ad. Hvis jeg var "
+"dig ville jeg vælge den."
 
 #: Dark_Elves/scenarios/Danger.cfg:108
 msgid "Why?"
-msgstr ""
+msgstr "Hvorfor?"
 
 #: Dark_Elves/scenarios/Danger.cfg:112
 msgid ""
 "No one has gone down the other one for a long time. It is said that a Dragon "
 "lives down there."
 msgstr ""
+"Ingen er gået ned i den anden i meget lang tid. Det siges at en drage lever "
+"dernede."
 
 #: Dark_Elves/scenarios/Danger.cfg:116
 msgid "A Dragon? Do you know for sure?"
-msgstr ""
+msgstr "En drage? Er du sikker?"
 
 #: Dark_Elves/scenarios/Danger.cfg:120
 msgid "It is only a legend, but..."
-msgstr ""
+msgstr "Det er kun et sagn, men..."
 
 #: Dark_Elves/scenarios/Danger.cfg:124
 msgid "You're in command Varish'na. The path you choose is the own we follow."
-msgstr ""
+msgstr "Du har kommandoen Varish'na. Vejen du lægger for os, er den vi følger."
 
 #: Dark_Elves/scenarios/Danger.cfg:126
 msgid "If the Dwarves are to the left, then lets go kill some Dwarves!"
-msgstr ""
+msgstr "Hvis dværgene er til venste, så lad os dræbe nogle dværge!"
 
 #: Dark_Elves/scenarios/Danger.cfg:130 Dark_Elves/scenarios/Danger.cfg:145
 msgid "It's your chosen path. Come, let us continue"
-msgstr ""
+msgstr "Det er dit valg. Kom, lad os fortsætte"
 
 #: Dark_Elves/scenarios/Danger.cfg:141
 msgid ""
 "We need to get to the Dwarves as quickly as possible. Dragon or no Dragon, "
 "we shall go right."
 msgstr ""
+"Vi skal nå frem til dværgene så hurtigt som muligt. Drage eller ikke drage, "
+"vi går til højre."
 
 #: Dark_Elves/scenarios/Hunt.cfg:5
 msgid "Hunting the Enemy"
-msgstr ""
+msgstr "Jagt på fjenden"
 
 #: Dark_Elves/scenarios/Hunt.cfg:12
 msgid "The Dark Elves Advanced..."
-msgstr ""
+msgstr "Mørkeelverne gik frem..."
 
 #: Dark_Elves/scenarios/Hunt.cfg:48
 msgid "Gimmy"
-msgstr ""
+msgstr "Gimmy"
 
 #: Dark_Elves/scenarios/Hunt.cfg:61
 msgid "Kill all the Dwarves"
-msgstr ""
+msgstr "Dræb alle dværgene"
 
 #: Dark_Elves/scenarios/Hunt.cfg:91
 msgid "Hold there Dhaerow! What is your business here?"
-msgstr ""
+msgstr "Stop der Dhaerow! Hvad er dit ærinde her?"
 
 #: Dark_Elves/scenarios/Hunt.cfg:95
 msgid ""
@@ -287,58 +344,67 @@ msgid ""
 "numerous in the caverns to the north. They are ransacking and burning our "
 "homes. You must render us aid!"
 msgstr ""
+"Tak Mor, vi vidste forstærkninger ville ankomme. Dværgene er talrige i "
+"hulerne mod nord. De raserer og brænder vores hjem. Du må hjælpe os."
 
 #: Dark_Elves/scenarios/Hunt.cfg:99
 msgid ""
 "Our objective lies to the north as well, very well. Rally any Dhaerow "
 "capable of carrying weapons"
-msgstr ""
+msgstr "Vores mål ligger også i nord - så - saml alle som kan bære et våben."
 
 #: Dark_Elves/scenarios/Hunt.cfg:103
 msgid "Of course my lord. Others will help you, just visit the villages."
 msgstr ""
+"Selvfølgelig min lensherre. Andre vil hjælpe dig, du behøver bare at besøge "
+"landsbyerne."
 
 #: Dark_Elves/scenarios/Hunt.cfg:110
 msgid ""
 "More of these darned cave Elves. Now assault in the name of Vladdy, and Clan "
 "Stormhammer!"
 msgstr ""
+"Flere af de forbandede huleelver. Angrib i Vladdy og Clan Stormhammers navne!"
 
 #: Dark_Elves/scenarios/Hunt.cfg:120
 msgid ""
 "Good... We have the dog ready for the Clerics. They shall have more sport "
 "with him then they did with Vladdy."
 msgstr ""
+"Alletiders... vi har hunden klar hos troldmændende. De vil få mere sjov med "
+"ham end de havde med Vladdy."
 
 #: Dark_Elves/scenarios/Hunt.cfg:124
 msgid "*gasp* Nooooooooo!"
-msgstr ""
+msgstr "*aaarh* Neeeeej!"
 
 #: Dark_Elves/scenarios/Hunt.cfg:128
 msgid "Yes, little bearded one, oh yes."
-msgstr ""
+msgstr "Jo, lille behårede, oh jo."
 
 #: Dark_Elves/scenarios/Hunt.cfg:132
 msgid "Still your tongue fool lest you be struck down."
-msgstr ""
+msgstr "Hold bøtte tåbe eller du bliver slået ned."
 
 #: Dark_Elves/scenarios/Hunt.cfg:148
 msgid "At last our homes are saved for these stunted fools! "
-msgstr ""
+msgstr "I det mindste er vores hjem nu sikret imod disse lave fjolser!"
 
 #: Dark_Elves/scenarios/Hunt.cfg:152
 msgid "The peace is an illusion, there are more, far more coming."
-msgstr ""
+msgstr "Freden er en illusion, der er mere - meget mere - på vej."
 
 #: Dark_Elves/scenarios/Hunt.cfg:156
 msgid ""
 "I have nothing left, my family was slain by the Dwarves, and vengeance "
 "sounds good to me. I shall join you on your quest."
 msgstr ""
+"Jeg har intet tilbage, min familie blev dræbt af dværge og hævn lyder som en "
+"god ide for me. Jeg tilslutter mig din mission."
 
 #: Dark_Elves/scenarios/Hunt.cfg:160
 msgid "Come if you will, but don't waste any more of my time."
-msgstr ""
+msgstr "Kom hvis du vil, men spild ikke mere af min tid."
 
 #: Dark_Elves/scenarios/Hunt.cfg:164
 msgid ""
@@ -346,59 +412,67 @@ msgid ""
 "dagger, I shall be a terror to them. Despite their staunch and stature, I "
 "shall kill the little hairy monsters without-"
 msgstr ""
+"Dværgene skal føle min hævntørst! Med mine kraftige pile og stærke dolk skal "
+"jeg sprede terror blandt dem. På trods af deres styrke og stædighed vil jeg "
+"dræbe disse behårrede monstre uden-"
 
 #: Dark_Elves/scenarios/Hunt.cfg:168
 msgid "Silence, lest I have your tongue tore from your mouth!"
-msgstr ""
+msgstr "Stilhed, eller jeg flår din tunge ud!"
 
 #: Dark_Elves/scenarios/Hunt.cfg:173
 msgid "...sorry, my lord. \n"
-msgstr ""
+msgstr "...beklager, lensherre. \n"
 
 #: Dark_Elves/scenarios/Hunt.cfg:177
 msgid "Come, onward!"
-msgstr ""
+msgstr "Kom så, fremad!"
 
 #: Dark_Elves/scenarios/Path.cfg:6
 msgid "Chosen Path"
-msgstr ""
+msgstr "Den valgte vej"
 
 #: Dark_Elves/scenarios/Path.cfg:40
 msgid "Rofel"
-msgstr ""
+msgstr "Rofel"
 
 #: Dark_Elves/scenarios/Path.cfg:51
 msgid "Hold out until help arrives(turn 20)"
-msgstr ""
+msgstr "Hold ud indtil hjælp ankommer (runde 20)"
 
 #: Dark_Elves/scenarios/Path.cfg:59
 msgid "BONUS:Kill the dwarves before turn 20"
-msgstr ""
+msgstr "Bonus: Dræb dværgene før runde 20"
 
 #: Dark_Elves/scenarios/Path.cfg:298
 msgid "Okay Vondel, which way?"
-msgstr ""
+msgstr "Ok Vondel, hvilken vej?"
 
 #: Dark_Elves/scenarios/Path.cfg:302
 msgid ""
 "It depends on where you want to go. Do you even know where the Dwarvish army "
 "is?"
 msgstr ""
+"Det afhænger af hvor du ønsker at gå. Kender du i det hele taget til hvor "
+"dværgehæren er?"
 
 #: Dark_Elves/scenarios/Path.cfg:306
 msgid ""
 "No, actually not. My men won't take anyone alive, and we have no Clerics. I "
 "sent for reinforcements, but they won't arrive till later."
 msgstr ""
+"Nej, egentlig ikke. Mine mænd tager ingen i live, og vi har ingen troldmænd. "
+"Jeg har sendt bud efter forstærkninger, men de kommer først senere."
 
 #: Dark_Elves/scenarios/Path.cfg:310
 msgid "That's okay. I know a safe spot where we can hide and wait."
-msgstr ""
+msgstr "Det er ok. Jeg kender et sikkert sted hvor vi kan skjule os og vente."
 
 #: Dark_Elves/scenarios/Path.cfg:314
 msgid ""
 "WHAT!?! Dhaeraow hide? We are soldiers of the Tenth House, we, NEVER, hide!"
 msgstr ""
+"HVAD!?! Dhaeraow i skjul? Vi er Tenth husets soldater, vi gemmer os ALDRIG!"
 
 #: Dark_Elves/scenarios/Path.cfg:318
 msgid ""
@@ -408,140 +482,161 @@ msgid ""
 "are driven mad with fear. And we have no idea where the Dwarves are. We must "
 "proceed carefully."
 msgstr ""
+"Du kender måske til krig, men jeg kan et par små trick når det kommer til "
+"jagt. Dværgene vil har skræmt dyrene frem foran dem mod os. Kan du ikke "
+"mærke det? Vi er omringet af dyr, selv de harmløse er fyldt af frygt. Og vi "
+"har ingen ide om hvor dværgene er. Vi må fortsætte fremover med stor "
+"forsigtighed."
 
 #: Dark_Elves/scenarios/Path.cfg:322
 msgid "Humph, very well. Your council is wise, lead us to this place."
-msgstr ""
+msgstr "Humph, ok. Dit råd er klogt, før os til dette sted."
 
 #: Dark_Elves/scenarios/Path.cfg:326
 msgid "It's north-east of here. Come on, this way"
-msgstr ""
+msgstr "Det er nordøst for dette punkt. Denne vej."
 
 #: Dark_Elves/scenarios/Path.cfg:379 Dark_Elves/scenarios/Path.cfg:575
 msgid "Traya"
-msgstr ""
+msgstr "Traya"
 
 #: Dark_Elves/scenarios/Path.cfg:425
 msgid "They are relentless! Help better come soon or we'll be overrun!"
 msgstr ""
+"De angriber uden ophold! Hjælp skal hurtigt frem ellers bliver vi overmandet!"
 
 #: Dark_Elves/scenarios/Path.cfg:429
 msgid "Varish'na, where are you?"
-msgstr ""
+msgstr "Varish'na, hvor er du?"
 
 #: Dark_Elves/scenarios/Path.cfg:433
 msgid "Traya? What are you doing here?"
-msgstr ""
+msgstr "Traya? Hvad gør du her?"
 
 #: Dark_Elves/scenarios/Path.cfg:437
 msgid "Later, we have some Dwarves to kill. Just let me remove this wall..."
 msgstr ""
+"Senere, vi har nogle dværge vi skal have ordnet. Lad mig lige fjerne den her "
+"væg..."
 
 #: Dark_Elves/scenarios/Path.cfg:441
 msgid "*ZAP*"
-msgstr ""
+msgstr "*ZAP*"
 
 #: Dark_Elves/scenarios/Path.cfg:460
 msgid "She is soo hot..."
-msgstr ""
+msgstr "Hun er så lækker..."
 
 #: Dark_Elves/scenarios/Path.cfg:464
 msgid "She is also my sister."
-msgstr ""
+msgstr "Hun er også min søster."
 
 #: Dark_Elves/scenarios/Path.cfg:468
 msgid "...uhhh..."
-msgstr ""
+msgstr "...ups..."
 
 #: Dark_Elves/scenarios/Path.cfg:480
 msgid ""
 "You have recieved 100 gold and can now recruit Lizard-Riders and "
 "Enchantresses. Now go kick some hairy butt!"
 msgstr ""
+"Du har modtaget 100 guldstykker og kan nu rekruttere Øgleridere og "
+"kvindelige troldmænd. Gå ud og spark røv!"
 
 #: Dark_Elves/scenarios/Path.cfg:517
 msgid "Thank goodness Varish'na you're all right!"
-msgstr ""
+msgstr "Tak skæbne Varish'na, du er ok!"
 
 #: Dark_Elves/scenarios/Path.cfg:521
 msgid "Now maybe you can answer my question, why are you here?"
-msgstr ""
+msgstr "Nu kan du måske svare på mit spørgsmål, hvorfor er du her?"
 
 #: Dark_Elves/scenarios/Path.cfg:525 Dark_Elves/scenarios/Path.cfg:635
 msgid "It was father's doing. He thought you could use some company."
-msgstr ""
+msgstr "Det var fars valg. Han mente at du kunne bruge noget selskab."
 
 #: Dark_Elves/scenarios/Path.cfg:529 Dark_Elves/scenarios/Path.cfg:639
 msgid ""
 "But what of the Clerics? I thought you couldn't get away for another four "
 "years!"
 msgstr ""
+"Men hvad med troldmændene? Jeg troede ikke, at du kunne komme væk før om 4 "
+"år!"
 
 #: Dark_Elves/scenarios/Path.cfg:533 Dark_Elves/scenarios/Path.cfg:643
 msgid ""
 "It seems we both have a knack for getting into trouble. Iselas and I got in "
 "a bit of trouble."
 msgstr ""
+"Det ser ud til at vi har en vane med at komme i problemer. Iselas og jeg "
+"rendte ind i en del problemer."
 
 #: Dark_Elves/scenarios/Path.cfg:537 Dark_Elves/scenarios/Path.cfg:647
 msgid "Iselas! What has he done now?"
-msgstr ""
+msgstr "Iselas! Hvad har han nu gjort?"
 
 #: Dark_Elves/scenarios/Path.cfg:541 Dark_Elves/scenarios/Path.cfg:651
 msgid "Hush! This is not for outsiders to hear."
-msgstr ""
+msgstr "Tys! Udenforstående må ikke høre dette."
 
 #: Dark_Elves/scenarios/Path.cfg:545 Dark_Elves/scenarios/Path.cfg:655
 msgid ""
 "Huh? Oh, don't mind me beautiful, I don't hear anything except the pounding "
 "of my heart."
 msgstr ""
+"Tag' dig ikke af mig smukke, jeg kan ikke høre andet end mit bankende hjerte."
 
 #: Dark_Elves/scenarios/Path.cfg:549 Dark_Elves/scenarios/Path.cfg:659
 msgid "Voldel..."
-msgstr ""
+msgstr "Voldel..."
 
 #: Dark_Elves/scenarios/Path.cfg:553 Dark_Elves/scenarios/Path.cfg:663
 msgid ""
 "Maybe we'll talk about this later Varish'na. We have more pressing matters "
 "to attend to. Come, let us continue."
 msgstr ""
+"Måske vi kunne tale om dette senere Varish'na. Vi har mere presserende ting "
+"at tage os af. Kom, lad os fortsætte."
 
 #: Dark_Elves/scenarios/Path.cfg:623
 msgid ""
 "Our troops have indeed proven themselves today. They took care of those foul "
 "creatures like old veterans."
 msgstr ""
+"Vores styrker har vist sig værdige i dag. De kæmpede mod disse modbydelige "
+"skabinger som gamle veteraner."
 
 #: Dark_Elves/scenarios/Path.cfg:627
 msgid "Varish'na! Are you all right?"
-msgstr ""
+msgstr "Varish'na! Er du ok?"
 
 #: Dark_Elves/scenarios/Path.cfg:631
 msgid "Trya?! What are you doing here?"
-msgstr ""
+msgstr "Trya?! Hvad gør du her?"
 
 #: Dark_Elves/scenarios/Relentless.cfg:5
 msgid "Relentless"
-msgstr ""
+msgstr "Kvindelig troldmand"
 
 #: Dark_Elves/scenarios/Relentless.cfg:38
 msgid "Gomatas"
-msgstr ""
+msgstr "Gomatas"
 
 #: Dark_Elves/scenarios/Relentless.cfg:51
 msgid "Antha"
-msgstr ""
+msgstr "Antha"
 
 #: Dark_Elves/scenarios/Relentless.cfg:70
 msgid "Kill all Dwarvish Leaders"
-msgstr ""
+msgstr "Dræb alle dværgenes ledere"
 
 #: Dark_Elves/scenarios/Relentless.cfg:94
 msgid ""
 "This is worse then I thought. We are only a weeks journey from home, and "
 "look at all these Dwarves!"
 msgstr ""
+"Dette er være end jeg troede. Vi er kun en uges rejse hjemmefra, og se alle "
+"disse dværge!"
 
 #: Dark_Elves/scenarios/Relentless.cfg:98
 msgid ""
@@ -549,131 +644,151 @@ msgid ""
 "area. Just north of here is a small stream. A castle was built there during "
 "the First Years. It is old, but it still serves its purpose."
 msgstr ""
+"Jeg er enig, der er mange af dem. Heldigvis for dig kender jeg hver en plet "
+"i dette område. Lige nord for her er der en lille å. En borg blev bygget der "
+"i de første år. Borgen er gammel, men den er stadig brugbar."
 
 #: Dark_Elves/scenarios/Relentless.cfg:102
 msgid "Then we must hurry, before the Dwarves overcome us!"
-msgstr ""
+msgstr "Så må vi skynde os, før dværgene er over os!"
 
 #: Dark_Elves/scenarios/Relentless.cfg:106
 msgid "Muahhahahah! Kill the Elves!"
-msgstr ""
+msgstr "Muahhahahah! Dræb elverne!"
 
 #: Dark_Elves/scenarios/Relentless.cfg:110
 msgid "You shall all die!!"
-msgstr ""
+msgstr "I skal alle dø!"
 
 #: Dark_Elves/scenarios/Relentless.cfg:120
 msgid "There must be more of them, we have yet to hit the advance guard."
-msgstr ""
+msgstr "Der må være flere af dem, vi har ikke nået deres forpost."
 
+# hunting the enemy er udeladt i oversættelsen.
 #: Dark_Elves/scenarios/Relentless.cfg:124
 msgid ""
 "Let them come. We will rip them to shreds. Hunting the enemy is my specialty!"
-msgstr ""
+msgstr "Lad dem komme. Vi flår dem fra hinanden. Det er min specialitet!"
 
 #: Dark_Elves/scenarios/Relentless.cfg:128
 msgid ""
 "We must proceed carefully. The fugitives will have spread word of our "
 "coming, and we may be ambushed."
 msgstr ""
+"Vi må fortsætte med forsigtighed. Flygtningene vil nu have spredt ordet om "
+"vores ankomst og vi risikerer et baghold."
 
 #: Dark_Elves/scenarios/Relentless.cfg:132
 msgid ""
 "The tunnels ahead have not been traversed for quite some time now. That is "
 "where I would often go to do my hunting, the larger creatures reside there."
 msgstr ""
+"Tunnelerne foran os er ikke blevet brugt i lang tid. Det er der jeg "
+"tidligere gik på jagt, de større dyr holder til her."
 
 #: Dark_Elves/scenarios/Relentless.cfg:136
 msgid ""
 "Great, Dwarves and monsters. Well, we don't seem to have much choice. Let us "
 "keep going."
 msgstr ""
+"Øv, dværge og monstre. Hmmm, vi ser ikke ud til at gave et valg. Lad os "
+"fortsætte."
 
 #: Dark_Elves/scenarios/Time.cfg:5
 msgid "Just in Time"
-msgstr ""
+msgstr "Lige til tiden"
 
 #: Dark_Elves/scenarios/Time.cfg:29
 msgid "Grimy"
-msgstr ""
+msgstr "Grimy"
 
 #: Dark_Elves/scenarios/Time.cfg:30
 msgid "Thowrowal"
-msgstr ""
+msgstr "Thowrowal"
 
 #: Dark_Elves/scenarios/Time.cfg:38
 msgid "Defeat the Enemy Leaders"
-msgstr ""
+msgstr "Besejr fjendens ledere"
 
 #: Dark_Elves/scenarios/Time.cfg:69
 msgid "And here are the dwarves, Lord Varish'na."
-msgstr ""
+msgstr "Her er dværgene, Lensherre Varish'na."
 
 #: Dark_Elves/scenarios/Time.cfg:73
 msgid "There are a great many of them, are you certain this is a good idea?"
-msgstr ""
+msgstr "Der er mange af dem, er du sikker på at det er en god ide?"
 
 #: Dark_Elves/scenarios/Time.cfg:77
 msgid "It does not matter, we've been spotted."
-msgstr ""
+msgstr "Det betyder intet, vi er blevet opdaget."
 
 #: Dark_Elves/scenarios/Time.cfg:81
 msgid "Big words for such a small elf"
-msgstr ""
+msgstr "Store ord af sådan en lille elver"
 
 #: Dark_Elves/scenarios/Time.cfg:85
 msgid ""
 "Look, the midget calls us small, he apparently has a lack of reflective "
 "surfaces handy."
 msgstr ""
+"Ha, dværgen kalder os for små, han ser åbenbart verden to-dimensionelt."
 
 #: Dark_Elves/scenarios/Time.cfg:89
 msgid "Taste my steel and die, dark one!"
-msgstr ""
+msgstr "Smag mit stål og dø, sorte skarn!"
 
 #: Dark_Elves/scenarios/Time.cfg:98
 msgid "What? Why am I still alive?"
-msgstr ""
+msgstr "Hvad? Hvorfor er jeg stadig i live?"
 
 #: Dark_Elves/scenarios/Time.cfg:102
 msgid ""
 "Because I preserved your life. You're too wonderful a Dwarf to let die. Such "
 "big muscles, such big..."
 msgstr ""
+"Fordi jeg genoplivede dig. Du er for storartet en dværg til at dø. Sikke "
+"store muskler så stor..."
 
 #: Dark_Elves/scenarios/Time.cfg:106
 msgid "Forget it. I know what you want! I'll kill myself first!"
 msgstr ""
+"Glem det. Jeg ved hvad du ønsker at opnå! Jeg slår mig selv ihjel først!"
 
 #: Dark_Elves/scenarios/Time.cfg:110
 msgid "If you tell me your secrets I'll tell you mine."
-msgstr ""
+msgstr "Hvis du fortæller mig dine hemmeligheder, så fortæller jeg dig mine."
 
 #: Dark_Elves/scenarios/Time.cfg:114
 msgid ""
 "Hah! Think I'd fall for that old trick! With your soft white skin, silky "
 "black hair, smooth lips, and beautiful--No! I'll tell you nothing! *Gahh...!*"
 msgstr ""
+"Ha! Troede du jeg faldt for det gamle trick! Med din bløde hvide hud, "
+"silkeagtige sorte hår, bløde læber og smukke -- Nej! Jeg fortæller dig "
+"intet! *Gahh...!*"
 
 #: Dark_Elves/scenarios/Time.cfg:118
 msgid "Oh well, guess I'll have to do this the hard way."
-msgstr ""
+msgstr "Nå, ser ud til at jeg må gøre dette på den hårde måde."
 
 #: Dark_Elves/scenarios/Time.cfg:122
 msgid "Do you ever wish she wasn't your sister so you could, you know..."
 msgstr ""
+"Ønsker du ikke engang imellem, at hun ikke var din søster så du kunne, du "
+"ved..."
 
 #: Dark_Elves/scenarios/Time.cfg:126
 msgid "You are disgusting Vondel."
-msgstr ""
+msgstr "Vondel, du er modbydelig."
 
+# har udeladt durned og for this, giver umiddelbart ingen problemer med forståelsen i sætningen.
 #: Dark_Elves/scenarios/Time.cfg:136
 msgid "Curse you, you durned Dark Elf... May you rot in Hythenglim for this..."
-msgstr ""
+msgstr "Forbandet være dig, din mørkeelver... Gid du rådner op i Hythenglim..."
 
 #: Dark_Elves/units/Dark_Elf_Captain.cfg:4
 msgid "Dark Elf Captain"
-msgstr ""
+msgstr "Mørkeelver kaptajn"
 
 #: Dark_Elves/units/Dark_Elf_Captain.cfg:19
 msgid ""
@@ -682,6 +797,10 @@ msgid ""
 "to do their best to defend the Matron Mother with their swords and short "
 "spears."
 msgstr ""
+"Disse elver har været et eksempel for deres soldaterkammerater, og har "
+"opnået rang af kaptajn. Selv om de ikke kan blive lensherrer, kæmper de "
+"stadig efter bedste evne for at forsvare mor Matron med deres sværd og korte "
+"spyd."
 
 #: Dark_Elves/units/Dark_Elf_Corsair.cfg:20
 #: Dark_Elves/units/Dark_Elf_Fighter.cfg:48
@@ -723,7 +842,7 @@ msgstr "stik"
 
 #: Dark_Elves/units/Dark_Elf_Cleric.cfg:4
 msgid "female^Dark Elf Cleric"
-msgstr ""
+msgstr "female^Mørkeelver troldmand"
 
 #: Dark_Elves/units/Dark_Elf_Cleric.cfg:21
 msgid ""
@@ -732,6 +851,10 @@ msgid ""
 "they use for their sadistic pleasure. Terribly seductive, they are both "
 "feared and admired for their beauty and cruelty."
 msgstr ""
+"En troldmand er dygtig i brugen af både sine magiske evner og sin "
+"morgenstjerne, hvilket dværgene har fundet ud af. De har også mulighed for "
+"at helbrede andre, en mulighed de bruger til deres egen sadistiske "
+"fornøjelse. De er både frygtet og beundret for deres skønhed og brutalitet."
 
 #: Dark_Elves/units/Dark_Elf_Cleric.cfg:24
 #: Dark_Elves/units/Dark_Elf_Sorceress.cfg:23
@@ -752,7 +875,7 @@ msgstr "slag"
 #: Dark_Elves/units/Dark_Elf_Sorceress.cfg:53
 #: Dark_Elves/units/Dark_Elf_Enchantress.cfg:50
 msgid "magic"
-msgstr ""
+msgstr "magi"
 
 #: Dark_Elves/units/Dark_Elf_Cleric.cfg:55
 #: Dark_Elves/units/Dark_Elf_Sorceress.cfg:54
@@ -766,10 +889,12 @@ msgid ""
 "run. With they're razor sharp swords, they can splice and dice a dwarves "
 "beard."
 msgstr ""
+"Ingen enkelt person kan modstå en Mørkeelver pirat. Hvis du ser en, så løb. "
+"Med deres skarpe sværd kan de dele en dværgs skæg efter forgodtbefindende."
 
 #: Dark_Elves/units/Dark_Elf_Enchantress.cfg:4
 msgid "female^Dark Elf Enchantress"
-msgstr ""
+msgstr "female^Kvindelig mørkeelver troldmand"
 
 #: Dark_Elves/units/Dark_Elf_Enchantress.cfg:17
 msgid ""
@@ -779,6 +904,10 @@ msgid ""
 "Through the guiding of the Clerics, someday they will become a mighty "
 "Sorceress."
 msgstr ""
+"Kvinderne blandt de mørke elver tilslutter sig ofte troldmændene i en meget "
+"ung alder. De starter som en troldmandslærling, med begrænset fysiske og "
+"magiske evner, og er lige begyndt på deres indføring i torturteknikker. "
+"Igennem troldmændenes træning, vil de en dag blive mægtige trolddomskvinder."
 
 #: Dark_Elves/units/Dark_Elf_Fighter.cfg:23
 msgid ""
@@ -786,16 +915,22 @@ msgid ""
 "training. Dark Elves believe that only the best should have the honor of "
 "fighting for the Matron Mother."
 msgstr ""
+"Udskillelsen i egne rækker er hård blandt mørkeelvernes kæmpere. Mørkeelver "
+"har den opfattelse at kun de bedste skal have mulighed for at kæmpe for mor "
+"Matron."
 
 #: Dark_Elves/units/Dark_Elf_Hunter.cfg:4
 msgid "Dark Elf Hunter"
-msgstr ""
+msgstr "Mørkeelver jæger"
 
 #: Dark_Elves/units/Dark_Elf_Hunter.cfg:26
 msgid ""
 "Lurking in the ever dark depths of the caves, the Hunters move around with "
 "out a sound, except for the twang of their crossbows."
 msgstr ""
+"I skjul i hulernes mørke bevæger de elviske jægere sig rundt uden at afgive "
+"en lyd, med undtagelse af lyden af deres armbrøsters affyring af deres "
+"dødelig last."
 
 #: Dark_Elves/units/Dark_Elf_Shadow.cfg:22
 #: Dark_Elves/units/Dark_Elf_Stalker.cfg:23
@@ -809,7 +944,7 @@ msgstr "bue"
 
 #: Dark_Elves/units/Dark_Elf_Lizard_Master.cfg:4
 msgid "Dark Elf Lizard-Master"
-msgstr ""
+msgstr "Mørkeelver øglemester"
 
 #: Dark_Elves/units/Dark_Elf_Lizard_Master.cfg:17
 msgid ""
@@ -817,11 +952,14 @@ msgid ""
 "Many an Dwarf has been cut in two by it's strong jaws. It would be well to "
 "recruit several of these powerful units."
 msgstr ""
+"Selv om øglerne ikke er lige så hurtige som heste, er de så meget mere "
+"magtfulde. En lang række dværge er blevet delt i to af øglens stærke kløer. "
+"Det vil være en god ide at rekruttere flere af denne magtfulde enhed."
 
 #: Dark_Elves/units/Dark_Elf_Lizard_Rider.cfg:50
 #: Dark_Elves/units/Dark_Elf_Lizard_Master.cfg:20
 msgid "deathlance"
-msgstr ""
+msgstr "dødslanse"
 
 #: Dark_Elves/units/Dark_Elf_Lizard_Master.cfg:43
 msgid "bite"
@@ -829,7 +967,7 @@ msgstr "bid"
 
 #: Dark_Elves/units/Dark_Elf_Lizard_Rider.cfg:4
 msgid "Dark Elf Lizard-Rider"
-msgstr ""
+msgstr "Mørkeelver slangerytter"
 
 #: Dark_Elves/units/Dark_Elf_Lizard_Rider.cfg:30
 msgid ""
@@ -838,14 +976,18 @@ msgid ""
 "unknown, to go where no Dark Elf has gone before. Some day, they will become "
 "Master of the Lizard."
 msgstr ""
+"Fra barnsben har de trænet med deres øgle, spist med den, hjulpet den når "
+"den  var syg og sovet med den. Det er deres opgave at spejde i ukendt "
+"område, at gå hvor ingen mørkeelver har gået før. En dag vil de blive "
+"øglemester."
 
 #: Dark_Elves/units/Dark_Elf_Lizard_Rider.cfg:68
 msgid "claw"
-msgstr ""
+msgstr "Klør"
 
 #: Dark_Elves/units/Dark_Elf_Marshal.cfg:4
 msgid "Dark Elf Marshal"
-msgstr ""
+msgstr "Mørkeelver marskal"
 
 #: Dark_Elves/units/Dark_Elf_Marshal.cfg:20
 msgid ""
@@ -854,10 +996,14 @@ msgid ""
 "Although they can never become Lords, they still strive to do their best to "
 "defend the Matron Mother with their swords and short spears."
 msgstr ""
+"Disse elvere har vist sig værdige både på og uden for slagmarken via deres "
+"karakter og opførsel. De har opnået rang af Marskal. Selvom de aldrig kan "
+"blive lensherrer, kæmper de fortsat optimalt for at forsvare mor Matron med "
+"deres sværd og korte spyd."
 
 #: Dark_Elves/units/Dark_Elf_Shadow.cfg:4
 msgid "Dark Elf Shadow"
-msgstr ""
+msgstr "Mørkeelver skygge"
 
 #: Dark_Elves/units/Dark_Elf_Shadow.cfg:19
 msgid ""
@@ -865,6 +1011,9 @@ msgid ""
 "least expect it. Despite their frailty, they can inflict great damage over "
 "time, slowly taking the life away from their prey ."
 msgstr ""
+"Skjult i hulens skygger rammer de dig når du mindst venter det. På trods af "
+"deres svagheder kan de tilføre stor skade over tid og dermed langsomt men "
+"sikkert trække livet ud af deres bytte."
 
 #: Dark_Elves/units/Dark_Elf_Shadow.cfg:42
 #: Dark_Elves/units/Dark_Elf_Stalker.cfg:43
@@ -873,7 +1022,7 @@ msgstr "armbrøst"
 
 #: Dark_Elves/units/Dark_Elf_Sorcerer.cfg:4
 msgid "Dark Elf Sorcerer"
-msgstr ""
+msgstr "Mørkeelver magiker"
 
 #: Dark_Elves/units/Dark_Elf_Sorcerer.cfg:17
 msgid ""
@@ -882,6 +1031,10 @@ msgid ""
 "down a path toward the dark arts practiced by the Necromancers and Lichs. "
 "Their mighty cold blast can freeze any foe that dares to cross their path."
 msgstr ""
+"Magikere er troldmænd som har ekstra viden om ellers ukendt og frygtet magi. "
+"Deres studier fortærer dem i en jagt efter mere magt. De føres derfor "
+"langsomt men sikkert på en bane mod mørk magi og udødelighed. Deres "
+"kraftfulde kuldevinde kan fryse enhver fjende som krydser deres vej."
 
 #: Dark_Elves/units/Dark_Elf_Wizard.cfg:21
 #: Dark_Elves/units/Dark_Elf_Sorcerer.cfg:21
@@ -892,7 +1045,7 @@ msgstr "kulde"
 
 #: Dark_Elves/units/Dark_Elf_Sorceress.cfg:4
 msgid "female^Dark Elf Sorceress"
-msgstr ""
+msgstr "female^Kvindelig mørkeelver troldmand"
 
 #: Dark_Elves/units/Dark_Elf_Sorceress.cfg:20
 msgid ""
@@ -902,10 +1055,14 @@ msgid ""
 "Very soon, they will become Clerics, the terribly seductive sadistic "
 "torturers."
 msgstr ""
+"Mørkeelvernes kvinder tilslutter sig ofte troldmændende i en tidlige alder. "
+"De har opnået rang af troldkvinde, og kan næsten mestre helbredelse, tortur "
+"og igen helbredelse af deres fanger igen og igen. De vil snart være udlært "
+"som modbydelige indtagende sadistiske torturbødler."
 
 #: Dark_Elves/units/Dark_Elf_Stalker.cfg:4
 msgid "Dark Elf Stalker"
-msgstr ""
+msgstr "Mørkeelver stalker"
 
 #: Dark_Elves/units/Dark_Elf_Stalker.cfg:20
 msgid ""
@@ -913,10 +1070,13 @@ msgid ""
 "daggers and crossbows. They are completely hidden in the caves, only the "
 "thud of a dead body tells you they are near."
 msgstr ""
+"Stalkerne er atletiske og kraftfulde krigere der er gode med deres daggerter "
+"og armbrøster. De kan fuldstændig gemme sig i hulerne, kun døde kroppe "
+"fortæller dig at de er i nærheden."
 
 #: Dark_Elves/units/Dark_Elf_Warlock.cfg:4
 msgid "Dark Elf Warlock"
-msgstr ""
+msgstr "Mørkeelver krigsherre"
 
 #: Dark_Elves/units/Dark_Elf_Warlock.cfg:17
 msgid ""
@@ -925,6 +1085,10 @@ msgid ""
 "and have the power to drain life from their opponents with a single touch, "
 "and add it to their own."
 msgstr ""
+"De bedste af deres slag, disse krigsherrer har omfattende magt, på højde "
+"selv med magikerne. De har opdaget den mørke magis hemmeligheder, og kan "
+"suge liv ud af deres modstandere med en enkelt berøring og overføre livet "
+"til dem selv."
 
 #: Dark_Elves/units/Dark_Elf_Warlock.cfg:20
 msgid "touch"
@@ -936,10 +1100,13 @@ msgid ""
 "weapons. With their balanced blades, they can shave a Dwarf. Only few become "
 "Corsairs."
 msgstr ""
+"Disse krigere har specialiseret sig fuldstændig i brugen af to våben. Med "
+"deres klinger kan de barbere en dværg. Kun få udvalgte bliver mørkeelver "
+"pirat."
 
 #: Dark_Elves/units/Dark_Elf_Wizard.cfg:4
 msgid "Dark Elf Wizard"
-msgstr ""
+msgstr "Mørkeelvertroldmand"
 
 #: Dark_Elves/units/Dark_Elf_Wizard.cfg:17
 msgid ""
@@ -948,3 +1115,8 @@ msgid ""
 "the slaves, and other such things. However, in time of conflict, they can do "
 "great damage, even though they lack any training in close-combat."
 msgstr ""
+"Nogle mørkeelver foretrækker at studere magi fremfor nærkamp. I dagligdagen "
+"overlades de større og mindre forpligtelser i huset, såsom førelse af huset, "
+"overvågning af slaverne og andre lignende ting. I krigstider - derimod - kan "
+"de forestå store ødelæggelser blandt fjendtlige styrker selvom de mangler "
+"nærkampstræning."
