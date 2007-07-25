@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2006-06-23 17:49+0200\n"
-"PO-Revision-Date: 2006-03-13 03:00+0100\n"
+"PO-Revision-Date: 2007-07-25 18:00+0200\n"
 "Last-Translator: Stefan Bergström (tephlon) <stefan DOT bergstrom AT gmail "
 "DOT com>\n"
 "Language-Team: Swedish\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms:  nplurals=2; plural=(n != 1);\n"
-"X-Generator: KBabel 1.11.1\n"
+"X-Generator: KBabel 1.11.4\n"
 
 #: Dark_Elves.cfg:9
 msgid "A New Threat"
@@ -721,7 +721,7 @@ msgstr "spjut"
 #: Dark_Elves/units/Dark_Elf_Lizard_Master.cfg:21
 #: Dark_Elves/units/Dark_Elf_Captain.cfg:53
 msgid "pierce"
-msgstr "spets"
+msgstr "stick"
 
 #: Dark_Elves/units/Dark_Elf_Cleric.cfg:4
 msgid "female^Dark Elf Cleric"
@@ -807,7 +807,7 @@ msgstr "dolk"
 
 #: Dark_Elves/units/Dark_Elf_Hunter.cfg:71
 msgid "bow"
-msgstr "båge"
+msgstr "pilbåge"
 
 #: Dark_Elves/units/Dark_Elf_Lizard_Master.cfg:4
 msgid "Dark Elf Lizard-Master"
