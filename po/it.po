@@ -2,14 +2,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2006-06-23 17:49+0200\n"
-"PO-Revision-Date: 2007-01-25 16:08+0100\n"
+"POT-Creation-Date: 2007-12-07 00:00+0100\n"
+"PO-Revision-Date: 2007-12-02 17:44+0100\n"
 "Last-Translator: Brivido <brivido(at)gmail.com>\n"
-"Language-Team: none\n"
+"Language-Team: Italian\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Language: Italian\n"
+"X-Poedit-Country: ITALY\n"
 
 #: Dark_Elves.cfg:9
 msgid "A New Threat"
@@ -805,44 +807,6 @@ msgstr ""
 "fanno delo loro meglio per difendere la Madre Matrona con le loro spade e "
 "lance corte."
 
-#: Dark_Elves/units/Dark_Elf_Corsair.cfg:20
-#: Dark_Elves/units/Dark_Elf_Fighter.cfg:48
-#: Dark_Elves/units/Dark_Elf_Warrior.cfg:19
-#: Dark_Elves/units/Dark_Elf_Marshal.cfg:23
-#: Dark_Elves/units/Dark_Elf_Captain.cfg:22
-msgid "sword"
-msgstr "spade"
-
-#: Dark_Elves/units/Dark_Elf_Corsair.cfg:21
-#: Dark_Elves/units/Dark_Elf_Shadow.cfg:23
-#: Dark_Elves/units/Dark_Elf_Stalker.cfg:24
-#: Dark_Elves/units/Dark_Elf_Fighter.cfg:49
-#: Dark_Elves/units/Dark_Elf_Lizard_Rider.cfg:69
-#: Dark_Elves/units/Dark_Elf_Hunter.cfg:52
-#: Dark_Elves/units/Dark_Elf_Warrior.cfg:20
-#: Dark_Elves/units/Dark_Elf_Marshal.cfg:24
-#: Dark_Elves/units/Dark_Elf_Lizard_Master.cfg:44
-#: Dark_Elves/units/Dark_Elf_Captain.cfg:23
-msgid "blade"
-msgstr "lama"
-
-#: Dark_Elves/units/Dark_Elf_Marshal.cfg:53
-#: Dark_Elves/units/Dark_Elf_Marshal.cfg:83
-#: Dark_Elves/units/Dark_Elf_Captain.cfg:52
-msgid "spear"
-msgstr "lancia"
-
-#: Dark_Elves/units/Dark_Elf_Shadow.cfg:43
-#: Dark_Elves/units/Dark_Elf_Stalker.cfg:44
-#: Dark_Elves/units/Dark_Elf_Lizard_Rider.cfg:51
-#: Dark_Elves/units/Dark_Elf_Hunter.cfg:72
-#: Dark_Elves/units/Dark_Elf_Marshal.cfg:54
-#: Dark_Elves/units/Dark_Elf_Marshal.cfg:84
-#: Dark_Elves/units/Dark_Elf_Lizard_Master.cfg:21
-#: Dark_Elves/units/Dark_Elf_Captain.cfg:53
-msgid "pierce"
-msgstr "perfora"
-
 #: Dark_Elves/units/Dark_Elf_Cleric.cfg:4
 msgid "female^Dark Elf Cleric"
 msgstr "Sacerdotessa degli elfi neri"
@@ -858,33 +822,6 @@ msgstr ""
 "come i nani hanno provato di persona. Sono abili a curare, una capacità che "
 "impiegano per il loro sadico piacere. estremamente seducenti, sono sia "
 "temute sia ammirate per la loro bellezza e crudeltà."
-
-#: Dark_Elves/units/Dark_Elf_Cleric.cfg:24
-#: Dark_Elves/units/Dark_Elf_Sorceress.cfg:23
-#: Dark_Elves/units/Dark_Elf_Enchantress.cfg:20
-msgid "mace"
-msgstr "mazza"
-
-#: Dark_Elves/units/Dark_Elf_Cleric.cfg:25
-#: Dark_Elves/units/Dark_Elf_Sorceress.cfg:24
-#: Dark_Elves/units/Dark_Elf_Enchantress.cfg:21
-msgid "impact"
-msgstr "impatto"
-
-#: Dark_Elves/units/Dark_Elf_Wizard.cfg:20
-#: Dark_Elves/units/Dark_Elf_Cleric.cfg:54
-#: Dark_Elves/units/Dark_Elf_Sorcerer.cfg:20
-#: Dark_Elves/units/Dark_Elf_Warlock.cfg:30
-#: Dark_Elves/units/Dark_Elf_Sorceress.cfg:53
-#: Dark_Elves/units/Dark_Elf_Enchantress.cfg:50
-msgid "magic"
-msgstr "magico"
-
-#: Dark_Elves/units/Dark_Elf_Cleric.cfg:55
-#: Dark_Elves/units/Dark_Elf_Sorceress.cfg:54
-#: Dark_Elves/units/Dark_Elf_Enchantress.cfg:51
-msgid "fire"
-msgstr "fuoco"
 
 #: Dark_Elves/units/Dark_Elf_Corsair.cfg:17
 msgid ""
@@ -936,16 +873,6 @@ msgstr ""
 "In agguato nell'oscurità perenne delle caverne, i cacciatori si muovo senza "
 "il minimo suono se non quello delle loro balestre."
 
-#: Dark_Elves/units/Dark_Elf_Shadow.cfg:22
-#: Dark_Elves/units/Dark_Elf_Stalker.cfg:23
-#: Dark_Elves/units/Dark_Elf_Hunter.cfg:51
-msgid "dagger"
-msgstr "pugnale"
-
-#: Dark_Elves/units/Dark_Elf_Hunter.cfg:71
-msgid "bow"
-msgstr "arco"
-
 #: Dark_Elves/units/Dark_Elf_Lizard_Master.cfg:4
 msgid "Dark Elf Lizard-Master"
 msgstr "Capo-lucertola degli elfi neri"
@@ -959,15 +886,6 @@ msgstr ""
 "Le lucertole non sono rapide come i cavalli, ma sono molto più potenti. "
 "Molti nani sono stati tagliati in due dalla potenza delle loro fauci. È un "
 "grande vantaggio reclutare un gran numero di queste potenti unità."
-
-#: Dark_Elves/units/Dark_Elf_Lizard_Rider.cfg:50
-#: Dark_Elves/units/Dark_Elf_Lizard_Master.cfg:20
-msgid "deathlance"
-msgstr "lancia della morte"
-
-#: Dark_Elves/units/Dark_Elf_Lizard_Master.cfg:43
-msgid "bite"
-msgstr "morso"
 
 #: Dark_Elves/units/Dark_Elf_Lizard_Rider.cfg:4
 msgid "Dark Elf Lizard-Rider"
@@ -984,10 +902,6 @@ msgstr ""
 "curandola e dormendo con essa. Il loro compito è esplorare l'ignoto e "
 "giungere dove nessun elfo nero è mai stato prima. Un giorno diventeranno "
 "Capi-lucertola."
-
-#: Dark_Elves/units/Dark_Elf_Lizard_Rider.cfg:68
-msgid "claw"
-msgstr "artigli"
 
 #: Dark_Elves/units/Dark_Elf_Marshal.cfg:4
 msgid "Dark Elf Marshal"
@@ -1019,11 +933,6 @@ msgstr ""
 "lo aspetti. Nonostante la loro fragilità, possono infliggere gravi ferite "
 "che lentamente strapperanno la vita dalle loro prede."
 
-#: Dark_Elves/units/Dark_Elf_Shadow.cfg:42
-#: Dark_Elves/units/Dark_Elf_Stalker.cfg:43
-msgid "crossbow"
-msgstr "balestra"
-
 #: Dark_Elves/units/Dark_Elf_Sorcerer.cfg:4
 msgid "Dark Elf Sorcerer"
 msgstr "Incantatore degli elfi neri"
@@ -1040,13 +949,6 @@ msgstr ""
 "guidandoli giù nell'abisso della magia nera praticata da necromanti e Lich. "
 "Il loro potente soffio gelido può congelare qualsiasi avversario che osi "
 "intralciare il loro cammino."
-
-#: Dark_Elves/units/Dark_Elf_Wizard.cfg:21
-#: Dark_Elves/units/Dark_Elf_Sorcerer.cfg:21
-#: Dark_Elves/units/Dark_Elf_Warlock.cfg:21
-#: Dark_Elves/units/Dark_Elf_Warlock.cfg:31
-msgid "cold"
-msgstr "freddo"
 
 #: Dark_Elves/units/Dark_Elf_Sorceress.cfg:4
 msgid "female^Dark Elf Sorceress"
@@ -1096,10 +998,6 @@ msgstr ""
 "e hanno il potere di risucchiare la forza vitale dai loro avversari con un "
 "semplice tocco e sommarla alla propria."
 
-#: Dark_Elves/units/Dark_Elf_Warlock.cfg:20
-msgid "touch"
-msgstr "tocco"
-
 #: Dark_Elves/units/Dark_Elf_Warrior.cfg:16
 msgid ""
 "These Warriors have devoted themselves totally to mastering the use of dual "
@@ -1126,6 +1024,54 @@ msgstr ""
 "la manutenzione, la sorveglianza degli schiavi e altre cose di questo tipo. "
 "Tuttavia, in tempo di guerra, possono fare gravi danni, anche se non hanno "
 "alcun addestramento al combattimento ravvicinato."
+
+#~ msgid "sword"
+#~ msgstr "spada"
+
+#~ msgid "blade"
+#~ msgstr "lama"
+
+#~ msgid "spear"
+#~ msgstr "lancia"
+
+#~ msgid "pierce"
+#~ msgstr "perfora"
+
+#~ msgid "mace"
+#~ msgstr "mazza"
+
+#~ msgid "impact"
+#~ msgstr "impatto"
+
+#~ msgid "magic"
+#~ msgstr "magico"
+
+#~ msgid "fire"
+#~ msgstr "fuoco"
+
+#~ msgid "dagger"
+#~ msgstr "pugnale"
+
+#~ msgid "bow"
+#~ msgstr "arco"
+
+#~ msgid "deathlance"
+#~ msgstr "lancia della morte"
+
+#~ msgid "bite"
+#~ msgstr "morso"
+
+#~ msgid "claw"
+#~ msgstr "artigli"
+
+#~ msgid "crossbow"
+#~ msgstr "balestra"
+
+#~ msgid "cold"
+#~ msgstr "freddo"
+
+#~ msgid "touch"
+#~ msgstr "tocco"
 
 #~ msgid ""
 #~ "The Queen of the Dark Elves heard tell of the Dwarves anger, and she "
