@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2006-06-23 17:49+0200\n"
+"POT-Creation-Date: 2007-12-07 00:00+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -568,44 +568,12 @@ msgstr ""
 msgid "These Elves have been an example to their fellow soldiers, and have gained the rank of Captain. Although they can never become Lords, they still strive to do their best to defend the Matron Mother with their swords and short spears."
 msgstr ""
 
-#: ./Dark_Elves/units/Dark_Elf_Corsair.cfg:20 ./Dark_Elves/units/Dark_Elf_Fighter.cfg:48 ./Dark_Elves/units/Dark_Elf_Warrior.cfg:19 ./Dark_Elves/units/Dark_Elf_Marshal.cfg:23 ./Dark_Elves/units/Dark_Elf_Captain.cfg:22
-msgid "sword"
-msgstr ""
-
-#: ./Dark_Elves/units/Dark_Elf_Corsair.cfg:21 ./Dark_Elves/units/Dark_Elf_Shadow.cfg:23 ./Dark_Elves/units/Dark_Elf_Stalker.cfg:24 ./Dark_Elves/units/Dark_Elf_Fighter.cfg:49 ./Dark_Elves/units/Dark_Elf_Lizard_Rider.cfg:69 ./Dark_Elves/units/Dark_Elf_Hunter.cfg:52 ./Dark_Elves/units/Dark_Elf_Warrior.cfg:20 ./Dark_Elves/units/Dark_Elf_Marshal.cfg:24 ./Dark_Elves/units/Dark_Elf_Lizard_Master.cfg:44 ./Dark_Elves/units/Dark_Elf_Captain.cfg:23
-msgid "blade"
-msgstr ""
-
-#: ./Dark_Elves/units/Dark_Elf_Marshal.cfg:53 ./Dark_Elves/units/Dark_Elf_Marshal.cfg:83 ./Dark_Elves/units/Dark_Elf_Captain.cfg:52
-msgid "spear"
-msgstr ""
-
-#: ./Dark_Elves/units/Dark_Elf_Shadow.cfg:43 ./Dark_Elves/units/Dark_Elf_Stalker.cfg:44 ./Dark_Elves/units/Dark_Elf_Lizard_Rider.cfg:51 ./Dark_Elves/units/Dark_Elf_Hunter.cfg:72 ./Dark_Elves/units/Dark_Elf_Marshal.cfg:54 ./Dark_Elves/units/Dark_Elf_Marshal.cfg:84 ./Dark_Elves/units/Dark_Elf_Lizard_Master.cfg:21 ./Dark_Elves/units/Dark_Elf_Captain.cfg:53
-msgid "pierce"
-msgstr ""
-
 #: ./Dark_Elves/units/Dark_Elf_Cleric.cfg:4
 msgid "female^Dark Elf Cleric"
 msgstr ""
 
 #: ./Dark_Elves/units/Dark_Elf_Cleric.cfg:21
 msgid "A Cleric is adapt at both their magical abilities and the use of their maces, as the Dwarves have found out. They have the cure ability, a tool they use for their sadistic pleasure. Terribly seductive, they are both feared and admired for their beauty and cruelty."
-msgstr ""
-
-#: ./Dark_Elves/units/Dark_Elf_Cleric.cfg:24 ./Dark_Elves/units/Dark_Elf_Sorceress.cfg:23 ./Dark_Elves/units/Dark_Elf_Enchantress.cfg:20
-msgid "mace"
-msgstr ""
-
-#: ./Dark_Elves/units/Dark_Elf_Cleric.cfg:25 ./Dark_Elves/units/Dark_Elf_Sorceress.cfg:24 ./Dark_Elves/units/Dark_Elf_Enchantress.cfg:21
-msgid "impact"
-msgstr ""
-
-#: ./Dark_Elves/units/Dark_Elf_Wizard.cfg:20 ./Dark_Elves/units/Dark_Elf_Cleric.cfg:54 ./Dark_Elves/units/Dark_Elf_Sorcerer.cfg:20 ./Dark_Elves/units/Dark_Elf_Warlock.cfg:30 ./Dark_Elves/units/Dark_Elf_Sorceress.cfg:53 ./Dark_Elves/units/Dark_Elf_Enchantress.cfg:50
-msgid "magic"
-msgstr ""
-
-#: ./Dark_Elves/units/Dark_Elf_Cleric.cfg:55 ./Dark_Elves/units/Dark_Elf_Sorceress.cfg:54 ./Dark_Elves/units/Dark_Elf_Enchantress.cfg:51
-msgid "fire"
 msgstr ""
 
 #: ./Dark_Elves/units/Dark_Elf_Corsair.cfg:17
@@ -632,14 +600,6 @@ msgstr ""
 msgid "Lurking in the ever dark depths of the caves, the Hunters move around with out a sound, except for the twang of their crossbows."
 msgstr ""
 
-#: ./Dark_Elves/units/Dark_Elf_Shadow.cfg:22 ./Dark_Elves/units/Dark_Elf_Stalker.cfg:23 ./Dark_Elves/units/Dark_Elf_Hunter.cfg:51
-msgid "dagger"
-msgstr ""
-
-#: ./Dark_Elves/units/Dark_Elf_Hunter.cfg:71
-msgid "bow"
-msgstr ""
-
 #: ./Dark_Elves/units/Dark_Elf_Lizard_Master.cfg:4
 msgid "Dark Elf Lizard-Master"
 msgstr ""
@@ -648,24 +608,12 @@ msgstr ""
 msgid "Though the Lizards are not as fast as horses, they are much more powerful. Many an Dwarf has been cut in two by it's strong jaws. It would be well to recruit several of these powerful units."
 msgstr ""
 
-#: ./Dark_Elves/units/Dark_Elf_Lizard_Rider.cfg:50 ./Dark_Elves/units/Dark_Elf_Lizard_Master.cfg:20
-msgid "deathlance"
-msgstr ""
-
-#: ./Dark_Elves/units/Dark_Elf_Lizard_Master.cfg:43
-msgid "bite"
-msgstr ""
-
 #: ./Dark_Elves/units/Dark_Elf_Lizard_Rider.cfg:4
 msgid "Dark Elf Lizard-Rider"
 msgstr ""
 
 #: ./Dark_Elves/units/Dark_Elf_Lizard_Rider.cfg:30
 msgid "From childhood, they have been training with their beast, feeding it, healing it, and sleeping with it. It is their duty to scout ahead into the unknown, to go where no Dark Elf has gone before. Some day, they will become Master of the Lizard."
-msgstr ""
-
-#: ./Dark_Elves/units/Dark_Elf_Lizard_Rider.cfg:68
-msgid "claw"
 msgstr ""
 
 #: ./Dark_Elves/units/Dark_Elf_Marshal.cfg:4
@@ -684,20 +632,12 @@ msgstr ""
 msgid "Staying hidden safe in the shadows of the caves, they will hit you when you least expect it. Despite their frailty, they can inflict great damage over time, slowly taking the life away from their prey ."
 msgstr ""
 
-#: ./Dark_Elves/units/Dark_Elf_Shadow.cfg:42 ./Dark_Elves/units/Dark_Elf_Stalker.cfg:43
-msgid "crossbow"
-msgstr ""
-
 #: ./Dark_Elves/units/Dark_Elf_Sorcerer.cfg:4
 msgid "Dark Elf Sorcerer"
 msgstr ""
 
 #: ./Dark_Elves/units/Dark_Elf_Sorcerer.cfg:17
 msgid "Sorcerers are Wizards that have gone deeper into the studying of the arcane arts. Their research consumes them in a quest for more power, leading them down a path toward the dark arts practiced by the Necromancers and Lichs. Their mighty cold blast can freeze any foe that dares to cross their path."
-msgstr ""
-
-#: ./Dark_Elves/units/Dark_Elf_Wizard.cfg:21 ./Dark_Elves/units/Dark_Elf_Sorcerer.cfg:21 ./Dark_Elves/units/Dark_Elf_Warlock.cfg:21 ./Dark_Elves/units/Dark_Elf_Warlock.cfg:31
-msgid "cold"
 msgstr ""
 
 #: ./Dark_Elves/units/Dark_Elf_Sorceress.cfg:4
@@ -722,10 +662,6 @@ msgstr ""
 
 #: ./Dark_Elves/units/Dark_Elf_Warlock.cfg:17
 msgid "The best of their kind, these Warlocks have immense power, rivaling even that of the Arch Mage. They have discovered the secrets of the dark arts, and have the power to drain life from their opponents with a single touch, and add it to their own."
-msgstr ""
-
-#: ./Dark_Elves/units/Dark_Elf_Warlock.cfg:20
-msgid "touch"
 msgstr ""
 
 #: ./Dark_Elves/units/Dark_Elf_Warrior.cfg:16
