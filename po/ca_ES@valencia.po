@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2006-06-23 17:49+0200\n"
+"POT-Creation-Date: 2008-03-31 22:40+0200\n"
 "PO-Revision-Date: 2006-06-23 17:49+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -10,38 +10,50 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
+#. [campaign]
 #: Dark_Elves.cfg:9
 msgid "A New Threat"
 msgstr ""
 
+#. [unit]: race=dark elf
+#. [campaign]
 #: Dark_Elves/units/Dark_Elf_Fighter.cfg:4 Dark_Elves.cfg:17
 msgid "Dark Elf Fighter"
 msgstr ""
 
+#. [campaign]
 #: Dark_Elves.cfg:17
 msgid "(easiest)"
 msgstr ""
 
+#. [unit]: race=dark elf
+#. [campaign]
 #: Dark_Elves/units/Dark_Elf_Warrior.cfg:4 Dark_Elves.cfg:18
 msgid "Dark Elf Warrior"
 msgstr ""
 
+#. [campaign]
 #: Dark_Elves.cfg:19
 msgid "(hardest)"
 msgstr ""
 
+#. [unit]: race=dark elf
+#. [campaign]
 #: Dark_Elves/units/Dark_Elf_Corsair.cfg:4 Dark_Elves.cfg:19
 msgid "Dark Elf Corsair"
 msgstr ""
 
+#. [campaign]
 #: Dark_Elves.cfg:21
 msgid "Defend the Caves against the Dwarvish Invasion."
 msgstr ""
 
+#. [scenario]
 #: Dark_Elves/scenarios/Beginning.cfg:5
 msgid "It's only the Beginning"
 msgstr ""
 
+#. [part]
 #: Dark_Elves/scenarios/Beginning.cfg:10
 msgid ""
 "Deep underground evil is spreading. In the form of Elves, yet not so. A race "
@@ -50,6 +62,7 @@ msgid ""
 "a grain of truth can be found."
 msgstr ""
 
+#. [part]
 #: Dark_Elves/scenarios/Beginning.cfg:14
 msgid ""
 "The Dark Elves have lived in the silent blackness for years, adapting to a "
@@ -59,6 +72,7 @@ msgid ""
 "divided into seperate houses, and thus were their lords chosen."
 msgstr ""
 
+#. [part]
 #: Dark_Elves/scenarios/Beginning.cfg:18
 msgid ""
 "For years they have lived in silence, content to be ignored by the world of "
@@ -70,6 +84,7 @@ msgid ""
 "restore them back to life."
 msgstr ""
 
+#. [part]
 #: Dark_Elves/scenarios/Beginning.cfg:22
 msgid ""
 "The Dwarves put up with this for awhile, until the grand Dwarf Lord sent his "
@@ -79,6 +94,7 @@ msgid ""
 "enemies once and for all. "
 msgstr ""
 
+#. [part]
 #: Dark_Elves/scenarios/Beginning.cfg:26
 msgid ""
 "Varish'na, a noble of the Tenth House, has fallen committed a crime against "
@@ -90,133 +106,160 @@ msgid ""
 "slime chance of requiting himself..."
 msgstr ""
 
+#. [side]: type=Dark Elf Noble, description=Varish'na
 #: Dark_Elves/scenarios/Hunt.cfg:34 Dark_Elves/scenarios/Path.cfg:26
 #: Dark_Elves/scenarios/Beginning.cfg:46 Dark_Elves/scenarios/Time.cfg:20
 #: Dark_Elves/scenarios/Danger.cfg:23 Dark_Elves/scenarios/Relentless.cfg:24
 msgid "Varish'na"
 msgstr ""
 
+#. [side]: type=Dwarvish Axemaster, description=Trith
 #: Dark_Elves/scenarios/Beginning.cfg:61
 msgid "Trith"
 msgstr ""
 
+#. [objective]: condition=win
 #: Dark_Elves/scenarios/Path.cfg:55 Dark_Elves/scenarios/Beginning.cfg:74
 msgid "Kill the Dwarves"
 msgstr ""
 
+#. [objective]: condition=lose
 #: Dark_Elves/scenarios/Hunt.cfg:65 Dark_Elves/scenarios/Path.cfg:63
 #: Dark_Elves/scenarios/Beginning.cfg:78 Dark_Elves/scenarios/Time.cfg:42
 #: Dark_Elves/scenarios/Danger.cfg:56 Dark_Elves/scenarios/Relentless.cfg:74
 msgid "Death of Varish'na"
 msgstr ""
 
+#. [objective]: condition=lose
 #: Dark_Elves/scenarios/Hunt.cfg:73 Dark_Elves/scenarios/Path.cfg:75
 #: Dark_Elves/scenarios/Beginning.cfg:82 Dark_Elves/scenarios/Time.cfg:54
 #: Dark_Elves/scenarios/Danger.cfg:68 Dark_Elves/scenarios/Relentless.cfg:82
 msgid "Turns run out"
 msgstr ""
 
+#. [message]: description=Trith
 #: Dark_Elves/scenarios/Beginning.cfg:96
 msgid ""
 "What? These must be the forces who took poor Vladdy, no pointy ear is takin' "
 "Clan Stormhammer without a fight!"
 msgstr ""
 
+#. [message]: description=Trith
 #: Dark_Elves/scenarios/Beginning.cfg:106
 msgid ""
 "Accursed Elf dogs, ye shall perish before this month is up. My brothers "
 "shall crush ye like an eggshell. And Dark Elf blood shall flow like water."
 msgstr ""
 
+#. [message]: description=secondary_unit
 #: Dark_Elves/scenarios/Beginning.cfg:123
 msgid ""
 "My lord, we have found a Dwarf, and the Clerics have resurrected him. From "
 "him we have learned a terrible truth."
 msgstr ""
 
+#. [message]: description=Varish'na
 #: Dark_Elves/scenarios/Beginning.cfg:127
 msgid "What is it?"
 msgstr ""
 
+#. [message]: description=secondary_unit
 #: Dark_Elves/scenarios/Beginning.cfg:132
 msgid ""
 "The Dwarvish clans of Stormhammer, Stoutblade, the Cleavers, and the "
 "'fabled' Red Mountain clan have all mobilized against us."
 msgstr ""
 
+#. [message]: description=Varish'na
 #: Dark_Elves/scenarios/Beginning.cfg:136
 msgid "Are they sure of this?"
 msgstr ""
 
+#. [message]: description=secondary_unit
 #: Dark_Elves/scenarios/Beginning.cfg:141
 msgid "Have they ever been wrong before sir?"
 msgstr ""
 
+#. [message]: description=Varish'na
 #: Dark_Elves/scenarios/Beginning.cfg:145
 msgid ""
 "Hmm...Good point. Send our fastest soldier to alert the Matron Mother. We "
 "must attempt to arrest their advancement. Make ready to leave the keep."
 msgstr ""
 
+#. [message]: description=secondary_unit
 #: Dark_Elves/scenarios/Beginning.cfg:150
 msgid "But my lord... They far outnumber us to charge would be suicide... "
 msgstr ""
 
+#. [message]: description=Varish'na
 #: Dark_Elves/scenarios/Beginning.cfg:154
 msgid "That's the idea."
 msgstr ""
 
+#. [message]: description=Varish'na
 #: Dark_Elves/scenarios/Hunt.cfg:208 Dark_Elves/scenarios/Path.cfg:695
 #: Dark_Elves/scenarios/Beginning.cfg:170 Dark_Elves/scenarios/Time.cfg:144
 #: Dark_Elves/scenarios/Danger.cfg:167 Dark_Elves/scenarios/Relentless.cfg:148
 msgid "No! I have failed!"
 msgstr ""
 
+#. [scenario]
 #: Dark_Elves/scenarios/Danger.cfg:5
 msgid "Danger Lurks"
 msgstr ""
 
+#. [scenario]
 #: Dark_Elves/scenarios/Danger.cfg:33
 msgid "Dwarf"
 msgstr ""
 
+#. [side]: type=Dwarvish Steelclad, description=Moral
 #: Dark_Elves/scenarios/Danger.cfg:38
 msgid "Moral"
 msgstr ""
 
+#. [objective]: condition=win
 #: Dark_Elves/scenarios/Danger.cfg:52
 msgid "Kill the Dwarf Leader"
 msgstr ""
 
+#. [objective]: condition=lose
 #: Dark_Elves/scenarios/Hunt.cfg:69 Dark_Elves/scenarios/Path.cfg:67
 #: Dark_Elves/scenarios/Time.cfg:46 Dark_Elves/scenarios/Danger.cfg:60
 #: Dark_Elves/scenarios/Relentless.cfg:78
 msgid "Death of Voldel"
 msgstr ""
 
+#. [objective]: condition=lose
 #: Dark_Elves/scenarios/Path.cfg:71 Dark_Elves/scenarios/Time.cfg:50
 #: Dark_Elves/scenarios/Danger.cfg:64
 msgid "Death of Traya"
 msgstr ""
 
+#. [message]: description=Traya
 #: Dark_Elves/scenarios/Danger.cfg:83
 msgid ""
 "The Dwarf very obstinate, but I have what we need. The advance guard is just "
 "beyond the Great Rift."
 msgstr ""
 
+#. [message]: description=Varish'na
 #: Dark_Elves/scenarios/Danger.cfg:87
 msgid "The bridge is just ahead, and it looks like they have them guarded"
 msgstr ""
 
+#. [message]: description=Voldel
 #: Dark_Elves/scenarios/Danger.cfg:91
 msgid "Well then, what are we waiting for? Let's go get'em!"
 msgstr ""
 
+#. [message]: description=Varish'na
 #: Dark_Elves/scenarios/Danger.cfg:100
 msgid "That was easy. I think they didn't expect us to survive their trap."
 msgstr ""
 
+#. [message]: description=Voldel
 #: Dark_Elves/scenarios/Danger.cfg:104
 msgid ""
 "Now we must choose which way to go. The cave ahead splits up. To the right "
@@ -224,62 +267,76 @@ msgid ""
 "you, I'd choose that one."
 msgstr ""
 
+#. [message]: description=Varish'na
 #: Dark_Elves/scenarios/Danger.cfg:108
 msgid "Why?"
 msgstr ""
 
+#. [message]: description=Voldel
 #: Dark_Elves/scenarios/Danger.cfg:112
 msgid ""
 "No one has gone down the other one for a long time. It is said that a Dragon "
 "lives down there."
 msgstr ""
 
+#. [message]: description=Varish'na
 #: Dark_Elves/scenarios/Danger.cfg:116
 msgid "A Dragon? Do you know for sure?"
 msgstr ""
 
+#. [message]: description=Voldel
 #: Dark_Elves/scenarios/Danger.cfg:120
 msgid "It is only a legend, but..."
 msgstr ""
 
+#. [message]: description=Traya
 #: Dark_Elves/scenarios/Danger.cfg:124
 msgid "You're in command Varish'na. The path you choose is the own we follow."
 msgstr ""
 
+#. [option]: description=Traya
 #: Dark_Elves/scenarios/Danger.cfg:126
 msgid "If the Dwarves are to the left, then lets go kill some Dwarves!"
 msgstr ""
 
+#. [message]: description=Traya
 #: Dark_Elves/scenarios/Danger.cfg:130 Dark_Elves/scenarios/Danger.cfg:145
 msgid "It's your chosen path. Come, let us continue"
 msgstr ""
 
+#. [option]: description=Traya
 #: Dark_Elves/scenarios/Danger.cfg:141
 msgid ""
 "We need to get to the Dwarves as quickly as possible. Dragon or no Dragon, "
 "we shall go right."
 msgstr ""
 
+#. [scenario]
 #: Dark_Elves/scenarios/Hunt.cfg:5
 msgid "Hunting the Enemy"
 msgstr ""
 
+#. [part]
 #: Dark_Elves/scenarios/Hunt.cfg:12
 msgid "The Dark Elves Advanced..."
 msgstr ""
 
+#. [side]: type=Dwarvish Steelclad, description=Gimmy
 #: Dark_Elves/scenarios/Hunt.cfg:48
 msgid "Gimmy"
 msgstr ""
 
+#. [objective]: condition=win
 #: Dark_Elves/scenarios/Hunt.cfg:61
 msgid "Kill all the Dwarves"
 msgstr ""
 
+#. [message]: description=Varish'na
 #: Dark_Elves/scenarios/Hunt.cfg:91
 msgid "Hold there Dhaerow! What is your business here?"
 msgstr ""
 
+#. [message]: description=Voldel
 #: Dark_Elves/scenarios/Hunt.cfg:95
 msgid ""
 "Thank the Mother, we knew reinforcements would arrive. The Dwarves are "
@@ -287,58 +344,70 @@ msgid ""
 "homes. You must render us aid!"
 msgstr ""
 
+#. [message]: description=Varish'na
 #: Dark_Elves/scenarios/Hunt.cfg:99
 msgid ""
 "Our objective lies to the north as well, very well. Rally any Dhaerow "
 "capable of carrying weapons"
 msgstr ""
 
+#. [message]: description=Voldel
 #: Dark_Elves/scenarios/Hunt.cfg:103
 msgid "Of course my lord. Others will help you, just visit the villages."
 msgstr ""
 
+#. [message]: speaker=Gimmy
 #: Dark_Elves/scenarios/Hunt.cfg:110
 msgid ""
 "More of these darned cave Elves. Now assault in the name of Vladdy, and Clan "
 "Stormhammer!"
 msgstr ""
 
+#. [message]: description=Voldel
 #: Dark_Elves/scenarios/Hunt.cfg:120
 msgid ""
 "Good... We have the dog ready for the Clerics. They shall have more sport "
 "with him then they did with Vladdy."
 msgstr ""
 
+#. [message]: speaker=Gimmy
 #: Dark_Elves/scenarios/Hunt.cfg:124
 msgid "*gasp* Nooooooooo!"
 msgstr ""
 
+#. [message]: description=Voldel
 #: Dark_Elves/scenarios/Hunt.cfg:128
 msgid "Yes, little bearded one, oh yes."
 msgstr ""
 
+#. [message]: speaker=Varish'na
 #: Dark_Elves/scenarios/Hunt.cfg:132
 msgid "Still your tongue fool lest you be struck down."
 msgstr ""
 
+#. [message]: description=Voldel
 #: Dark_Elves/scenarios/Hunt.cfg:148
 msgid "At last our homes are saved for these stunted fools! "
 msgstr ""
 
+#. [message]: description=Varish'na
 #: Dark_Elves/scenarios/Hunt.cfg:152
 msgid "The peace is an illusion, there are more, far more coming."
 msgstr ""
 
+#. [message]: description=Voldel
 #: Dark_Elves/scenarios/Hunt.cfg:156
 msgid ""
 "I have nothing left, my family was slain by the Dwarves, and vengeance "
 "sounds good to me. I shall join you on your quest."
 msgstr ""
 
+#. [message]: description=Varish'na
 #: Dark_Elves/scenarios/Hunt.cfg:160
 msgid "Come if you will, but don't waste any more of my time."
 msgstr ""
 
+#. [message]: description=Voldel
 #: Dark_Elves/scenarios/Hunt.cfg:164
 msgid ""
 "The Dwarves shall know my vengance! With my mighty arrows and powerful "
@@ -346,59 +415,72 @@ msgid ""
 "shall kill the little hairy monsters without-"
 msgstr ""
 
+#. [message]: description=Varish'na
 #: Dark_Elves/scenarios/Hunt.cfg:168
 msgid "Silence, lest I have your tongue tore from your mouth!"
 msgstr ""
 
+#. [message]: description=Voldel
 #: Dark_Elves/scenarios/Hunt.cfg:173
 msgid "...sorry, my lord. \n"
 msgstr ""
 
+#. [message]: description=Varish'na
 #: Dark_Elves/scenarios/Hunt.cfg:177
 msgid "Come, onward!"
 msgstr ""
 
+#. [scenario]
 #: Dark_Elves/scenarios/Path.cfg:6
 msgid "Chosen Path"
 msgstr ""
 
+#. [side]: type=Dwarvish Steelclad, description=Rofel
 #: Dark_Elves/scenarios/Path.cfg:40
 msgid "Rofel"
 msgstr ""
 
+#. [objective]: condition=win
 #: Dark_Elves/scenarios/Path.cfg:51
 msgid "Hold out until help arrives(turn 20)"
 msgstr ""
 
+#. [objective]: condition=win
 #: Dark_Elves/scenarios/Path.cfg:59
 msgid "BONUS:Kill the dwarves before turn 20"
 msgstr ""
 
+#. [message]: description=Varish'na
 #: Dark_Elves/scenarios/Path.cfg:298
 msgid "Okay Vondel, which way?"
 msgstr ""
 
+#. [message]: description=Voldel
 #: Dark_Elves/scenarios/Path.cfg:302
 msgid ""
 "It depends on where you want to go. Do you even know where the Dwarvish army "
 "is?"
 msgstr ""
 
+#. [message]: description=Varish'na
 #: Dark_Elves/scenarios/Path.cfg:306
 msgid ""
 "No, actually not. My men won't take anyone alive, and we have no Clerics. I "
 "sent for reinforcements, but they won't arrive till later."
 msgstr ""
 
+#. [message]: description=Voldel
 #: Dark_Elves/scenarios/Path.cfg:310
 msgid "That's okay. I know a safe spot where we can hide and wait."
 msgstr ""
 
+#. [message]: description=Varish'na
 #: Dark_Elves/scenarios/Path.cfg:314
 msgid ""
 "WHAT!?! Dhaeraow hide? We are soldiers of the Tenth House, we, NEVER, hide!"
 msgstr ""
 
+#. [message]: description=Voldel
 #: Dark_Elves/scenarios/Path.cfg:318
 msgid ""
 "You may know more about warring, but I have a few notches when it comes to "
@@ -408,140 +490,171 @@ msgid ""
 "proceed carefully."
 msgstr ""
 
+#. [message]: description=Varish'na
 #: Dark_Elves/scenarios/Path.cfg:322
 msgid "Humph, very well. Your council is wise, lead us to this place."
 msgstr ""
 
+#. [message]: description=Voldel
 #: Dark_Elves/scenarios/Path.cfg:326
 msgid "It's north-east of here. Come on, this way"
 msgstr ""
 
+#. [unit]: type=Dark Elf Sorceress, description=Traya
 #: Dark_Elves/scenarios/Path.cfg:379 Dark_Elves/scenarios/Path.cfg:575
 msgid "Traya"
 msgstr ""
 
+#. [message]: description=Varish'na
 #: Dark_Elves/scenarios/Path.cfg:425
 msgid "They are relentless! Help better come soon or we'll be overrun!"
 msgstr ""
 
+#. [message]: description=Traya
 #: Dark_Elves/scenarios/Path.cfg:429
 msgid "Varish'na, where are you?"
 msgstr ""
 
+#. [message]: description=Varish'na
 #: Dark_Elves/scenarios/Path.cfg:433
 msgid "Traya? What are you doing here?"
 msgstr ""
 
+#. [message]: description=Traya
 #: Dark_Elves/scenarios/Path.cfg:437
 msgid "Later, we have some Dwarves to kill. Just let me remove this wall..."
 msgstr ""
 
+#. [message]: speaker=narrator
 #: Dark_Elves/scenarios/Path.cfg:441
 msgid "*ZAP*"
 msgstr ""
 
+#. [message]: description=Voldel
 #: Dark_Elves/scenarios/Path.cfg:460
 msgid "She is soo hot..."
 msgstr ""
 
+#. [message]: description=Varish'na
 #: Dark_Elves/scenarios/Path.cfg:464
 msgid "She is also my sister."
 msgstr ""
 
+#. [message]: description=Voldel
 #: Dark_Elves/scenarios/Path.cfg:468
 msgid "...uhhh..."
 msgstr ""
 
+#. [message]: speaker=narrator
 #: Dark_Elves/scenarios/Path.cfg:480
 msgid ""
 "You have recieved 100 gold and can now recruit Lizard-Riders and "
 "Enchantresses. Now go kick some hairy butt!"
 msgstr ""
 
+#. [message]: description=Traya
 #: Dark_Elves/scenarios/Path.cfg:517
 msgid "Thank goodness Varish'na you're all right!"
 msgstr ""
 
+#. [message]: description=Varish'na
 #: Dark_Elves/scenarios/Path.cfg:521
 msgid "Now maybe you can answer my question, why are you here?"
 msgstr ""
 
+#. [message]: description=Traya
 #: Dark_Elves/scenarios/Path.cfg:525 Dark_Elves/scenarios/Path.cfg:635
 msgid "It was father's doing. He thought you could use some company."
 msgstr ""
 
+#. [message]: description=Varish'na
 #: Dark_Elves/scenarios/Path.cfg:529 Dark_Elves/scenarios/Path.cfg:639
 msgid ""
 "But what of the Clerics? I thought you couldn't get away for another four "
 "years!"
 msgstr ""
 
+#. [message]: description=Traya
 #: Dark_Elves/scenarios/Path.cfg:533 Dark_Elves/scenarios/Path.cfg:643
 msgid ""
 "It seems we both have a knack for getting into trouble. Iselas and I got in "
 "a bit of trouble."
 msgstr ""
 
+#. [message]: description=Varish'na
 #: Dark_Elves/scenarios/Path.cfg:537 Dark_Elves/scenarios/Path.cfg:647
 msgid "Iselas! What has he done now?"
 msgstr ""
 
+#. [message]: description=Traya
 #: Dark_Elves/scenarios/Path.cfg:541 Dark_Elves/scenarios/Path.cfg:651
 msgid "Hush! This is not for outsiders to hear."
 msgstr ""
 
+#. [message]: description=Voldel
 #: Dark_Elves/scenarios/Path.cfg:545 Dark_Elves/scenarios/Path.cfg:655
 msgid ""
 "Huh? Oh, don't mind me beautiful, I don't hear anything except the pounding "
 "of my heart."
 msgstr ""
 
+#. [message]: description=Varish'na
 #: Dark_Elves/scenarios/Path.cfg:549 Dark_Elves/scenarios/Path.cfg:659
 msgid "Voldel..."
 msgstr ""
 
+#. [message]: description=Traya
 #: Dark_Elves/scenarios/Path.cfg:553 Dark_Elves/scenarios/Path.cfg:663
 msgid ""
 "Maybe we'll talk about this later Varish'na. We have more pressing matters "
 "to attend to. Come, let us continue."
 msgstr ""
 
+#. [message]: description=Varish'na
 #: Dark_Elves/scenarios/Path.cfg:623
 msgid ""
 "Our troops have indeed proven themselves today. They took care of those foul "
 "creatures like old veterans."
 msgstr ""
 
+#. [message]: description=Traya
 #: Dark_Elves/scenarios/Path.cfg:627
 msgid "Varish'na! Are you all right?"
 msgstr ""
 
+#. [message]: description=Varish'na
 #: Dark_Elves/scenarios/Path.cfg:631
 msgid "Trya?! What are you doing here?"
 msgstr ""
 
+#. [scenario]
 #: Dark_Elves/scenarios/Relentless.cfg:5
 msgid "Relentless"
 msgstr ""
 
+#. [side]: type=Dwarvish Steelclad, description=Gomatas
 #: Dark_Elves/scenarios/Relentless.cfg:38
 msgid "Gomatas"
 msgstr ""
 
+#. [side]: type=Dwarvish Steelclad, description=Antha
 #: Dark_Elves/scenarios/Relentless.cfg:51
 msgid "Antha"
 msgstr ""
 
+#. [objective]: condition=win
 #: Dark_Elves/scenarios/Relentless.cfg:70
 msgid "Kill all Dwarvish Leaders"
 msgstr ""
 
+#. [message]: description=Varish'na
 #: Dark_Elves/scenarios/Relentless.cfg:94
 msgid ""
 "This is worse then I thought. We are only a weeks journey from home, and "
 "look at all these Dwarves!"
 msgstr ""
 
+#. [message]: description=Voldel
 #: Dark_Elves/scenarios/Relentless.cfg:98
 msgid ""
 "I agree, there are a lot of them. Luckily for you, I know every inch of this "
@@ -549,131 +662,160 @@ msgid ""
 "the First Years. It is old, but it still serves its purpose."
 msgstr ""
 
+#. [message]: description=Varish'na
 #: Dark_Elves/scenarios/Relentless.cfg:102
 msgid "Then we must hurry, before the Dwarves overcome us!"
 msgstr ""
 
+#. [message]: description=Gomatas
 #: Dark_Elves/scenarios/Relentless.cfg:106
 msgid "Muahhahahah! Kill the Elves!"
 msgstr ""
 
+#. [message]: description=Antha
 #: Dark_Elves/scenarios/Relentless.cfg:110
 msgid "You shall all die!!"
 msgstr ""
 
+#. [message]: description=Varish'na
 #: Dark_Elves/scenarios/Relentless.cfg:120
 msgid "There must be more of them, we have yet to hit the advance guard."
 msgstr ""
 
+#. [message]: description=Voldel
 #: Dark_Elves/scenarios/Relentless.cfg:124
 msgid ""
 "Let them come. We will rip them to shreds. Hunting the enemy is my specialty!"
 msgstr ""
 
+#. [message]: description=Varish'na
 #: Dark_Elves/scenarios/Relentless.cfg:128
 msgid ""
 "We must proceed carefully. The fugitives will have spread word of our "
 "coming, and we may be ambushed."
 msgstr ""
 
+#. [message]: description=Voldel
 #: Dark_Elves/scenarios/Relentless.cfg:132
 msgid ""
 "The tunnels ahead have not been traversed for quite some time now. That is "
 "where I would often go to do my hunting, the larger creatures reside there."
 msgstr ""
 
+#. [message]: description=Varish'na
 #: Dark_Elves/scenarios/Relentless.cfg:136
 msgid ""
 "Great, Dwarves and monsters. Well, we don't seem to have much choice. Let us "
 "keep going."
 msgstr ""
 
+#. [scenario]
 #: Dark_Elves/scenarios/Time.cfg:5
 msgid "Just in Time"
 msgstr ""
 
+#. [scenario]
 #: Dark_Elves/scenarios/Time.cfg:29
 msgid "Grimy"
 msgstr ""
 
+#. [scenario]
 #: Dark_Elves/scenarios/Time.cfg:30
 msgid "Thowrowal"
 msgstr ""
 
+#. [objective]: condition=win
 #: Dark_Elves/scenarios/Time.cfg:38
 msgid "Defeat the Enemy Leaders"
 msgstr ""
 
+#. [message]: description=Voldel
 #: Dark_Elves/scenarios/Time.cfg:69
 msgid "And here are the dwarves, Lord Varish'na."
 msgstr ""
 
+#. [message]: description=Traya
 #: Dark_Elves/scenarios/Time.cfg:73
 msgid "There are a great many of them, are you certain this is a good idea?"
 msgstr ""
 
+#. [message]: description=Varish'na
 #: Dark_Elves/scenarios/Time.cfg:77
 msgid "It does not matter, we've been spotted."
 msgstr ""
 
+#. [message]: description=Grimy
 #: Dark_Elves/scenarios/Time.cfg:81
 msgid "Big words for such a small elf"
 msgstr ""
 
+#. [message]: description=Voldel
 #: Dark_Elves/scenarios/Time.cfg:85
 msgid ""
 "Look, the midget calls us small, he apparently has a lack of reflective "
 "surfaces handy."
 msgstr ""
 
+#. [message]: description=Thowrowal
 #: Dark_Elves/scenarios/Time.cfg:89
 msgid "Taste my steel and die, dark one!"
 msgstr ""
 
+#. [message]: type=Dwarvish Steelclad
 #: Dark_Elves/scenarios/Time.cfg:98
 msgid "What? Why am I still alive?"
 msgstr ""
 
+#. [message]: description=Varish'na
 #: Dark_Elves/scenarios/Time.cfg:102
 msgid ""
 "Because I preserved your life. You're too wonderful a Dwarf to let die. Such "
 "big muscles, such big..."
 msgstr ""
 
+#. [message]: type=Dwarvish Steelclad
 #: Dark_Elves/scenarios/Time.cfg:106
 msgid "Forget it. I know what you want! I'll kill myself first!"
 msgstr ""
 
+#. [message]: description=Traya
 #: Dark_Elves/scenarios/Time.cfg:110
 msgid "If you tell me your secrets I'll tell you mine."
 msgstr ""
 
+#. [message]: type=Dwarvish Steelclad
 #: Dark_Elves/scenarios/Time.cfg:114
 msgid ""
 "Hah! Think I'd fall for that old trick! With your soft white skin, silky "
 "black hair, smooth lips, and beautiful--No! I'll tell you nothing! *Gahh...!*"
 msgstr ""
 
+#. [message]: description=Traya
 #: Dark_Elves/scenarios/Time.cfg:118
 msgid "Oh well, guess I'll have to do this the hard way."
 msgstr ""
 
+#. [message]: description=Voldel
 #: Dark_Elves/scenarios/Time.cfg:122
 msgid "Do you ever wish she wasn't your sister so you could, you know..."
 msgstr ""
 
+#. [message]: description=Varish'na
 #: Dark_Elves/scenarios/Time.cfg:126
 msgid "You are disgusting Vondel."
 msgstr ""
 
+#. [message]: speaker=unit
 #: Dark_Elves/scenarios/Time.cfg:136
 msgid "Curse you, you durned Dark Elf... May you rot in Hythenglim for this..."
 msgstr ""
 
+#. [unit]: race=dark elf
 #: Dark_Elves/units/Dark_Elf_Captain.cfg:4
 msgid "Dark Elf Captain"
 msgstr ""
 
+#. [unit]: race=dark elf
 #: Dark_Elves/units/Dark_Elf_Captain.cfg:19
 msgid ""
 "These Elves have been an example to their fellow soldiers, and have gained "
@@ -682,48 +824,12 @@ msgid ""
 "spears."
 msgstr ""
 
-#: Dark_Elves/units/Dark_Elf_Corsair.cfg:20
-#: Dark_Elves/units/Dark_Elf_Fighter.cfg:48
-#: Dark_Elves/units/Dark_Elf_Warrior.cfg:19
-#: Dark_Elves/units/Dark_Elf_Marshal.cfg:23
-#: Dark_Elves/units/Dark_Elf_Captain.cfg:22
-msgid "sword"
-msgstr ""
-
-#: Dark_Elves/units/Dark_Elf_Corsair.cfg:21
-#: Dark_Elves/units/Dark_Elf_Shadow.cfg:23
-#: Dark_Elves/units/Dark_Elf_Stalker.cfg:24
-#: Dark_Elves/units/Dark_Elf_Fighter.cfg:49
-#: Dark_Elves/units/Dark_Elf_Lizard_Rider.cfg:69
-#: Dark_Elves/units/Dark_Elf_Hunter.cfg:52
-#: Dark_Elves/units/Dark_Elf_Warrior.cfg:20
-#: Dark_Elves/units/Dark_Elf_Marshal.cfg:24
-#: Dark_Elves/units/Dark_Elf_Lizard_Master.cfg:44
-#: Dark_Elves/units/Dark_Elf_Captain.cfg:23
-msgid "blade"
-msgstr ""
-
-#: Dark_Elves/units/Dark_Elf_Marshal.cfg:53
-#: Dark_Elves/units/Dark_Elf_Marshal.cfg:83
-#: Dark_Elves/units/Dark_Elf_Captain.cfg:52
-msgid "spear"
-msgstr ""
-
-#: Dark_Elves/units/Dark_Elf_Shadow.cfg:43
-#: Dark_Elves/units/Dark_Elf_Stalker.cfg:44
-#: Dark_Elves/units/Dark_Elf_Lizard_Rider.cfg:51
-#: Dark_Elves/units/Dark_Elf_Hunter.cfg:72
-#: Dark_Elves/units/Dark_Elf_Marshal.cfg:54
-#: Dark_Elves/units/Dark_Elf_Marshal.cfg:84
-#: Dark_Elves/units/Dark_Elf_Lizard_Master.cfg:21
-#: Dark_Elves/units/Dark_Elf_Captain.cfg:53
-msgid "pierce"
-msgstr ""
-
+#. [unit]: race=dark elf
 #: Dark_Elves/units/Dark_Elf_Cleric.cfg:4
 msgid "female^Dark Elf Cleric"
 msgstr ""
 
+#. [unit]: race=dark elf
 #: Dark_Elves/units/Dark_Elf_Cleric.cfg:21
 msgid ""
 "A Cleric is adapt at both their magical abilities and the use of their "
@@ -732,33 +838,7 @@ msgid ""
 "feared and admired for their beauty and cruelty."
 msgstr ""
 
-#: Dark_Elves/units/Dark_Elf_Cleric.cfg:24
-#: Dark_Elves/units/Dark_Elf_Sorceress.cfg:23
-#: Dark_Elves/units/Dark_Elf_Enchantress.cfg:20
-msgid "mace"
-msgstr ""
-
-#: Dark_Elves/units/Dark_Elf_Cleric.cfg:25
-#: Dark_Elves/units/Dark_Elf_Sorceress.cfg:24
-#: Dark_Elves/units/Dark_Elf_Enchantress.cfg:21
-msgid "impact"
-msgstr ""
-
-#: Dark_Elves/units/Dark_Elf_Wizard.cfg:20
-#: Dark_Elves/units/Dark_Elf_Cleric.cfg:54
-#: Dark_Elves/units/Dark_Elf_Sorcerer.cfg:20
-#: Dark_Elves/units/Dark_Elf_Warlock.cfg:30
-#: Dark_Elves/units/Dark_Elf_Sorceress.cfg:53
-#: Dark_Elves/units/Dark_Elf_Enchantress.cfg:50
-msgid "magic"
-msgstr ""
-
-#: Dark_Elves/units/Dark_Elf_Cleric.cfg:55
-#: Dark_Elves/units/Dark_Elf_Sorceress.cfg:54
-#: Dark_Elves/units/Dark_Elf_Enchantress.cfg:51
-msgid "fire"
-msgstr ""
-
+#. [unit]: race=dark elf
 #: Dark_Elves/units/Dark_Elf_Corsair.cfg:17
 msgid ""
 "No single being can stand before a Dark Elf Corsair. If you every see one, "
@@ -766,10 +846,12 @@ msgid ""
 "beard."
 msgstr ""
 
+#. [unit]: race=dark elf
 #: Dark_Elves/units/Dark_Elf_Enchantress.cfg:4
 msgid "female^Dark Elf Enchantress"
 msgstr ""
 
+#. [unit]: race=dark elf
 #: Dark_Elves/units/Dark_Elf_Enchantress.cfg:17
 msgid ""
 "The women of the Dark Elves often join the Order of the Clerics at a very "
@@ -779,6 +861,7 @@ msgid ""
 "Sorceress."
 msgstr ""
 
+#. [unit]: race=dark elf
 #: Dark_Elves/units/Dark_Elf_Fighter.cfg:23
 msgid ""
 "The initiates in their House army, many Fighters die because of lack of "
@@ -786,30 +869,24 @@ msgid ""
 "fighting for the Matron Mother."
 msgstr ""
 
+#. [unit]: race=dark elf
 #: Dark_Elves/units/Dark_Elf_Hunter.cfg:4
 msgid "Dark Elf Hunter"
 msgstr ""
 
+#. [unit]: race=dark elf
 #: Dark_Elves/units/Dark_Elf_Hunter.cfg:26
 msgid ""
 "Lurking in the ever dark depths of the caves, the Hunters move around with "
 "out a sound, except for the twang of their crossbows."
 msgstr ""
 
-#: Dark_Elves/units/Dark_Elf_Shadow.cfg:22
-#: Dark_Elves/units/Dark_Elf_Stalker.cfg:23
-#: Dark_Elves/units/Dark_Elf_Hunter.cfg:51
-msgid "dagger"
-msgstr ""
-
-#: Dark_Elves/units/Dark_Elf_Hunter.cfg:71
-msgid "bow"
-msgstr ""
-
+#. [unit]: race=dark elf
 #: Dark_Elves/units/Dark_Elf_Lizard_Master.cfg:4
 msgid "Dark Elf Lizard-Master"
 msgstr ""
 
+#. [unit]: race=dark elf
 #: Dark_Elves/units/Dark_Elf_Lizard_Master.cfg:17
 msgid ""
 "Though the Lizards are not as fast as horses, they are much more powerful. "
@@ -817,19 +894,12 @@ msgid ""
 "recruit several of these powerful units."
 msgstr ""
 
-#: Dark_Elves/units/Dark_Elf_Lizard_Rider.cfg:50
-#: Dark_Elves/units/Dark_Elf_Lizard_Master.cfg:20
-msgid "deathlance"
-msgstr ""
-
-#: Dark_Elves/units/Dark_Elf_Lizard_Master.cfg:43
-msgid "bite"
-msgstr ""
-
+#. [unit]: race=dark elf
 #: Dark_Elves/units/Dark_Elf_Lizard_Rider.cfg:4
 msgid "Dark Elf Lizard-Rider"
 msgstr ""
 
+#. [unit]: race=dark elf
 #: Dark_Elves/units/Dark_Elf_Lizard_Rider.cfg:30
 msgid ""
 "From childhood, they have been training with their beast, feeding it, "
@@ -838,14 +908,12 @@ msgid ""
 "Master of the Lizard."
 msgstr ""
 
-#: Dark_Elves/units/Dark_Elf_Lizard_Rider.cfg:68
-msgid "claw"
-msgstr ""
-
+#. [unit]: race=dark elf
 #: Dark_Elves/units/Dark_Elf_Marshal.cfg:4
 msgid "Dark Elf Marshal"
 msgstr ""
 
+#. [unit]: race=dark elf
 #: Dark_Elves/units/Dark_Elf_Marshal.cfg:20
 msgid ""
 "These Elves have proven themselves on and off the battle field with their "
@@ -854,10 +922,12 @@ msgid ""
 "defend the Matron Mother with their swords and short spears."
 msgstr ""
 
+#. [unit]: race=dark elf
 #: Dark_Elves/units/Dark_Elf_Shadow.cfg:4
 msgid "Dark Elf Shadow"
 msgstr ""
 
+#. [unit]: race=dark elf
 #: Dark_Elves/units/Dark_Elf_Shadow.cfg:19
 msgid ""
 "Staying hidden safe in the shadows of the caves, they will hit you when you "
@@ -865,15 +935,12 @@ msgid ""
 "time, slowly taking the life away from their prey ."
 msgstr ""
 
-#: Dark_Elves/units/Dark_Elf_Shadow.cfg:42
-#: Dark_Elves/units/Dark_Elf_Stalker.cfg:43
-msgid "crossbow"
-msgstr ""
-
+#. [unit]: race=dark elf
 #: Dark_Elves/units/Dark_Elf_Sorcerer.cfg:4
 msgid "Dark Elf Sorcerer"
 msgstr ""
 
+#. [unit]: race=dark elf
 #: Dark_Elves/units/Dark_Elf_Sorcerer.cfg:17
 msgid ""
 "Sorcerers are Wizards that have gone deeper into the studying of the arcane "
@@ -882,17 +949,12 @@ msgid ""
 "Their mighty cold blast can freeze any foe that dares to cross their path."
 msgstr ""
 
-#: Dark_Elves/units/Dark_Elf_Wizard.cfg:21
-#: Dark_Elves/units/Dark_Elf_Sorcerer.cfg:21
-#: Dark_Elves/units/Dark_Elf_Warlock.cfg:21
-#: Dark_Elves/units/Dark_Elf_Warlock.cfg:31
-msgid "cold"
-msgstr ""
-
+#. [unit]: race=dark elf
 #: Dark_Elves/units/Dark_Elf_Sorceress.cfg:4
 msgid "female^Dark Elf Sorceress"
 msgstr ""
 
+#. [unit]: race=dark elf
 #: Dark_Elves/units/Dark_Elf_Sorceress.cfg:20
 msgid ""
 "The women of the Dark Elves often join the Order of the Clerics at a very "
@@ -902,10 +964,12 @@ msgid ""
 "torturers."
 msgstr ""
 
+#. [unit]: race=dark elf
 #: Dark_Elves/units/Dark_Elf_Stalker.cfg:4
 msgid "Dark Elf Stalker"
 msgstr ""
 
+#. [unit]: race=dark elf
 #: Dark_Elves/units/Dark_Elf_Stalker.cfg:20
 msgid ""
 "Cunning, agile warriors, the Stalkers are powerful in both the use of their "
@@ -913,10 +977,12 @@ msgid ""
 "thud of a dead body tells you they are near."
 msgstr ""
 
+#. [unit]: race=dark elf
 #: Dark_Elves/units/Dark_Elf_Warlock.cfg:4
 msgid "Dark Elf Warlock"
 msgstr ""
 
+#. [unit]: race=dark elf
 #: Dark_Elves/units/Dark_Elf_Warlock.cfg:17
 msgid ""
 "The best of their kind, these Warlocks have immense power, rivaling even "
@@ -925,10 +991,7 @@ msgid ""
 "and add it to their own."
 msgstr ""
 
-#: Dark_Elves/units/Dark_Elf_Warlock.cfg:20
-msgid "touch"
-msgstr ""
-
+#. [unit]: race=dark elf
 #: Dark_Elves/units/Dark_Elf_Warrior.cfg:16
 msgid ""
 "These Warriors have devoted themselves totally to mastering the use of dual "
@@ -936,10 +999,12 @@ msgid ""
 "Corsairs."
 msgstr ""
 
+#. [unit]: race=dark elf
 #: Dark_Elves/units/Dark_Elf_Wizard.cfg:4
 msgid "Dark Elf Wizard"
 msgstr ""
 
+#. [unit]: race=dark elf
 #: Dark_Elves/units/Dark_Elf_Wizard.cfg:17
 msgid ""
 "Some Dark Elves prefer studying the arcane arts over close-combat. Usually "
